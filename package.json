@@ -1,0 +1,8 @@
+{
+  "name": "boxing-availability",
+  "private": true,
+  "description": "Checks clinic booking pages a few times a day and publishes free BCR1 slots for boxingmedicals.co.uk",
+  "dependencies": {
+    "playwright": "1.48.2"
+  }
+}
