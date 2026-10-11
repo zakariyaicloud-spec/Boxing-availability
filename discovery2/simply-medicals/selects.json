@@ -1,0 +1,488 @@
+[
+ {
+  "cls": "",
+  "name": "",
+  "options": [
+   {
+    "v": "0",
+    "t": "Select location"
+   },
+   {
+    "v": "5",
+    "t": "Birmingham - Edgbaston/Smethwick - Same Day Appointments Available"
+   },
+   {
+    "v": "3",
+    "t": "Birmingham - Garretts Green/Sheldon"
+   },
+   {
+    "v": "78",
+    "t": "Alfreton"
+   },
+   {
+    "v": "92",
+    "t": "Aylesbury"
+   },
+   {
+    "v": "27",
+    "t": "Banbury"
+   },
+   {
+    "v": "63",
+    "t": "Basingstoke"
+   },
+   {
+    "v": "41",
+    "t": "Bedford"
+   },
+   {
+    "v": "85",
+    "t": "Bournemouth"
+   },
+   {
+    "v": "73",
+    "t": "Braintree"
+   },
+   {
+    "v": "37",
+    "t": "Bridgend"
+   },
+   {
+    "v": "21",
+    "t": "Bristol"
+   },
+   {
+    "v": "30",
+    "t": "Burton on Trent"
+   },
+   {
+    "v": "69",
+    "t": "Bury St. Edmunds / Thetford"
+   },
+   {
+    "v": "68",
+    "t": "Cambridge"
+   },
+   {
+    "v": "6",
+    "t": "Cannock"
+   },
+   {
+    "v": "38",
+    "t": "Cardiff"
+   },
+   {
+    "v": "74",
+    "t": "Chelmsford / Basildon"
+   },
+   {
+    "v": "19",
+    "t": "Cheltenham"
+   },
+   {
+    "v": "58",
+    "t": "Chippenham"
+   },
+   {
+    "v": "59",
+    "t": "Cirencester"
+   },
+   {
+    "v": "76",
+    "t": "Coalville / Swadlincote"
+   },
+   {
+    "v": "72",
+    "t": "Colchester"
+   },
+   {
+    "v": "48",
+    "t": "Crewe"
+   },
+   {
+    "v": "33",
+    "t": "Derby"
+   },
+   {
+    "v": "2",
+    "t": "Droitwich"
+   },
+   {
+    "v": "10",
+    "t": "Dudley - Kingswinford"
+   },
+   {
+    "v": "91",
+    "t": "Fareham / Portsmouth"
+   },
+   {
+    "v": "99",
+    "t": "Felixstowe"
+   },
+   {
+    "v": "60",
+    "t": "Gloucester"
+   },
+   {
+    "v": "82",
+    "t": "Hatfield"
+   },
+   {
+    "v": "66",
+    "t": "High Wycombe"
+   },
+   {
+    "v": "79",
+    "t": "Hemel Hempstead"
+   },
+   {
+    "v": "97",
+    "t": "Hereford"
+   },
+   {
+    "v": "71",
+    "t": "Ipswich"
+   },
+   {
+    "v": "67",
+    "t": "Kettering"
+   },
+   {
+    "v": "53",
+    "t": "Leicester"
+   },
+   {
+    "v": "93",
+    "t": "Leighton Buzzard"
+   },
+   {
+    "v": "29",
+    "t": "Lichfield"
+   },
+   {
+    "v": "49",
+    "t": "Lincoln"
+   },
+   {
+    "v": "75",
+    "t": "Loughborough"
+   },
+   {
+    "v": "40",
+    "t": "Luton"
+   },
+   {
+    "v": "51",
+    "t": "Mansfield"
+   },
+   {
+    "v": "89",
+    "t": "Merthyr Tydfil"
+   },
+   {
+    "v": "42",
+    "t": "Milton Keynes"
+   },
+   {
+    "v": "84",
+    "t": "Nantwich"
+   },
+   {
+    "v": "50",
+    "t": "Newark"
+   },
+   {
+    "v": "26",
+    "t": "Newbury"
+   },
+   {
+    "v": "39",
+    "t": "Newport"
+   },
+   {
+    "v": "70",
+    "t": "Norwich"
+   },
+   {
+    "v": "52",
+    "t": "Nottingham"
+   },
+   {
+    "v": "54",
+    "t": "Nuneaton / Hinckley"
+   },
+   {
+    "v": "16",
+    "t": "Oldbury (Thursday afternoon)"
+   },
+   {
+    "v": "46",
+    "t": "Oswestry"
+   },
+   {
+    "v": "24",
+    "t": "Oxford"
+   },
+   {
+    "v": "90",
+    "t": "Portsmouth / Fareham"
+   },
+   {
+    "v": "64",
+    "t": "Reading"
+   },
+   {
+    "v": "7",
+    "t": "Redditch"
+   },
+   {
+    "v": "88",
+    "t": "Ross-On-Wye"
+   },
+   {
+    "v": "43",
+    "t": "Rugby"
+   },
+   {
+    "v": "94",
+    "t": "Rushden"
+   },
+   {
+    "v": "86",
+    "t": "Salisbury"
+   },
+   {
+    "v": "45",
+    "t": "Shrewsbury"
+   },
+   {
+    "v": "65",
+    "t": "Slough"
+   },
+   {
+    "v": "13",
+    "t": "Solihull"
+   },
+   {
+    "v": "62",
+    "t": "Southampton"
+   },
+   {
+    "v": "80",
+    "t": "St Albans"
+   },
+   {
+    "v": "35",
+    "t": "Stafford"
+   },
+   {
+    "v": "81",
+    "t": "Stevenage"
+   },
+   {
+    "v": "34",
+    "t": "Stoke-on-Trent"
+   },
+   {
+    "v": "36",
+    "t": "Swansea"
+   },
+   {
+    "v": "23",
+    "t": "Swindon"
+   },
+   {
+    "v": "77",
+    "t": "Swadlincote / Coalville"
+   },
+   {
+    "v": "12",
+    "t": "Tamworth"
+   },
+   {
+    "v": "15",
+    "t": "Telford"
+   },
+   {
+    "v": "61",
+    "t": "Tewkesbury"
+   },
+   {
+    "v": "11",
+    "t": "Walsall - Brownhills"
+   },
+   {
+    "v": "87",
+    "t": "Warminster"
+   },
+   {
+    "v": "28",
+    "t": "Warwick"
+   },
+   {
+    "v": "95",
+    "t": "Wellingborough"
+   },
+   {
+    "v": "83",
+    "t": "Welwyn"
+   },
+   {
+    "v": "4",
+    "t": "West Bromwich"
+   },
+   {
+    "v": "1",
+    "t": "Wolverhampton - Willenhall"
+   },
+   {
+    "v": "17",
+    "t": "Worcester"
+   },
+   {
+    "v": "47",
+    "t": "Wrexham"
+   }
+  ]
+ },
+ {
+  "cls": "bookly-js-select-time-from",
+  "name": "",
+  "options": [
+   {
+    "v": "07:30",
+    "t": "07:30"
+   },
+   {
+    "v": "08:00",
+    "t": "08:00"
+   },
+   {
+    "v": "09:00",
+    "t": "09:00"
+   },
+   {
+    "v": "10:00",
+    "t": "10:00"
+   },
+   {
+    "v": "11:00",
+    "t": "11:00"
+   },
+   {
+    "v": "12:00",
+    "t": "12:00"
+   },
+   {
+    "v": "13:00",
+    "t": "13:00"
+   },
+   {
+    "v": "14:00",
+    "t": "14:00"
+   },
+   {
+    "v": "15:00",
+    "t": "15:00"
+   },
+   {
+    "v": "16:00",
+    "t": "16:00"
+   },
+   {
+    "v": "17:00",
+    "t": "17:00"
+   },
+   {
+    "v": "18:00",
+    "t": "18:00"
+   },
+   {
+    "v": "19:00",
+    "t": "19:00"
+   },
+   {
+    "v": "20:00",
+    "t": "20:00"
+   },
+   {
+    "v": "21:00",
+    "t": "21:00"
+   },
+   {
+    "v": "22:00",
+    "t": "22:00"
+   }
+  ]
+ },
+ {
+  "cls": "bookly-js-select-time-to",
+  "name": "",
+  "options": [
+   {
+    "v": "07:30",
+    "t": "07:30"
+   },
+   {
+    "v": "08:00",
+    "t": "08:00"
+   },
+   {
+    "v": "09:00",
+    "t": "09:00"
+   },
+   {
+    "v": "10:00",
+    "t": "10:00"
+   },
+   {
+    "v": "11:00",
+    "t": "11:00"
+   },
+   {
+    "v": "12:00",
+    "t": "12:00"
+   },
+   {
+    "v": "13:00",
+    "t": "13:00"
+   },
+   {
+    "v": "14:00",
+    "t": "14:00"
+   },
+   {
+    "v": "15:00",
+    "t": "15:00"
+   },
+   {
+    "v": "16:00",
+    "t": "16:00"
+   },
+   {
+    "v": "17:00",
+    "t": "17:00"
+   },
+   {
+    "v": "18:00",
+    "t": "18:00"
+   },
+   {
+    "v": "19:00",
+    "t": "19:00"
+   },
+   {
+    "v": "20:00",
+    "t": "20:00"
+   },
+   {
+    "v": "21:00",
+    "t": "21:00"
+   },
+   {
+    "v": "22:00",
+    "t": "22:00"
+   }
+  ]
+ }
+]
