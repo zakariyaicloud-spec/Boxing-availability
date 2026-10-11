@@ -128,9 +128,8 @@ async function dr4d4(browser) {
 const SIMPLY = [
   { id: 'sm-oldbury', match: /^oldbury/i },
   { id: 'sm-droitwich', match: /^droitwich/i },
-  { id: 'sm-garretts', match: /garretts green/i },
-  { id: 'sm-wbrom', match: /^west bromwich/i },
-  { id: 'sm-willenhall', match: /willenhall/i },
+  // Garretts Green, West Bromwich and Willenhall don't open a time step for boxing
+  // medicals online, so they stay "request a time" on the website.
 ];
 function parseBookly(html, days) {
   // Each free time is a button whose value holds "YYYY-MM-DD HH:MM:SS".
@@ -166,14 +165,23 @@ async function simply(browser) {
         await page.locator('.bookly-form .bookly-js-next-step >> visible=true').first().click({ timeout: 15000 });
         await page.waitForTimeout(6000);
       }
-      // Load a few more days of times if the form offers a "next" arrow.
-      for (let i = 0; i < 3; i++) {
-        const nxt = page.locator('.bookly-form .bookly-time-next >> visible=true').first();
-        if (!(await nxt.count())) break;
-        await nxt.click({ timeout: 8000 }).catch(() => {});
-        await page.waitForTimeout(4000);
+      // The time step shows a month calendar. Click each open day (this month and next)
+      // and collect the times shown for it.
+      let formHtml = '';
+      for (let month = 0; month < 2; month++) {
+        const open = page.locator('.bookly-form .bookly-calendar-dates-mark div.bookly-calendar-current-month-mark[disabled="false"]');
+        const n = await open.count();
+        for (let i = 0; i < n; i++) {
+          await open.nth(i).click({ timeout: 8000 }).catch(() => {});
+          await page.waitForTimeout(2500);
+          formHtml += await page.locator('.bookly-form').first().innerHTML().catch(() => '');
+        }
+        const right = page.locator('.bookly-form .bookly-calendar-right-button-mark >> visible=true').first();
+        if (!(await right.count())) break;
+        await right.click({ timeout: 8000 }).catch(() => {});
+        await page.waitForTimeout(5000);
       }
-      const formHtml = await page.locator('.bookly-form').first().innerHTML().catch(() => '');
+      formHtml += await page.locator('.bookly-form').first().innerHTML().catch(() => '');
       fs.writeFileSync(`${DEBUG}/simply-${c.id}.html`, (htmls.join('\n<!-- next -->\n') + '\n<!-- form -->\n' + formHtml).slice(0, 300000));
       const days = {};
       htmls.forEach((h) => parseBookly(h, days));
