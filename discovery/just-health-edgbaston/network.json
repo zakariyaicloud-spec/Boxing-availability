@@ -1,0 +1,352 @@
+{
+ "url": "https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=16",
+ "frames": [
+  "https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=16"
+ ],
+ "log": [
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=16",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyAcEorr6AmgkY-lwX4QkOkLHihrrWQgwjo&libraries=places&callback=bkInitMaps&loading=async",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://web-sdk.smartlook.com/recorder.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://booking.just-health.co.uk/book/location-services?clinic_location_id=16",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=16",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://booking.just-health.co.uk/book/available-dates?clinic_location_id=16&service_id=13",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=16",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://web-sdk.smartlook.com/es6/init.9207427f95fa799d6604.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://booking.just-health.co.uk",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b/intl/en_gb/places_impl.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b/intl/en_gb/places.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b/intl/en_gb/controls.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b/intl/en_gb/common.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b/intl/en_gb/util.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b/intl/en_gb/main.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "POST",
+   "url": "https://www.google.com/rmkt/collect/18225923845/?random=1791754003395&cv=11&fst=1791754003395&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v9254964412za208zd9254964412xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1280&u_h=900&url=https%3A%2F%2Fbooking.just-health.co.uk%2Fbook%3Fser%3Dboxing-medical-england-boxing-bcr1%26clinic%3D16&rcb=1&frm=0&tiba=Book%20Your%20D4%20HGV%20Medical%20%E2%80%93%20Just%20Health&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1990661157.1791754003&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "POST",
+   "url": "https://www.google.com/rmkt/collect/18057086949/?random=1791754003418&cv=11&fst=1791754003418&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v9254964412za208zd9254964412xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1280&u_h=900&url=https%3A%2F%2Fbooking.just-health.co.uk%2Fbook%3Fser%3Dboxing-medical-england-boxing-bcr1%26clinic%3D16&rcb=1&frm=0&tiba=Book%20Your%20D4%20HGV%20Medical%20%E2%80%93%20Just%20Health&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1990661157.1791754003&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fbooking.just-health.co.uk%2Fbook&4sAIzaSyAcEorr6AmgkY-lwX4QkOkLHihrrWQgwjo&8b0&callback=_xdc_._fcv4e&key=AIzaSyAcEorr6AmgkY-lwX4QkOkLHihrrWQgwjo&token=89755",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "POST",
+   "url": "https://www.google.com/rmkt/collect/875355223/?random=1791754003548&cv=11&fst=1791754003548&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72h1v9134305089za208zb9254964412zd9254964412xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1280&u_h=900&url=https%3A%2F%2Fbooking.just-health.co.uk%2Fbook%3Fser%3Dboxing-medical-england-boxing-bcr1%26clinic%3D16&rcb=0&frm=0&tiba=Book%20Your%20D4%20HGV%20Medical%20%E2%80%93%20Just%20Health&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1990661157.1791754003&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "POST",
+   "url": "https://www.google.com/rmkt/collect/18057086949/?random=1791754003604&cv=11&fst=1791754003604&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6a72h1v9254964412za200zd9254964412xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&u_w=1280&u_h=900&url=https%3A%2F%2Fbooking.just-health.co.uk%2Fbook%3Fser%3Dboxing-medical-england-boxing-bcr1%26clinic%3D16&rcb=1&frm=0&tiba=Book%20Your%20D4%20HGV%20Medical%20%E2%80%93%20Just%20Health&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1990661157.1791754003&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dform_start&gap.fsrc=1&ept=68&gcp=5",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{}\n"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://booking.just-health.co.uk/book/location-services?clinic_location_id=16",
+   "contentType": "application/json",
+   "body": "{\"featured\":[{\"id\":\"2\",\"name\":\"HGV \\/ PCV \\/ D4 Driver Medical\",\"slug\":\"hgv-pcv-d4-driver-medical\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a350\",\"duration\":\"10 minutes\",\"featured\":true},{\"id\":\"8\",\"name\":\"Motorsport UK Medical (No ECG)\",\"slug\":\"motorsport-uk-medical-no-ecg\",\"category\":\"Motorsport UK \\/ ACU Motorbike racing \\/ Marathon Medical \\/ Horiba Mira\",\"price\":\"\\u00a375\",\"duration\":\"15 minutes\",\"featured\":true},{\"id\":\"5\",\"name\":\"Taxi Driver Private Hire Medical\",\"slug\":\"taxi-driver-private-hire-medical\",\"category\":\"TAXI Hackney Private Hire TFL PCO Medical\",\"price\":\"\\u00a360\",\"duration\":\"10 minutes\",\"featured\":true}],\"featured_label\":\"Most popular\",\"services\":[{\"id\":\"55\",\"name\":\"ACU Motorbike (No ECG)\",\"slug\":\"acu-motorbike-no-ecg\",\"category\":\"Motorsport UK \\/ ACU Motorbike racing \\/ Marathon Medical \\/ Horiba Mira\",\"price\":\"\\u00a375\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"23\",\"name\":\"Airside Medical Driver Permit\",\"slug\":\"airside-medical-driver-permit\",\"category\":\"Occupational Health Screening Medicals\",\"price\":\"\\u00a375\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"20\",\"name\":\"Asbestos Medical (Non Licensed Medical)\",\"slug\":\"asbestos-medical-non-licensed-medical\",\"category\":\"Asbestos Medical (Licensed & Non Licensed)\",\"price\":\"\\u00a3140\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"19\",\"name\":\"Asbestos Medical Licensed Medical HSE APPROVED\",\"slug\":\"asbestos-medical-licensed-medical-hse-approved\",\"category\":\"Asbestos Medical (Licensed & Non Licensed)\",\"price\":\"\\u00a3150\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"13\",\"name\":\"Boxing Medical (England Boxing, BCR1)\",\"slug\":\"boxing-medical-england-boxing-bcr1\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a350\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"51\",\"name\":\"C1 \\/ Paramedic \\/ Motorhome Medical\",\"slug\":\"c1-paramedic-motorhome-medical\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a350\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"14\",\"name\":\"Channel Swim Medical\",\"slug\":\"channel-swim-medical\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a375\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"35\",\"name\":\"Chester Step Test Only with Cert \\/ ERT Annual Review\",\"slug\":\"chester-step-test-only-with-cert-ert-annual-review\",\"category\":\"Offshore Medicals OEUK \\/ WIND TURBINE RUK GWO\",\"price\":\"\\u00a370\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"52\",\"name\":\"D4 Medical >65years age (annual)\",\"slug\":\"d4-medical-65years-age-annual\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a350\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"10\",\"name\":\"Electrocardiogram (ECG) Test\",\"slug\":\"electrocardiogram-ecg-test\",\"category\":\"Motorsport UK \\/ ACU Motorbike racing \\/ Marathon Medical \\/ Horiba Mira\",\"price\":\"\\u00a360\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"4\",\"name\":\"Fit to Drive a Car (abroad only) Group 1 standard\",\"slug\":\"fit-to-drive-a-car-abroad-only-group-1-standard\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a375\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"24\",\"name\":\"Fit to Work Medical, Forklift, Crane, Plant Operator, Digger\",\"slug\":\"fit-to-work-medical-forklift-crane-plant-operator-digger\",\"category\":\"Occupational Health Screening Medicals\",\"price\":\"\\u00a375\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"16\",\"name\":\"GB Climbing Fit to Compete\",\"slug\":\"gb-climbing-fit-to-compete\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a3105\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"32\",\"name\":\"GWO\\/RUK Wind Turbine Medical \\/ Offshore Medical OEUK + ERT\",\"slug\":\"gworuk-wind-turbine-medical-offshore-medical-oeuk-ert\",\"category\":\"Offshore Medicals OEUK \\/ WIND TURBINE RUK GWO\",\"price\":\"\\u00a3199\",\"duration\":\"40 minutes\",\"featured\":false},{\"id\":\"50\",\"name\":\"HGV \\/ LGV \\/ Lorry D4 Medical\",\"slug\":\"hgv-lgv-lorry-d4-medical\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a350\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"56\",\"name\":\"Horiba Mira (Proving Ground Medical )\",\"slug\":\"horiba-mira-proving-ground-medical\",\"category\":\"Motorsport UK \\/ ACU Motorbike racing \\/ Marathon Medical \\/ Horiba Mira\",\"price\":\"\\u00a375\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"17\",\"name\":\"Jockey Race Horse Medical\",\"slug\":\"jockey-race-horse-medical\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a3105\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"9\",\"name\":\"Marathon Medical (No ECG)\",\"slug\":\"marathon-medical-no-ecg\",\"category\":\"Motorsport UK \\/ ACU Motorbike racing \\/ Marathon Medical \\/ Horiba Mira\",\"price\":\"\\u00a385\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"29\",\"name\":\"MATS (Mast & Tower Safety) Medicals (Working at Heights with Chester Step Test)\",\"slug\":\"mats-mast-tower-safety-medicals-working-at-heights-with-chester-step-test\",\"category\":\"Occupational Health Screening Medicals\",\"price\":\"\\u00a3260\",\"duration\":\"45 minutes\",\"featured\":false},{\"id\":\"15\",\"name\":\"OCRDA Offshore Circuit Racing \\/ CPA \\/ BPBA Powerboat Medical \\/ Jet sport JSRA Medical\",\"slug\":\"ocrda-offshore-circuit-racing-cpa-bpba-powerboat-medical-jet-sport-jsra-medical\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a375\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"30\",\"name\":\"OEUK Offshore Medical\",\"slug\":\"oeuk-offshore-medical\",\"category\":\"Offshore Medicals OEUK \\/ WIND TURBINE RUK GWO\",\"price\":\"\\u00a3130\",\"duration\":\"40 minutes\",\"featured\":false},{\"id\":\"33\",\"name\":\"OEUK Offshore Medical Food Handlers Certification + OEUK Medical\",\"slug\":\"oeuk-offshore-medical-food-handlers-certification-oeuk-medical\",\"category\":\"Offshore Medicals OEUK \\/ WIND TURBINE RUK GWO\",\"price\":\"\\u00a3180\",\"duration\":\"40 minutes\",\"featured\":false},{\"id\":\"31\",\"name\":\"OFFSHORE CA-EBS BOSIET Medical ONLY (Fitness to Train)\",\"slug\":\"offshore-ca-ebs-bosiet-medical-only-fitness-to-train\",\"category\":\"Offshore Medicals OEUK \\/ WIND TURBINE RUK GWO\",\"price\":\"\\u00a350\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"34\",\"name\":\"Offshore Chester Step Test for RUK GWO OEUK ML5 (Fitness Test Only)\",\"slug\":\"offshore-chester-step-test-for-ruk-gwo-oeuk-ml5-fitness-test-only\",\"category\":\"Offshore Medicals OEUK \\/ WIND TURBINE RUK GWO\",\"price\":\"\\u00a379\",\"duration\":\"20 minutes\",\"featured\":false},{\"id\":\"18\",\"name\":\"PADI Scuba Diving Medical (Recreational)\",\"slug\":\"padi-scuba-diving-medical-recreational\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a3115\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"49\",\"name\":\"PCV \\/ PSV \\/ D1 \\/ BUS Driver Medical\",\"slug\":\"pcv-psv-d1-bus-driver-medical\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a350\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"25\",\"name\":\"Safety Critical Worker Medical\",\"slug\":\"safety-critical-worker-medical\",\"category\":\"Occupational Health Screening Medicals\",\"price\":\"\\u00a3120\",\"duration\":\"25 minutes\",\"featured\":false},{\"id\":\"26\",\"name\":\"Safety Critical Worker Medical including Drug and Alcohol Test\",\"slug\":\"safety-critical-worker-medical-including-drug-and-alcohol-test\",\"category\":\"Occupational Health Screening Medicals\",\"price\":\"\\u00a3180\",\"duration\":\"30 minutes\",\"featured\":false},{\"id\":\"11\",\"name\":\"Seafarer Medical (Standard ML5 form)\",\"slug\":\"seafarer-medical-standard-ml5-form\",\"category\":\"ML5 Seafarers Medical\",\"price\":\"\\u00a385\",\"duration\":\"10 minutes\",\"featured\":false},{\"id\":\"3\",\"name\":\"Section 88 Letter (D4 Drivers only)\",\"slug\":\"section-88-letter-d4-drivers-only\",\"category\":\"Driver Medicals (HGV PCV C1 LGV PSV Motorhome)\",\"price\":\"\\u00a350\",\"duration\":\"5 minutes\",\"featured\":false},{\"id\":\"53\",\"name\":\"Sky Dive Medical Tandem (form 115b)\",\"slug\":\"sky-dive-medical-tandem-form-115b\",\"category\":\"Sports, Sea, Sky & Summer Camp Medicals\",\"price\":\"\\u00a3115\",\"duration\":\"15 minutes\",\"featured\":false},{\"id\":\"54\",\"name\":\"Summer Camp \\/ Camp America\",\"slug\":\"summer-camp-"
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps/api/place/js/AutocompletionService.GetPredictionsJson?1sB1&4sen-GB&7scountry%3Agb&15e3&21m1&2e1&r_url=https%3A%2F%2Fbooking.just-health.co.uk%2Fbook&callback=_xdc_._w5jhh9&key=AIzaSyAcEorr6AmgkY-lwX4QkOkLHihrrWQgwjo&token=115616",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://booking.just-health.co.uk/book/available-dates?clinic_location_id=16&service_id=13",
+   "contentType": "application/json",
+   "body": "{\"dates\":[\"2026-10-12\",\"2026-10-13\",\"2026-10-14\",\"2026-10-15\",\"2026-10-16\",\"2026-10-17\",\"2026-10-18\",\"2026-10-19\",\"2026-10-21\",\"2026-10-22\",\"2026-10-23\",\"2026-10-24\",\"2026-10-25\",\"2026-10-26\",\"2026-10-28\",\"2026-10-29\",\"2026-10-30\",\"2026-10-31\",\"2026-11-01\",\"2026-11-02\",\"2026-11-04\",\"2026-11-05\",\"2026-11-06\",\"2026-11-07\",\"2026-11-08\"],\"min_date\":\"2026-10-11\",\"max_date\":\"2026-11-08\",\"horizon_weeks\":4,\"notice_text\":\"1 hour\"}"
+  },
+  {
+   "kind": "click",
+   "selector": "text=/boxing/i"
+  },
+  {
+   "kind": "click-failed",
+   "selector": "button:has-text(\"Next\")"
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://booking.just-health.co.uk/book/slots?clinic_location_id=16&date=2026-10-18&service_id=13",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=16",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "click",
+   "selector": "[class*=\"day\"]:not([class*=\"disabled\"]) >> nth=10"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://booking.just-health.co.uk/book/slots?clinic_location_id=16&date=2026-10-18&service_id=13",
+   "contentType": "application/json",
+   "body": "{\"service\":{\"name\":\"Boxing Medical (England Boxing, BCR1)\",\"duration_minutes\":10,\"price\":50},\"slots\":[{\"time\":\"20:15\"}]}"
+  }
+ ]
+}

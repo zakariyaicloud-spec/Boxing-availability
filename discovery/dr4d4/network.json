@@ -1,0 +1,719 @@
+{
+ "url": "https://dr4d4.com/book-appointment/",
+ "frames": [
+  "https://dr4d4.com/book-appointment/",
+  "about:blank",
+  "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fdr4d4.com%2Fbook-appointment%2F&title=Book%20an%20Appointment%20%7C%20Dr4D4&referrer=&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3",
+  "https://m.stripe.network/inner.html#url=https%3A%2F%2Fdr4d4.com%2Fbook-appointment%2F&title=Book%20an%20Appointment%20%7C%20Dr4D4&referrer=&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3"
+ ],
+ "log": [
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://dr4d4.com/book-appointment/",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/cookie-law-info/lite/frontend/js/gcm.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/script.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/cookie-law-info/lite/frontend/js/wca.min.js?ver=3.5.5",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1.15.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js-eu1.hs-scripts.com/148900854.js?integration=WordPress&ver=11.3.70",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/cache/autoptimize/js/autoptimize_single_30e776352428c69fff06bd4c69ee0243.js?ver=1766882032",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/cache/autoptimize/js/autoptimize_single_133a874e75df14e5f77b729f78898195.js?ver=2.1.53",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-includes/js/comment-reply.min.js?ver=7.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/cache/autoptimize/js/autoptimize_single_9eb8c2d343c14a7bb08054d022f78229.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/cache/autoptimize/js/autoptimize_single_9e47c377c4e670b6114b3c8b6b0d0d0d.js?ver=1766206093",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min.js?ver=2.0.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/?ver=7.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/public.js?ver=9.8",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js-eu1.hs-analytics.net/analytics/1791753900000/148900854.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js-eu1.hscollectedforms.net/collectedforms.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js-eu1.hs-banner.com/v2/148900854/banner.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/stepForm-670c619c.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/public.js?ver=9.8",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/eventBooking-add8c521.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/public.js?ver=9.8",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/customerPanel-aef553c7.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/public.js?ver=9.8",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/eventListForm-5457eeaa.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/public.js?ver=9.8",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/banner.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/themes/blocksy/static/bundle/641.41d6784859f93ced2969.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/blocksy-companion-pro/static/bundle/sticky.js?ver=2.1.53",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/5fYryWqu.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.gstatic.com/wcm/loader.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/config/HJQ6BQX2.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/5fYryWqu.json",
+   "contentType": "application/json",
+   "body": "[{\"targetBanner\":2718135,\"condition\":\"all\"}]"
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.gstatic.com/call-tracking/call-tracking_9.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://www.googleadservices.com/pagead/conversion/16751884616/wcm?cc=ZZ&dn=01617062555&cl=nP06CNax7e4ZEMjy9bM-&dma=0&dma_cps=-&npa=1&ct_eid=2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/translations/5wPKlzON.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/config/HJQ6BQX2.json",
+   "contentType": "application/json",
+   "body": "{\"reloadOnAccept\":false,\"dataShortCodes\":[{\"key\":\"cky_show_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"show-desc-button\\\" aria-label=\\\"[cky_showmore_text]\\\">[cky_showmore_text]</button>\"},\"uiTag\":\"show-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_hide_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"hide-desc-button\\\" aria-label=\\\"[cky_showless_text]\\\">[cky_showless_text]</button>\"},\"uiTag\":\"hide-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_readmore\",\"content\":{\"link\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">[cky_readmore_text]</a>\",\"button\":\"<button class=\\\"cky-policy\\\" aria-label=\\\"[cky_readmore_text]\\\">[cky_readmore_text]</button>\"},\"uiTag\":\"readmore-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{\"data-cky-tag\":\"readmore-button\"},\"processedHTML\":\"\"},{\"key\":\"cky_category_toggle_label\",\"content\":{\"container\":\"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]\"},\"uiTag\":\"detail-category-toggle\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_optout_toggle_label\",\"content\":{\"container\":\"[cky_{{status}}_optout_label] [cky_optout_option_title]\"},\"uiTag\":\"optout-option-toggle\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_dma_readmore\",\"content\":{\"link\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"nofollow noopener noreferrer\\\">[cky_dma_readmore_text]</a>\",\"button\":\"<button class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\">[cky_dma_readmore_text]</button>\"},\"uiTag\":\"detail-dma-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{\"data-cky-tag\":\"detail-dma-button\"},\"processedHTML\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"nofollow noopener noreferrer\\\" style=\\\"color: #3a5da5; border-color: transparent; background-color: transparent;\\\" data-cky-tag=\\\"detail-dma-button\\\">[cky_dma_readmore_text]</a>\"},{\"key\":\"cky_optout_show_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"optout-show-desc-button\\\" aria-label=\\\"[cky_showmore_text]\\\">[cky_showmore_text]</button>\"},\"uiTag\":\"optout-show-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_optout_hide_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"optout-hide-desc-button\\\" aria-label=\\\"[cky_showless_text]\\\">[cky_showless_text]</button>\"},\"uiTag\":\"optout-hide-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}}],\"iabDataShortCodes\":[],\"activeLaw\":\"gdpr\",\"showAuditTable\":true,\"showToggler\":true,\"googleACMEnabled\":false,\"readMore\":{\"status\":false,\"styles\":{\"color\":\"#1863DC\",\"border-color\":\"transparent\",\"background-color\":\"transparent\"},\"type\":\"link\"},\"togglerSwitch\":{\"status\":true,\"styles\":{\"activeColor\":\"#3a5da5\",\"inactiveColor\":\"#D0D5D2\"}},\"togglerIABSwitch\":{\"status\":false,\"styles\":{\"activeColor\":\"#3a5da5\",\"inactiveColor\":\"#D0D5D2\"}},\"ccpaSwitch\":{\"status\":false,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#FFFFFF\"}},\"placeHolder\":{\"status\":true,\"styles\":{\"border-color\":\"#000000\",\"background-color\":\"#000000\",\"color\":\"#ffffff\"}},\"html\":\"<div class=\\\"cky-hide cky-overlay\\\"></div><div class=\\\"cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left\\\" data-cky-tag=\\\"revisit-consent\\\" data-tooltip=\\\"[cky_revisit_title]\\\" style=\\\"background-color: #0056A7;\\\"><button aria-label=\\\"[cky_revisit_title]\\\" class=\\\"cky-btn-revisit\\\" aria-controls=\\\"ckyPreferenceCenter\\\" aria-haspopup=\\\"true\\\"><img alt=\\\"Revisit consent button\\\" src=\\\"https://cdn-cookieyes.com/assets/images/revisit.svg\\\"></button></div><div class=\\\"cky-hide cky-consent-container cky-box-bottom-left\\\" tabindex=\\\"-1\\\" aria-label=\\\"[cky_notice_title]\\\" role=\\\"region\\\"><div class=\\\"cky-consent-bar\\\" data-cky-tag=\\\"notice\\\" style=\\\"border-color: #F4F4F4; background-color: #FFFFFF;\\\"><div class=\\\"cky-notice\\\"><p class=\\\"cky-title\\\" aria-level=\\\"2\\\" data-cky-tag=\\\"title\\\" role=\\\"heading\\\" style=\\\"color: #212121;\\\">[cky_notice_title]</p><div class=\\\"cky-notice-group\\\"><div class=\\\"cky-notice-des\\\" data-cky-tag=\\\"description\\\" style=\\\"color: #212121;\\\">[cky_notice_description]</div><div class=\\\"cky-notice-btn-wrapper\\\" data-cky-tag=\\\"notice-buttons\\\"><button class=\\\"cky-btn cky-btn-customize\\\" aria-label=\\\"[cky_settings_text]\\\" aria-haspopup=\\\"true\\\" aria-controls=\\\"ckyPreferenceCenter\\\" data-cky-tag=\\\"settings-button\\\" style=\\\"color: #3a5da5; border-color: #3a5da5; background-color: transparent;\\\">[cky_settings_text]</button> <button class=\\\"cky-btn cky-btn-reject\\\" aria-label=\\\"[cky_reject_text]\\\" data-cky-tag=\\\"reject-button\\\" style=\\\"color: #3a5da5; border-color: #3a5da5; background-color: transparent;\\\">[cky_reject_text]</button> <button class=\\\"cky-btn cky-btn-accept\\\" aria-label=\\\"[cky_accept_text]\\\" data-cky-tag=\\\"accept-button\\\" style=\\\"color: #FFFFFF; border-color: #3a5da5; background-color: #3a5da5;\\\">[cky_accept_text]</button> </div></div></div></div></div><div class=\\\"cky-modal\\\" tabindex=\\\"-1\\\"><div class=\\\"cky-preference-center\\\" data-cky-tag=\\\"detail\\\" aria-label=\\\"[cky_preference_title]\\\" aria-modal=\\\"true\\\" id=\\\"ckyPreferenceCenter\\\" role=\\\"dialog\\\" style=\\\"color: #212121; border-color: #F4F4F4; background-color: #FFFFFF;\\\"><div class=\\\"cky-preference-header\\\"><span class=\\\"cky-preference-title\\\" aria-level=\\\"2\\\" data-cky-tag=\\\"detail-title\\\" role=\\\"heading\\\" style=\\\"color: #212121;\\\">[cky_preference_title]</span> <button aria-label=\\\"[cky_preference_close_label]\\\" class=\\\"cky-btn-close\\\" data-cky-tag=\\\"detail-close\\\"><img alt=\\\"\\\" src=\\\"https://cdn-cookieyes.com/assets/images/close.svg\\\"></button></div><div class=\\\"cky-preference-body-wrapper\\\"><div class=\\\"cky-preference-content-wrapper\\\" data-cky-tag=\\\"detail-description\\\" style=\\\"color: #212121;\\\">[cky_preference_description]</div><div class=\\\"cky-dma-content-wrapper\\\" data-cky-tag=\\\"detail-dma-description\\\" style=\\\"color: #212121;\\\">[cky_preference_dma_description]</div><div class=\\\"cky-horizontal-separator\\\"></div><div class=\\\"cky-accordion-wrapper\\\" data-cky-tag=\\\"detail-categories\\\"><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategorynecessary\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategorynecessaryBody\\\" aria-label=\\\"[cky_preference_necessary_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #212121;\\\">[cky_preference_necessary_title]</button><span class=\\\"cky-always-active\\\" data-cky-tag=\\\"always-active\\\">[cky_preference_always_enabled]</span></div><div class=\\\"cky-accordion-header-des\\\" data-cky-tag=\\\"detail-category-description\\\" style=\\\"color: #212121;\\\">[cky_preference_necessary_description]</div></div></div><div class=\\\"cky-accordion-body\\\" id=\\\"ckyDetailCategorynecessaryBody\\\"><div class=\\\"cky-audit-table\\\" data-cky-tag=\\\"audit-table\\\" style=\\\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\\\"></div></div></div><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategoryfunctional\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategoryfunctionalBody\\\" aria-label=\\\"[cky_preference_functional_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #212121;\\\">[cky_preference_functional_title]</button></div><div class=\\\"cky-accordion-header-des\\\" data-cky-tag=\\\"detail-category-description\\\" style=\\\"color: #212121;\\\">[cky_preference_functional_description]</div></div></div><div class=\\\"cky-accordion-body\\\" id=\\\"ckyDetailCategoryfunctionalBody\\\"><div class=\\\"cky-"
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/audit-table/_blchkPI.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/translations/5wPKlzON.json",
+   "contentType": "application/json",
+   "body": "{\"cky_notice_title\":\"We value your privacy\",\"cky_notice_description\":\"<p>We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \\\"Accept All\\\", you consent to our use of cookies.</p>\",\"cky_notice_close_label\":\"Close\",\"cky_readmore_text\":\"Cookie Policy\",\"cky_readmore_privacyLink\":\"https://dr4d4.com/cookie-policy/\",\"cky_revisit_title\":\"Consent Preferences\",\"cky_video_placeholder_title\":\"Please accept cookies to access this content\",\"cky_accept_text\":\"Accept All\",\"cky_reject_text\":\"Reject All\",\"cky_settings_text\":\"Customise\",\"cky_preference_title\":\"Customise Consent Preferences\",\"cky_preference_description\":\"<p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as \\\"Necessary\\\" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p>\",\"cky_preference_always_enabled\":\"Always Active\",\"cky_preference_save_text\":\"Save My Preferences\",\"cky_preference_accept_text\":\"Accept All\",\"cky_preference_reject_text\":\"Reject All\",\"cky_preview_save_text\":\"Save My Preferences\",\"cky_enable_category_label\":\"Enable\",\"cky_disable_category_label\":\"Disable\",\"cky_preference_close_label\":\"Close\",\"cky_showmore_text\":\"Show more\",\"cky_showless_text\":\"Show less\",\"cky_preference_dma_description\":\"<p>For more information on how Google's third-party cookies operate and handle your data, see:</p>\",\"cky_dma_readmore_text\":\"Google Privacy Policy\",\"cky_dma_privacyLink\":\"https://business.safety.google/privacy\"}"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/e803bdd03c6f5d846b27fe6e/audit-table/_blchkPI.json",
+   "contentType": "application/json",
+   "body": "{\"cookies\":{\"cookieyes-consent\":{\"cookie_id\":\"cookieyes-consent\",\"duration\":\"1 year\",\"description\":\"CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.\"},\"wp_consent_preferences\":{\"cookie_id\":\"wp_consent_preferences\",\"duration\":\"1 month\",\"description\":\"WP Consent API sets this cookie to save users' consent choices for different types of cookies on the website. This ensures a tailored browsing experience by applying users preferences consistently across the visits.\"},\"wp_consent_statistics\":{\"cookie_id\":\"wp_consent_statistics\",\"duration\":\"1 month\",\"description\":\"WP Consent API sets this cookie to collect anonymous data on website usage and help to analyze and enhance the sites' performance.\"},\"wp_consent_statistics-anonymous\":{\"cookie_id\":\"wp_consent_statistics-anonymous\",\"duration\":\"1 month\",\"description\":\"WP Consent API sets this cookie to understand how the website is used, which enables enhanced user content and services and respects privacy.\"},\"wp_consent_functional\":{\"cookie_id\":\"wp_consent_functional\",\"duration\":\"1 month\",\"description\":\"WP Consent API  sets this cookie to remember user preferences for essential website functionalities, ensuring a seamless and personalized experience. \"},\"wp_consent_marketing\":{\"cookie_id\":\"wp_consent_marketing\",\"duration\":\"1 month\",\"description\":\"WP Consent API sets this cookie to record user consent choices for marketing cookies. This ensures that users only receive advertisements tailored to their interests.\"},\"m\":{\"cookie_id\":\"m\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Stripe sets this cookie for fraud prevention purposes. It identifies the device used to access the website, allowing the website to be formatted accordingly.\"},\"__stripe_mid\":{\"cookie_id\":\"__stripe_mid\",\"duration\":\"1 year\",\"description\":\"Stripe sets this cookie to set a unique session identifier to recognize users across sessions.\"},\"__stripe_sid\":{\"cookie_id\":\"__stripe_sid\",\"duration\":\"1 hour\",\"description\":\"Stripe sets this cookie to set a unique session identifier for a single session.\"},\"_ga\":{\"cookie_id\":\"_ga\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.\"},\"_gcl_au\":{\"cookie_id\":\"_gcl_au\",\"duration\":\"3 months\",\"description\":\"Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.\"},\"_ga_*\":{\"cookie_id\":\"_ga_*\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Google Analytics sets this cookie to store and count page views.\"},\"CLID\":{\"cookie_id\":\"CLID\",\"duration\":\"1 year\",\"description\":\"Microsoft Clarity set this cookie to store information about how visitors interact with the website. The cookie helps to provide an analysis report. The data collection includes the number of visitors, where they visit the website, and the pages visited.\"},\"_clck\":{\"cookie_id\":\"_clck\",\"duration\":\"1 year\",\"description\":\"Microsoft Clarity sets this cookie to retain the browser's Clarity User ID and settings exclusive to that website. This guarantees that actions taken during subsequent visits to the same website will be linked to the same user ID.\"},\"SM\":{\"cookie_id\":\"SM\",\"duration\":\"session\",\"description\":\"Microsoft Clarity cookie set this cookie for synchronizing the MUID across Microsoft domains.\"},\"MR\":{\"cookie_id\":\"MR\",\"duration\":\"7 days\",\"description\":\"This cookie, set by Bing, is used to collect user information for analytics purposes.\"},\"_clsk\":{\"cookie_id\":\"_clsk\",\"duration\":\"1 day\",\"description\":\"Microsoft Clarity sets this cookie to store and consolidate a user's pageviews into a single session recording.\"},\"SRM_B\":{\"cookie_id\":\"SRM_B\",\"duration\":\"1 year 24 days\",\"description\":\"Used by Microsoft Advertising as a unique ID for visitors.\"},\"test_cookie\":{\"cookie_id\":\"test_cookie\",\"duration\":\"15 minutes\",\"description\":\"doubleclick.net sets this cookie to determine if the user's browser supports cookies.\"},\"MUID\":{\"cookie_id\":\"MUID\",\"duration\":\"1 year 24 days\",\"description\":\"Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations.\"},\"ANONCHK\":{\"cookie_id\":\"ANONCHK\",\"duration\":\"10 minutes\",\"description\":\"The ANONCHK cookie, set by Bing, is used to store a user's session ID and verify ads' clicks on the Bing search engine. The cookie helps in reporting and personalization as well.\"},\"IDE\":{\"cookie_id\":\"IDE\",\"duration\":\"1 year 24 days\",\"description\":\"Google DoubleClick IDE cookies store information about how the user uses the website to present them with relevant ads according to the user profile.\"}},\"cky_audit_table_empty_text\":\"No cookies to display.\",\"cky_audit_table_header_id\":\"Cookie\",\"cky_audit_table_header_duration\":\"Duration\",\"cky_audit_table_header_description\":\"Description\",\"cky_preference_necessary_title\":\"Necessary\",\"cky_preference_necessary_description\":\"<p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p>\",\"cky_preference_functional_title\":\"Functional\",\"cky_preference_functional_description\":\"<p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p>\",\"cky_preference_analytics_title\":\"Analytics\",\"cky_preference_analytics_description\":\"<p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p>\",\"cky_preference_performance_title\":\"Performance\",\"cky_preference_performance_description\":\"<p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p>\",\"cky_preference_advertisement_title\":\"Advertisement\",\"cky_preference_advertisement_description\":\"<p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p>\"}"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://www.google.com/pagead/attribution/wcm?cc=ZZ&dn=01617062555&cl=nP06CNax7e4ZEMjy9bM-&dma=0&dma_cps=-",
+   "postData": "",
+   "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept-language": "en-GB",
+    "referer": "https://dr4d4.com/"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://www.google.com/pagead/attribution/wcm?cc=ZZ&dn=01617062555&cl=nP06CNax7e4ZEMjy9bM-&dma=0&dma_cps=-",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{\"backoff\":3600,\"errorCode\":2,\"refreshDuration\":10800000,\"refreshPeriod\":260000}"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://forms-eu1.hscollectedforms.net/collected-forms/v1/config/json?portalId=148900854&utk=",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/plain, */*",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://forms-eu1.hscollectedforms.net/collected-forms/v1/config/json?portalId=148900854&utk=",
+   "contentType": "application/json;charset=utf-8",
+   "body": "{\"portalId\":148900854,\"submissionsApiDomain\":\"forms.hubspot.com\",\"reportScraperTest\":false,\"formCaptureEnabled\":true,\"token\":1848210900}"
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/en-93912b24.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://dr4d4.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/wp-content/plugins/ameliabooking/v3/public/assets/stepForm-670c619c.js",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://dr4d4.com/wp-admin/admin-ajax.php?action=wpamelia_api&call=/entities&types=employees,categories,locations,packages,entitiesRelations,customFields,taxes&page=booking&lite=true",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/plain, */*",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://dr4d4.com/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://dr4d4.com/cdn-cgi/rum?",
+   "postData": "{\"startTime\":1791754024813,\"pageloadId\":\"f5d75ba4-c339-4d7c-843a-91f48aef4086\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://dr4d4.com/book-appointment/\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.0\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"124\",\"bv\":\"124\",\"ov\":\"10\"},\"memory\":{\"totalJSHeapSize\":42100000,\"usedJSHeapSize\":33100000,\"jsHeapSizeLimit\":3760000000},\"firstPaint\":1384,\"firstContentfulPaint\":1384,\"timingsV2\":{\"nextHopProtocol\":\"h2\",\"domainLookupStart\":2,\"domainLookupEnd\":51,\"connectStart\":51,\"connectEnd\":77,\"secureConnectionStart\":60,\"requestStart\":77,\"responseStart\":423,\"responseEnd\":709,\"domInteractive\":1386,\"domComplete\":2864,\"loadEventStart\":2864,\"loadEventEnd\":2888,\"firstInterimResponseStart\":0,\"transferSize\":55463,\"decodedBodySize\":245438},\"siteToken\":\"3765bfdfd6ce4a9eb90d6811ced8882d\",\"st\":2}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://dr4d4.com/book-appointment/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "application/json",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 204,
+   "url": "https://dr4d4.com/cdn-cgi/rum?",
+   "contentType": "text/plain",
+   "body": ""
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://m.stripe.network/inner.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://js.stripe.com/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://m.stripe.network/out-4.5.45.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://m.stripe.network/inner.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://m.stripe.com/6",
+   "postData": "JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjJkNTk3NjA3ZmI5Njg5YjQwNDI5NWVkZmY5MGNhNjRlMCUyMiUyQyUyMnQlMjIlM0E0MC45JTJDJTIydGFnJTIyJTNBJTIyJTI0bnBtX3BhY2thZ2VfdmVyc2lvbiUyMiUyQyUyMnNyYyUyMiUzQSUyMmpzJTIyJTJDJTIyYSUyMiUzQSU3QiUyMmElMjIlM0ElN0IlMjJ2JTIyJTNBJTIydHJ1ZSUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyYiUyMiUzQSU3QiUyMnYlMjIlM0ElMjJmYWxzZSUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyYyUyMiUzQSU3QiUyMnYlMjIlM0ElMjJlbi1HQiUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyZCUyMiUzQSU3QiUyMnYlMjIlM0ElMjJMaW51eCUyMHg4Nl82NCUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyZSUyMiUzQSU3QiUyMnYlMjIlM0ElMjIlMjIlMkMlMjJ0JTIyJTNBMC4xJTdEJTJDJTIyZiUyMiUzQSU3QiUyMnYlMjIlM0ElMjI4MDB3XzYwMGhfMjRkXzFyJTIyJTJDJTIydCUyMiUzQTAlN0QlMkMlMjJnJTIyJTNBJTdCJTIydiUyMiUzQSUyMjElMjIlMkMlMjJ0JTIyJTNBMCU3RCUyQyUyMmglMjIlM0ElN0IlMjJ2JTIyJTNBJTIyZmFsc2UlMjIlMkMlMjJ0JTIyJTNBMCU3RCUyQyUyMmklMjIlM0ElN0IlMjJ2JTIyJTNBJTIyc2Vzc2lvblN0b3JhZ2UtZW5hYmxlZCUyQyUyMGxvY2FsU3RvcmFnZS1lbmFibGVkJTIyJTJDJTIydCUyMiUzQTAuNSU3RCUyQyUyMmolMjIlM0ElN0IlMjJ2JTIyJTNBJTIyMDAwMDAwMDEwMDAwMDAwMDAwMDExMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMDAwMCUyMiUyQyUyMnQlMjIlM0EyMy44JTJDJTIyYXQlMjIlM0ExLjYlN0QlMkMlMjJrJTIyJTNBJTdCJTIydiUyMiUzQSUyMiUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIybCUyMiUzQSU3QiUyMnYlMjIlM0ElMjJNb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxMjQuMCUyMFNhZmFyaSUyRjUzNy4zNiUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIybSUyMiUzQSU3QiUyMnYlMjIlM0ElMjIlMjIlMkMlMjJ0JTIyJTNBMCU3RCUyQyUyMm4lMjIlM0ElN0IlMjJ2JTIyJTNBJTIyZmFsc2UlMjIlMkMlMjJ0JTIyJTNBMjAuOSUyQyUyMmF0JTIyJTNBMC4xJTdEJTJDJTIybyUyMiUzQSU3QiUyMnYlMjIlM0ElMjJmMGFkNGRmNGIxMWZkYTEzNWZjNWMxNTg4ZmE4NGVjNiUyMiUyQyUyMnQlMjIlM0E0LjQlN0QlN0QlMkMlMjJiJTIyJTNBJTdCJTIyYSUyMiUzQSUyMiUyMiUyQyUyMmIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRm40bEFIdlQ2TWdtcmY3b2I5TF9qUFpMN082SUhpTHlLTF9rZTgtTlJLUXMuZzJ1OS1ocVp2R0lxWUpjUGxQZndKQWYtdjNSZ3lLX3gxTnBwekFsQTEyTSUyRno4RzJfUUlNUTdGc0o1Y3VONW1jMFNrdjJnQ2dnT2VzQnFJSVpzejZJVWclMkYlMjIlMkMlMjJjJTIyJTNBJTIyY2ZVU0V1TWJfYVRuSER5Q2RQaWFoXzRrTW1qdGV4cmNJbTFHRE1sb1QybyUyMiUyQyUyMmQlMjIlM0ElMjJOQSUyMiUyQyUyMmUlMjIlM0ElMjJOQSUyMiUyQyUyMmYlMjIlM0FmYWxzZSUyQyUyMmclMjIlM0F0cnVlJTJDJTIyaCUyMiUzQXRydWUlMkMlMjJpJTIyJTNBJTVCJTIybG9jYXRpb24lMjIlNUQlMkMlMjJqJTIyJTNBJTVCJTVEJTJDJTIybiUyMiUzQTc3JTJDJTIydSUyMiUzQSUyMmRyNGQ0LmNvbSUyMiUyQyUyMnclMjIlM0ElMjIxNzkxNzU0MDI3ODY2JTNBNzkyNTZjNjU0YzdjYWRjMzg0NzNlOTJlMmUyMmZkZTljMzNlMzYzNjc2MjE5YzJmZTljYzk3NmM5MzVjY2E5YiUyMiU3RCUyQyUyMmglMjIlM0ElMjI1ZTQ4ZDBiOTc4ZDkwNTA3NmE5ZiUyMiU3RA==",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://m.stripe.network/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://m.stripe.com/6",
+   "contentType": "application/json;charset=utf-8",
+   "body": "{\"muid\":\"c3a71944-2231-419a-9427-7473eca3188ea8905f\",\"guid\":\"cc08a64a-d616-4bcb-bc7f-f4b0d0116165a480ed\",\"sid\":\"f4ca8ffd-005e-4989-97e9-50125fae51dc41145a\"}"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://dr4d4.com/wp-admin/admin-ajax.php?action=wpamelia_api&call=/entities&types=employees,categories,locations,packages,entitiesRelations,customFields,taxes&page=booking&lite=true",
+   "contentType": "application/json;charset=utf-8",
+   "body": "{\"message\":\"Successfully retrieved entities\",\"data\":{\"locations\":[{\"id\":14,\"status\":\"hidden\",\"name\":\"Bolton\",\"description\":\"\",\"address\":\"32-36 Chorley New Rd, Bolton, BL1 4AP\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":1,\"status\":\"visible\",\"name\":\"Bury Radcliffe M26 1JU\",\"description\":\"\",\"address\":\"Whitefield and Radcliffe Holistic Centre, 92 Stand Ln, Radcliffe, M26 1JU\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/01\\/14395446727_32b276d83b_c.jpg\",\"pictureThumbPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/01\\/14395446727_32b276d83b_c-150x150.jpg\",\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":3,\"status\":\"visible\",\"name\":\"Chorlton M21 9AF (Weekend Only)\",\"description\":\"\",\"address\":\"Clear Medical Skin, 591 Wilbraham Rd, Chorlton, M21 9AF\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/03\\/mcr-taxi-tours-1.webp\",\"pictureThumbPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/03\\/mcr-taxi-tours-1-150x150.webp\",\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":22,\"status\":\"hidden\",\"name\":\"Harperhay M9 4BE\",\"description\":\"\",\"address\":\"Harpurhey Health Centre, 1Church Lane, M9 4BE\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":20,\"status\":\"visible\",\"name\":\"Levenshulme M19 3BX\",\"description\":\"\",\"address\":\"Levenshulme Medical Practice, Dunstable St, M19 3BX\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":18,\"status\":\"hidden\",\"name\":\"Liverpool\",\"description\":\"\",\"address\":\"Rodney Chambers, 40 Rodney Street, Liverpool, L1 9AA\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":19,\"status\":\"hidden\",\"name\":\"Manchester-Failsworth\",\"description\":\"\",\"address\":\"Failsworth Primary Care Centre, Ashton Rd W, Failsworth, Manchester M35 0AD\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":8,\"status\":\"visible\",\"name\":\"Oldham Shaw OL2 8PH\",\"description\":\"\",\"address\":\"Shaw Therapy Centre, 84 Beal Ln, Shaw, OL2 8PH\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":16,\"status\":\"visible\",\"name\":\"Rochdale OL11 4EE\",\"description\":\"\",\"address\":\"Rochdale Therapy Centre, Room 5, 217 Bury Rd, OL11 4EE\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":24,\"status\":\"visible\",\"name\":\"Rusholme M14 5NP\",\"description\":\"\",\"address\":\"Rusholme Health Centre, Walmer St, Manchester M14 5NP\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"},{\"id\":23,\"status\":\"visible\",\"name\":\"Victoria Mill M40 7LH\",\"description\":\"\",\"address\":\"Victoria Mill Health Centre, Victoria Mill, Vickers St, M40 7LH\",\"phone\":\"+441617062555\",\"latitude\":40.748441,\"longitude\":-73.987853,\"pictureFullPath\":null,\"pictureThumbPath\":null,\"pin\":\"\",\"translations\":null,\"serviceList\":[],\"eventList\":[],\"providerList\":[],\"countryPhoneIso\":\"gb\"}],\"categories\":[{\"id\":4,\"status\":\"visible\",\"name\":\"Taxi Medical\",\"serviceList\":[],\"position\":1,\"translations\":null,\"color\":\"#1A84EE\",\"pictureFullPath\":null,\"pictureThumbPath\":null},{\"id\":3,\"status\":\"visible\",\"name\":\"D4 Medical Services\",\"serviceList\":[{\"id\":7,\"name\":\"Taxi Medical\\/Private Hire Medical\",\"description\":\"<!-- Content --><p><strong>Eye test included<\\/strong><\\/p><p><strong>120+ Approved councils<\\/strong><\\/p><p><strong>Free retest if needed<\\/strong><\\/p>\",\"color\":\"#1788FB\",\"price\":50,\"deposit\":10,\"depositPayment\":\"fixed\",\"depositPerPerson\":true,\"pictureFullPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/03\\/london-taxi-getty_custom-c3451b43475dea1954309e07a8b8828875774366-1.webp\",\"pictureThumbPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/03\\/london-taxi-getty_custom-c3451b43475dea1954309e07a8b8828875774366-1-150x150.webp\",\"extras\":[],\"coupons\":[],\"position\":1,\"settings\":\"{\\\"payments\\\":{\\\"barion\\\":{\\\"enabled\\\":false},\\\"mollie\\\":{\\\"enabled\\\":false},\\\"onSite\\\":true,\\\"paymentLinks\\\":{\\\"enabled\\\":false,\\\"redirectUrl\\\":null,\\\"changeBookingStatus\\\":false},\\\"payPal\\\":{\\\"enabled\\\":false},\\\"razorpay\\\":{\\\"enabled\\\":false},\\\"square\\\":{\\\"enabled\\\":false},\\\"stripe\\\":{\\\"enabled\\\":true},\\\"wc\\\":{\\\"enabled\\\":false,\\\"productId\\\":\\\"\\\"}},\\\"general\\\":{\\\"defaultAppointmentStatus\\\":\\\"approved\\\",\\\"minimumTimeRequirementPriorToBooking\\\":0,\\\"minimumTimeRequirementPriorToCanceling\\\":0,\\\"minimumTimeRequirementPriorToRescheduling\\\":0,\\\"numberOfDaysAvailableForBooking\\\":365,\\\"redirectUrlAfterAppointment\\\":\\\"https:\\\\\\/\\\\\\/dr4d4.com\\\\\\/thank-you\\\\\\/\\\"},\\\"zoom\\\":{\\\"enabled\\\":false},\\\"lessonSpace\\\":{\\\"enabled\\\":false},\\\"googleMeet\\\":{\\\"enabled\\\":false},\\\"microsoftTeams\\\":{\\\"enabled\\\":false},\\\"waitingList\\\":{\\\"enabled\\\":false,\\\"maxCapacity\\\":1,\\\"maxExtraPeopleEnabled\\\":false,\\\"maxExtraPeople\\\":0},\\\"activation\\\":{\\\"version\\\":\\\"9.0.1\\\"}}\",\"fullPayment\":true,\"minCapacity\":1,\"maxCapacity\":1,\"duration\":900,\"timeBefore\":null,\"timeAfter\":null,\"bringingAnyone\":true,\"show\":true,\"aggregatedPrice\":true,\"status\":\"visible\",\"categoryId\":3,\"category\":null,\"priority\":[],\"gallery\":[],\"recurringCycle\":\"disabled\",\"recurringSub\":\"future\",\"recurringPayment\":0,\"translations\":null,\"minSelectedExtras\":null,\"mandatoryExtra\":false,\"customPricing\":\"{\\\"enabled\\\":null,\\\"durations\\\":{},\\\"persons\\\":{},\\\"periods\\\":{\\\"default\\\":[],\\\"custom\\\":[]}}\",\"maxExtraPeople\":null,\"limitPerCustomer\":null},{\"id\":3,\"name\":\"HGV\\/D4 Medical\",\"description\":\"<!-- Content --><p><strong>Eye test included<\\/strong><\\/p><p><strong>Free retest if needed<\\/strong><\\/p>\",\"color\":\"#1788FB\",\"price\":45,\"deposit\":10,\"depositPayment\":\"fixed\",\"depositPerPerson\":true,\"pictureFullPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/01\\/5e0bee49987559d9ab4cf3e95cc5bc5a.jpg\",\"pictureThumbPath\":\"https:\\/\\/dr4d4.com\\/wp-content\\/uploads\\/2025\\/01\\/5e0bee49987559d9ab4cf3e95cc5bc5a-150x150.jpg\",\"extras\":[],\"coupons\":[],\"position\":2,\"settings\":\"{\\\"payments\\\":{\\\"barion\\\":{\\\"enabled\\\":false},\\\"mollie\\\":{\\\"enabled\\\":false},\\\"onSite\\\":true,\\\"paymentLinks\\\":{\\\"enabled\\\":false,\\\"redirectUrl\\\":null,\\\"changeBookingStatus\\\":false},\\\"payPal\\\":{\\\"enabled\\\":false},\\\"razorpay\\\":{\\\"enabled\\\":false},\\\"square\\\":{\\\"enabled\\\":false},\\\"stripe\\\":{\\\"enabled\\\":true},\\\"wc\\\":{\\\"enabled\\\":false,\\\"productId\\\":\\\"\\\"}},\\\"general\\\":{\\\"defaultAppointmentStatus\\\":\\\"approved\\\",\\\"minimumTimeRequirementPriorToBooking\\\":0,\\\"minimumTimeRequirementPriorToCanceling\\\":0,\\\"minimumTimeRequirementPriorToRescheduling\\\":0,\\\"numberOfDaysAvailableForBooking\\\":365,\\\"redirectUrlAfterAppointment\\\":\\\"https:\\\\\\/\\\\\\/dr4d4.com\\\\\\/thank-you\\\\\\/\\\"},\\\"zoom\\\":{\\\"enabled\\\":false},\\\"lessonSpace\\\":{\\\"enabled\\\":false},\\\"googleMeet\\\":{\\\"enabled\\\":fal"
+  },
+  {
+   "kind": "click-failed",
+   "selector": "text=/boxing/i"
+  }
+ ]
+}

@@ -1,0 +1,2399 @@
+{
+ "url": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+ "frames": [
+  "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+  "https://storage.googleapis.com/maps-solutions-zca1tz1hqc/locator-plus/27ip/locator-plus.html",
+  "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwww.simplymedicals.co.uk%2Fbook-an-appointment-new%2F&title=Book%20an%20appointment%20-%20Simply%20Medicals&referrer=&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3",
+  "https://m.stripe.network/inner.html#url=https%3A%2F%2Fwww.simplymedicals.co.uk%2Fbook-an-appointment-new%2F&title=Book%20an%20appointment%20-%20Simply%20Medicals&referrer=&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3"
+ ],
+ "log": [
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/cookie-law-info/lite/frontend/js/gcm.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/script.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/spin.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/ladda.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/moment.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/hammer.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/jquery.hammer.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/qrcode.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/bookly.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/intlTelInput.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/bookly-core.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/modules/ai/resources/js/ai-assistant.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-addon-pro/frontend/modules/customer_profile/resources/js/customer-profile.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/bootstrap/js/bootstrap.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/daterangepicker.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/dropdown.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/select2.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/common.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/bookly-datatables.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-addon-customer-cabinet/frontend/modules/customer_cabinet/resources/js/customer-cabinet.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/neve-pro-addon/includes/modules/elementor_booster/assets/js/track.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/js/voice-search-widget.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/vendor/lite-embeds/lite-youtube.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/vendor/lite-embeds/lite-vimeo.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/masonry.min.js?ver=4.2.2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/themes/neve/assets/js/build/modern/frontend.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/themes/neve/assets/js/build/modern/scroll-to-top.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/frontend.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/js/link-tracking.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/js/link-tracker.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/neve-pro-addon/includes/modules/header_footer_grid/assets/js/build/front-end.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/banner.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://storage.googleapis.com/maps-solutions-zca1tz1hqc/locator-plus/27ip/locator-plus.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://resources.xg4ken.com/js/v2/ktag.js?tid=KT-N3ABB-3EB",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://storage.googleapis.com/maps-solutions-zca1tz1hqc/locator-plus/27ip/locator-plus-config.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/maps-solutions-zca1tz1hqc/locator-plus/27ip/locator-plus.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://ajax.googleapis.com/ajax/libs/@googlemaps/extended-component-library/0.6.15/index.min.js",
+   "postData": "",
+   "headers": {
+    "origin": "https://storage.googleapis.com",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php",
+   "postData": "action=bookly_get_form_id&form_id=&form_data%5Bskip_service_step%5D=0&form_data%5Bhide_service_part1%5D=0&form_data%5Bhide_service_part2%5D=1&form_data%5Bdefaults%5D%5Bservice_id%5D=0&form_data%5Bdefaults%5D%5Bstaff_id%5D=0&form_data%5Bdefaults%5D%5Blocation_id%5D=0&form_data%5Bdefaults%5D%5Bcategory_id%5D=0&form_data%5Bdefaults%5D%5Bunits%5D=0&form_data%5Bdefaults%5D%5Bdate_from%5D=0&form_data%5Bdefaults%5D%5Btime_from%5D=0&form_data%5Bdefaults%5D%5Btime_to%5D=0&csrf_token=800d3f7b8d",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "accept-language": "en-GB",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/gkSpKTtd.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.web-2-tel.com/org-sdk?identifier=3aa48ff3-80c0-423b-99cd-08dd2b48fbd2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/config/wFijwR8g.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/gkSpKTtd.json",
+   "contentType": "application/json",
+   "body": "[{\"targetBanner\":1931774,\"condition\":\"all\"}]"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://js.web-2-tel.com/org-jsSdk",
+   "postData": "{\"web2telIdentifier\":\"3aa48ff3-80c0-423b-99cd-08dd2b48fbd2\",\"pageUrl\":\"https://www.simplymedicals.co.uk/book-an-appointment-new/\",\"referrerUrl\":\"\",\"pageVariablesJson\":\"\",\"scannedPhoneNumbers\":[],\"htmlAttributes\":[]}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "application/json",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "POST",
+   "url": "https://mv-prod-1-1053047382554.us-central1.run.app/events?cee=no",
+   "postData": "{\"event_name\":\"PageView\",\"event_id\":\"ob3_plugin-set_0adedee822bc6151d9f448f9a654860e2a70ef8fd5295c9f4abb817aa052e20c\",\"fb.pixel_id\":\"317230657542547\",\"website_context\":{\"location\":\"https://www.simplymedicals.co.uk/book-an-appointment-new/\",\"referrer\":\"\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791754042942.1055210136.AQECAQIB\",\"event_meta_info\":{\"cc_info\":{\"cas\":\"9168252406617712,9402893719747550,28327818050202102\"},\"cs_est\":true}}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps/api/js?libraries=maps%2Cmarker%2Ccore&key=AIzaSyDnLWxMnFlKaLxvEdLlXyFFRRB09tKuY7A&v=beta&solution_channel=GMP_QB_locatorplus_v11_cABCDEFX&callback=google.maps.__ib__",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/translations/_NBsBrO8.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/config/wFijwR8g.json",
+   "contentType": "application/json",
+   "body": "{\"reloadOnAccept\":false,\"dataShortCodes\":[{\"key\":\"cky_show_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"show-desc-button\\\" aria-label=\\\"[cky_showmore_text]\\\">[cky_showmore_text]</button>\"},\"uiTag\":\"show-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_hide_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"hide-desc-button\\\" aria-label=\\\"[cky_showless_text]\\\">[cky_showless_text]</button>\"},\"uiTag\":\"hide-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_readmore\",\"content\":{\"link\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">[cky_readmore_text]</a>\",\"button\":\"<button class=\\\"cky-policy\\\" aria-label=\\\"[cky_readmore_text]\\\">[cky_readmore_text]</button>\"},\"uiTag\":\"readmore-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{\"data-cky-tag\":\"readmore-button\"},\"processedHTML\":\"\"},{\"key\":\"cky_category_toggle_label\",\"content\":{\"container\":\"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]\"},\"uiTag\":\"detail-category-toggle\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_optout_toggle_label\",\"content\":{\"container\":\"[cky_{{status}}_optout_label] [cky_optout_option_title]\"},\"uiTag\":\"optout-option-toggle\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_dma_readmore\",\"content\":{\"link\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"nofollow noopener noreferrer\\\">[cky_dma_readmore_text]</a>\",\"button\":\"<button class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\">[cky_dma_readmore_text]</button>\"},\"uiTag\":\"detail-dma-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{\"data-cky-tag\":\"detail-dma-button\"},\"processedHTML\":\"\"},{\"key\":\"cky_optout_show_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"optout-show-desc-button\\\" aria-label=\\\"[cky_showmore_text]\\\">[cky_showmore_text]</button>\"},\"uiTag\":\"optout-show-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_optout_hide_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"optout-hide-desc-button\\\" aria-label=\\\"[cky_showless_text]\\\">[cky_showless_text]</button>\"},\"uiTag\":\"optout-hide-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}}],\"iabDataShortCodes\":[],\"activeLaw\":\"gdpr\",\"showAuditTable\":true,\"showToggler\":false,\"googleACMEnabled\":false,\"readMore\":{\"status\":false,\"styles\":{\"color\":\"#1863dc\",\"border-color\":\"transparent\",\"background-color\":\"transparent\"},\"type\":\"link\"},\"togglerSwitch\":{\"status\":true,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#d0d5d2\"}},\"togglerIABSwitch\":{\"status\":false,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#d0d5d2\"}},\"ccpaSwitch\":{\"status\":false,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#FFFFFF\"}},\"placeHolder\":{\"status\":true,\"styles\":{\"border-color\":\"#000000\",\"background-color\":\"#000000\",\"color\":\"#ffffff\"}},\"html\":\"<div class=\\\"cky-hide cky-overlay\\\"></div><div class=\\\"cky-hide cky-consent-container cky-box-bottom-left\\\" tabindex=\\\"-1\\\" role=\\\"region\\\" aria-label=\\\"[cky_notice_title]\\\"><div class=\\\"cky-consent-bar\\\" data-cky-tag=\\\"notice\\\" style=\\\"border-color: #2a2a2a; background-color: #121212;\\\"><div class=\\\"cky-notice\\\"><p class=\\\"cky-title\\\" data-cky-tag=\\\"title\\\" aria-level=\\\"2\\\" role=\\\"heading\\\" style=\\\"color: #d0d0d0;\\\">[cky_notice_title]</p><div class=\\\"cky-notice-group\\\"><div class=\\\"cky-notice-des\\\" data-cky-tag=\\\"description\\\" style=\\\"color: #d0d0d0;\\\">[cky_notice_description]</div><div class=\\\"cky-notice-btn-wrapper\\\" data-cky-tag=\\\"notice-buttons\\\"><button class=\\\"cky-btn cky-btn-customize\\\" aria-label=\\\"[cky_settings_text]\\\" aria-haspopup=\\\"dialog\\\" aria-controls=\\\"ckyPreferenceCenter\\\" data-cky-tag=\\\"settings-button\\\" style=\\\"color: #d0d0d0; border-color: #d0d0d0; background-color: transparent;\\\">[cky_settings_text]</button> <button class=\\\"cky-btn cky-btn-reject\\\" aria-label=\\\"[cky_reject_text]\\\" data-cky-tag=\\\"reject-button\\\" style=\\\"color: #d0d0d0; border-color: #d0d0d0; background-color: transparent;\\\">[cky_reject_text]</button> <button class=\\\"cky-btn cky-btn-accept\\\" aria-label=\\\"[cky_accept_text]\\\" data-cky-tag=\\\"accept-button\\\" style=\\\"color: #d0d0d0; border-color: #1863dc; background-color: #1863dc;\\\">[cky_accept_text]</button> </div></div></div></div></div><div class=\\\"cky-modal\\\" tabindex=\\\"-1\\\"><div class=\\\"cky-preference-center\\\" data-cky-tag=\\\"detail\\\" role=\\\"dialog\\\" aria-label=\\\"[cky_preference_title]\\\" aria-modal=\\\"true\\\" id=\\\"ckyPreferenceCenter\\\" style=\\\"color: #d0d0d0; border-color: #2A2A2A; background-color: #121212;\\\"><div class=\\\"cky-preference-header\\\"><span class=\\\"cky-preference-title\\\" aria-level=\\\"2\\\" data-cky-tag=\\\"detail-title\\\" role=\\\"heading\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_title]</span> <button aria-label=\\\"[cky_preference_close_label]\\\" class=\\\"cky-btn-close\\\" data-cky-tag=\\\"detail-close\\\"><img alt=\\\"\\\" src=\\\"https://cdn-cookieyes.com/assets/images/close.svg\\\"></button></div><div class=\\\"cky-preference-body-wrapper\\\"><div class=\\\"cky-preference-content-wrapper\\\" data-cky-tag=\\\"detail-description\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_description]</div><div class=\\\"cky-horizontal-separator\\\"></div><div class=\\\"cky-accordion-wrapper\\\" data-cky-tag=\\\"detail-categories\\\"><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategorynecessary\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategorynecessaryBody\\\" aria-label=\\\"[cky_preference_necessary_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_necessary_title]</button><span class=\\\"cky-always-active\\\" data-cky-tag=\\\"always-active\\\">[cky_preference_always_enabled]</span></div><div class=\\\"cky-accordion-header-des\\\" data-cky-tag=\\\"detail-category-description\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_necessary_description]</div></div></div><div class=\\\"cky-accordion-body\\\" id=\\\"ckyDetailCategorynecessaryBody\\\"><div class=\\\"cky-audit-table\\\" data-cky-tag=\\\"audit-table\\\" style=\\\"color: #d0d0d0; border-color: #474444; background-color: #2a2a2a;\\\"></div></div></div><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategoryfunctional\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategoryfunctionalBody\\\" aria-label=\\\"[cky_preference_functional_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_functional_title]</button><div class=\\\"cky-switch\\\" data-cky-tag=\\\"detail-category-toggle\\\"><input type=\\\"checkbox\\\" id=\\\"ckySwitchfunctional\\\" aria-label=\\\"[cky_category_toggle_label]\\\" autocomplete=\\\"off\\\"></div></div><div class=\\\"cky-accordion-header-des\\\" data-cky-tag=\\\"detail-category-description\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_functional_description]</div></div></div><div class=\\\"cky-accordion-body\\\" id=\\\"ckyDetailCategoryfunctionalBody\\\"><div class=\\\"cky-audit-table\\\" data-cky-tag=\\\"audit-table\\\" style=\\\"color: #d0d0d0; border-color: #474444; background-color: #2a2a2a;\\\"></div></div></div><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategoryanalytics\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategoryanalyticsBody\\\" aria-label=\\\"[cky_preference_analytics_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_analytics_title]</button>"
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/audit-table/SotVKN7H.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/translations/_NBsBrO8.json",
+   "contentType": "application/json",
+   "body": "{\"cky_notice_title\":\"We value your privacy\",\"cky_notice_description\":\"<p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \\\"Accept All\\\", you consent to our use of cookies.</p>\",\"cky_notice_close_label\":\"Close\",\"cky_readmore_text\":\"Cookie Policy\",\"cky_readmore_privacyLink\":\"\",\"cky_revisit_title\":\"Consent Preferences\",\"cky_video_placeholder_title\":\"Please accept cookies to access this content\",\"cky_accept_text\":\"Accept All\",\"cky_reject_text\":\"Reject All\",\"cky_settings_text\":\"Customize\",\"cky_preference_title\":\"Customize Consent Preferences\",\"cky_preference_description\":\"<p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorized as \\\"Necessary\\\" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p>\",\"cky_preference_always_enabled\":\"Always Active\",\"cky_preference_save_text\":\"Save My Preferences\",\"cky_preference_accept_text\":\"Accept All\",\"cky_preference_reject_text\":\"Reject All\",\"cky_preview_save_text\":\"Save My Preferences\",\"cky_enable_category_label\":\"Enable\",\"cky_disable_category_label\":\"Disable\",\"cky_preference_close_label\":\"Close\",\"cky_showmore_text\":\"Show more\",\"cky_showless_text\":\"Show less\"}"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/audit-table/SotVKN7H.json",
+   "contentType": "application/json",
+   "body": "{\"cookies\":{\"PHPSESSID\":{\"cookie_id\":\"PHPSESSID\",\"duration\":\"session\",\"description\":\"This cookie is native to PHP applications. The cookie stores and identifies a user's unique session ID to manage user sessions on the website. The cookie is a session cookie and will be deleted when all the browser windows are closed.\"},\"cookieyes-consent\":{\"cookie_id\":\"cookieyes-consent\",\"duration\":\"1 year\",\"description\":\"CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.\"},\"elementor\":{\"cookie_id\":\"elementor\",\"duration\":\"never\",\"description\":\"The website's WordPress theme uses this cookie. It allows the website owner to implement or change the website's content in real-time.\"},\"rc::a\":{\"cookie_id\":\"rc::a\",\"duration\":\"never\",\"description\":\"This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.\"},\"rc::c\":{\"cookie_id\":\"rc::c\",\"duration\":\"session\",\"description\":\"This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.\"},\"m\":{\"cookie_id\":\"m\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Stripe sets this cookie for fraud prevention purposes. It identifies the device used to access the website, allowing the website to be formatted accordingly.\"},\"__stripe_mid\":{\"cookie_id\":\"__stripe_mid\",\"duration\":\"1 year\",\"description\":\"Stripe sets this cookie to process payments.\"},\"__stripe_sid\":{\"cookie_id\":\"__stripe_sid\",\"duration\":\"1 hour\",\"description\":\"Stripe sets this cookie to process payments.\"},\"__cf_bm\":{\"cookie_id\":\"__cf_bm\",\"duration\":\"1 hour\",\"description\":\"This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. \"},\"activechatyWidgets\":{\"cookie_id\":\"activechatyWidgets\",\"duration\":\"1 day\",\"description\":\"Chaty set this cookie to collect information about how the user interacts with the live chat feature on the website.\"},\"yt-remote-device-id\":{\"cookie_id\":\"yt-remote-device-id\",\"duration\":\"never\",\"description\":\"YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\"},\"ytidb::LAST_RESULT_ENTRY_KEY\":{\"cookie_id\":\"ytidb::LAST_RESULT_ENTRY_KEY\",\"duration\":\"never\",\"description\":\"The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.\"},\"yt-player-headers-readable\":{\"cookie_id\":\"yt-player-headers-readable\",\"duration\":\"never\",\"description\":\"The yt-player-headers-readable cookie is used by YouTube to store user preferences related to video playback and interface, enhancing the user's viewing experience.\"},\"yt-remote-connected-devices\":{\"cookie_id\":\"yt-remote-connected-devices\",\"duration\":\"never\",\"description\":\"YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\"},\"yt-player-bandwidth\":{\"cookie_id\":\"yt-player-bandwidth\",\"duration\":\"never\",\"description\":\"The yt-player-bandwidth cookie is used to store the user's video player preferences and settings, particularly related to bandwidth and streaming quality on YouTube.\"},\"yt-remote-session-app\":{\"cookie_id\":\"yt-remote-session-app\",\"duration\":\"session\",\"description\":\"The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.\"},\"yt-remote-cast-installed\":{\"cookie_id\":\"yt-remote-cast-installed\",\"duration\":\"session\",\"description\":\"The yt-remote-cast-installed cookie is used to store the user's video player preferences using embedded YouTube video.\"},\"yt-remote-session-name\":{\"cookie_id\":\"yt-remote-session-name\",\"duration\":\"session\",\"description\":\"The yt-remote-session-name cookie is used by YouTube to store the user's video player preferences using embedded YouTube video.\"},\"yt-remote-cast-available\":{\"cookie_id\":\"yt-remote-cast-available\",\"duration\":\"session\",\"description\":\"The yt-remote-cast-available cookie is used to store the user's preferences regarding whether casting is available on their YouTube video player.\"},\"yt-remote-fast-check-period\":{\"cookie_id\":\"yt-remote-fast-check-period\",\"duration\":\"session\",\"description\":\"The yt-remote-fast-check-period cookie is used by YouTube to store the user's video player preferences for embedded YouTube videos.\"},\"_gcl_au\":{\"cookie_id\":\"_gcl_au\",\"duration\":\"3 months\",\"description\":\"Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.\"},\"_ga\":{\"cookie_id\":\"_ga\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.\"},\"_ga_*\":{\"cookie_id\":\"_ga_*\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Google Analytics sets this cookie to store and count page views.\"},\"YSC\":{\"cookie_id\":\"YSC\",\"duration\":\"session\",\"description\":\"Youtube sets this cookie to track the views of embedded videos on Youtube pages.\"},\"VISITOR_INFO1_LIVE\":{\"cookie_id\":\"VISITOR_INFO1_LIVE\",\"duration\":\"6 months\",\"description\":\"YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.\"},\"VISITOR_PRIVACY_METADATA\":{\"cookie_id\":\"VISITOR_PRIVACY_METADATA\",\"duration\":\"6 months\",\"description\":\"YouTube sets this cookie to store the user's cookie consent state for the current domain.\\t\"},\"test_cookie\":{\"cookie_id\":\"test_cookie\",\"duration\":\"15 minutes\",\"description\":\"doubleclick.net sets this cookie to determine if the user's browser supports cookies.\"},\"PREF\":{\"cookie_id\":\"PREF\",\"duration\":\"8 months\",\"description\":\"PREF cookie is set by Youtube to store user preferences like language, format of search results and other customizations for YouTube Videos embedded in different sites.\"},\"NID\":{\"cookie_id\":\"NID\",\"duration\":\"6 months\",\"description\":\"Google sets the cookie for advertising purposes; to limit the number of times the user sees an ad, to unwanted mute ads, and to measure the effectiveness of ads.\"},\"chatyWidget_0\":{\"cookie_id\":\"chatyWidget_0\",\"duration\":\"7 days\",\"description\":\"Description is currently not available.\"},\"__cflb\":{\"cookie_id\":\"__cflb\",\"duration\":\"1 hour\",\"description\":\"This cookie is used by Cloudflare for load balancing.\\n\\n\"},\"hmt_id\":{\"cookie_id\":\"hmt_id\",\"duration\":\"1 month\",\"description\":\"Description is currently not available.\"}},\"cky_audit_table_empty_text\":\"No cookies to display.\",\"cky_audit_table_header_id\":\"Cookie\",\"cky_audit_table_header_duration\":\"Duration\",\"cky_audit_table_header_description\":\"Description\",\"cky_preference_necessary_title\":\"Necessary\",\"cky_preference_necessary_description\":\"<p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p>\",\"cky_preference_functional_title\":\"Functional\",\"cky_preference_functional_description\":\"<p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p>\",\"cky_preference_analytics_title\":\"Analytics\",\"cky_preference_analytics_description\":\"<p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p>\",\"cky_preference_performance_title\":\"Performance\",\"cky_preference_performance_description\":\"<p>Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user exper"
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/common.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/marker.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/util.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/main.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/map.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/controls.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/places_impl.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/8b-beta/intl/en_gb/places.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://storage.googleapis.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{}\n"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://js.web-2-tel.com/org-jsSdk",
+   "contentType": "application/javascript",
+   "body": "//# sourceURL=jsSdk.js\nvar telmeSdk =\n{\n    sessionIdentifier: null,\n    timer: null,\n    replaceAllNumberDetail: {},\n    options: {\"isIntl\":true,\"trackPage\":false,\"formTrack\":false,\"formDataTrack\":true,\"enableHtmlListener\":true,\"enableDynamicEntireDomListener\":false,\"debugMode\":false},\n    timeOutMs: 5000000,\n    hasErrorTracking: window.Sentry && document.getElementById(\"telme-error-handler\") !== null,\n    isSafariOnIOS: false,\n    cacheKey: \"telme.js.session\",\n\n    // Flat routing fields written into debugInfo by initialSetup.js and carried across the\n    // wholesale rebuild in initDebugInfo.\n    debugInfoRoutingKeys: [\"platform\", \"db\", \"config\", \"configtype\", \"tier\", \"sdkHost\", \"identifier\",\n        \"pageUrl\", \"stage\", \"timestampUtc\", \"transport\", \"url\", \"hasCachedSession\",\n        \"scannedNumbers\"],\n    pooledCookieKey: \"telme.js.poolNumbers\",\n    numbersCookieKey: \"telme.js.numbers\",\n    sessionCookieKey: \"telme.js.session\",\n    contextArray: null,\n    replacedNumbers: null,\n    replacedImages: null,\n    replacedTexts: null,\n    contextExactURLs: null,\n    currentPage: null,\n    lookUpPhoneNumberRgx: null,\n    alreadyViewedNumbers: {},\n    elementReplacedAttr: \"dni-replaced\",\n    gaConfigIds: null,\n    freshpaintEnabled: false,\n    freshpaintAttributionKeys: [],\n    debugInfo: null,\n\n    initDebugInfo: function () {\n        // Routing fields are merged flat into debugInfo and kept at the top. They are taken\n        // from the in-memory global that initialSetup.js left on the page rather than from\n        // localStorage, because the session cache can be cleared between the two stages,\n        // which would silently drop them.\n        // Seeded first so platform and db lead the object; the real platform value is applied\n        // below, once the carried and in-memory values have been merged over the top.\n        var info = { platform: null, db: null, config: null, configtype: null };\n        try {\n            var stored = telmeSdk.getLocalStorageData();\n            if (stored && stored.debugInfo) {\n                var carried = telmeSdk.debugInfoRoutingKeys;\n                for (var c = 0; c < carried.length; c++) {\n                    if (stored.debugInfo[carried[c]] !== undefined) {\n                        info[carried[c]] = stored.debugInfo[carried[c]];\n                    }\n                }\n            }\n        } catch (e) { }\n        try {\n            var dni = (typeof telmeDniOrgSdk !== \"undefined\" ? telmeDniOrgSdk : null)\n                || (typeof telmeDniSdk !== \"undefined\" ? telmeDniSdk : null)\n                || window.telmeDniOrgSdk || window.telmeDniSdk;\n            if (dni) {\n                info.db = dni.dniDb;\n                info.config = dni.dniConfig;\n                info.configtype = dni.dniConfigType;\n                info.tier = dni.dniTier;\n                info.sdkHost = dni.dniHost;\n                info.identifier = dni.dniIdentifier;\n            }\n        } catch (e) { }\n        // Set here rather than relying on carry-forward: the session cache is often cleared\n        // between the two stages, which would silently drop both fields.\n        try { info.pageUrl = document.URL; } catch (e) { }\n        info.hasCachedSession = !!(typeof stored !== \"undefined\" && stored && stored.sessionData\n            && stored.sessionData.SessionIdentifier);\n        // Runtime of the tier that actually served this replacement snippet, which is the tier\n        // the session was routed to. The setup snippet always comes from the default tier, so a\n        // session routed to another tier reports that tier's runtime only from here.\n        info.platform = \".NET 6.0.36\";\n        info.servingTier = 2;\n        info.stage = \"replacement-applied\";\n        info.timestampUtc = new Date().toISOString();\n        // The setup snippet froze these at the routing tier's values, so every dniDiag line\n        // reports that tier even when another one served the replacement. Correct them here and\n        // emit one line that names the tier which actually did the work.\n        try {\n            if (dni) {\n                dni.dniPlatform = info.platform;\n                dni.dniServingTier = info.servingTier;\n                if (dni.dniDiag) {\n                    dni.dniDiag(\"replacement-applied\", { servedByHost: dni.dniHost });\n                }\n            }\n        } catch (e) { }\n\n        info.lastRunTimestamp = Date.now();\n        info.currentPage = window.location.pathname;\n        info.exactUrlExclusions = [];\n        info.replacements = {\n            numbers: { attempted: 0, replaced: 0, notFoundInDom: 0, details: [] },\n            vanity: { attempted: 0, replaced: 0, details: [] },\n            replaceAll: { enabled: false, dniNumber: null, nodesReplaced: 0 },\n            text: { attempted: 0, replaced: 0, notFoundInDom: 0, details: [] },\n            htmlAttributes: { attempted: 0, replaced: 0, notFoundInDom: 0, details: [] }\n        };\n        info.context = {\n            contextArray: [],\n            contextExactURLs: {},\n            matchedContexts: [],\n            excludedByExactUrl: false\n        };\n        info.triggeredRules = [];\n        info.poolCallbacks = { count: 0, lastCallbackTimestamp: null, numbersReceived: 0 };\n        info.session = { isNew: false, usedCachedCollection: false, isPooled: false };\n        info.pageVariables = telmeSdk._buildPageVariablesDebug(dni, stored);\n        telmeSdk.debugInfo = info;\n    },\n\n    saveDebugInfo: function (immediate) {\n        if (immediate) {\n            telmeSdk._flushDebugInfo();\n        } else {\n            clearTimeout(telmeSdk._debugSaveTimer);\n            telmeSdk._debugSaveTimer = setTimeout(function () { telmeSdk._flushDebugInfo(); }, 200);\n        }\n    },\n\n    _flushDebugInfo: function () {\n        try {\n            var cache = telmeSdk.getLocalStorageData();\n            if (telmeSdk.debugInfo) {\n                // Cap detail arrays to last 20 entries\n                var maxDetails = 20;\n                var types = ['numbers', 'vanity', 'text', 'htmlAttributes'];\n                for (var t = 0; t < types.length; t++) {\n                    var details = telmeSdk.debugInfo.replacements[types[t]].details;\n                    if (details && details.length > maxDetails) {\n                        telmeSdk.debugInfo.replacements[types[t]].details = details.slice(-maxDetails);\n                    }\n                }\n                // Cap exactUrlExclusions to last 10\n                if (telmeSdk.debugInfo.exactUrlExclusions.length > 10) {\n                    telmeSdk.debugInfo.exactUrlExclusions = telmeSdk.debugInfo.exactUrlExclusions.slice(-10);\n                }\n                cache.debugInfo = telmeSdk.debugInfo;\n                telmeSdk.setLocalStorageData(cache);\n            }\n        } catch (e) { }\n    },\n\n    // --- Page variables debug (best-effort; must never throw on a customer page) ---\n    // Bounds a page-variables object so customer-controlled data cannot blow the shared\n    // localStorage budget or slow the repeated debugInfo writes: at most 50 keys, and every value\n    // reduced to a bounded primitive. Returns null for a null/non-object input, or a shallow\n    // bounded copy (the source is never mutated).\n    _boundPageVars: function (obj) {\n        if (obj == null || typeof obj !== \"object\") return null;\n        var out = {};\n        var maxKeys = 50, maxValueLen = 200, count = 0;\n        try {\n            for (var k in obj) {\n                if (!Object.prototype.hasOwnProperty.call(obj, k)) continue;\n                if (count >= maxKeys) { out.__truncated__ = true; break; }\n                out[k] = telmeSdk._boundPageVarValue(obj[k], maxValueLen);\n                count++;\n            }\n        } catch (e) { }\n        return out;\n    },\n\n    // Reduces one page-variable value to a bounded primitive. Non-primitives are replaced with a\n    // short type marker rather than kept by reference: debugInfo is re-serialized and written to\n    // localStorage on every sa"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php?action=bookly_render_service&form_id=061e267c777b8c50aafb9e033069a92f&new_chain=true&csrf_token=800d3f7b8d",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{\"success\":true,\"form_id\":\"061e267c777b8c50aafb9e033069a92f\",\"status\":{\"booking\":\"new\"}}"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php?action=bookly_render_service&form_id=061e267c777b8c50aafb9e033069a92f&new_chain=true&csrf_token=800d3f7b8d",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{\"success\":true,\"csrf_token\":\"800d3f7b8d\",\"html\":\"<div class=\\\"bookly-progress-tracker bookly-table\\\">\\n            <div class=\\\"active\\\">\\n            1. Service            <div class=step><\\/div>\\n        <\\/div>\\n                <div >\\n                        2. Extras            <div class=step><\\/div>\\n        <\\/div>\\n                <div >\\n                        3. Time            <div class=step><\\/div>\\n        <\\/div>\\n                    <div >\\n                4. Details        <div class=step><\\/div>\\n    <\\/div>\\n            <div >\\n                        5. Payment            <div class=step><\\/div>\\n        <\\/div>\\n        <div >\\n                6. Done        <div class=step><\\/div>\\n    <\\/div>\\n<\\/div>\\n<ol class=\\\"bookly-stepper\\\">\\n            <li class=\\\"bookly-step-active\\\"><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n    <\\/ol><div class=\\\"bookly-service-step\\\">\\n    <div class=\\\"bookly-box bookly-bold\\\">To book your medical, please select your preferred location: <\\/div>\\n    <div class=\\\"bookly-mobile-step-1 bookly-js-mobile-step-1\\\">\\n        <div class=\\\"bookly-js-chain\\\"><\\/div>\\n        <div class=\\\"bookly-nav-steps bookly-box\\\">\\n                        <div class=\\\"bookly-right\\\">\\n                <button class=\\\"bookly-right bookly-mobile-next-step bookly-js-mobile-next-step bookly-btn bookly-none ladda-button\\\" data-style=\\\"zoom-in\\\" data-spinner-size=\\\"40\\\">\\n                    <span class=\\\"ladda-label\\\">Next<\\/span>\\n                <\\/button>\\n            <\\/div>\\n        <\\/div>\\n    <\\/div>\\n    <div class=\\\"bookly-mobile-step-2 bookly-js-mobile-step-2\\\">\\n        <div class=\\\"bookly-box\\\" style=\\\"display: table; overflow:visible;\\\">\\n            <div class=\\\"bookly-left bookly-mobile-float-none\\\">\\n                <div class=\\\"bookly-available-date bookly-js-available-date bookly-left bookly-mobile-float-none\\\">\\n                    <div class=\\\"bookly-form-group\\\">\\n                        <label for=\\\"bookly-available-after-061e267c777b8c50aafb9e033069a92f\\\">I'm available on or after<\\/label>\\n                        <div>\\n                            <input id=\\\"bookly-available-after-061e267c777b8c50aafb9e033069a92f\\\" class=\\\"bookly-date-from bookly-js-date-from\\\" type=\\\"text\\\" value=\\\"\\\" data-value=\\\"2026-10-11\\\"\\/>\\n                            <div class=\\\"bookly:relative bookly:w-full bookly:z-10 bookly-js-datepicker-container\\\">\\n                                <div class=\\\"bookly:absolute bookly:top-1 bookly:w-72 bookly-p-0 bookly:bg-white bookly-js-datepicker-calendar bookly:min-w-[200px] bookly:rounded\\\"><\\/div>\\n                            <\\/div>\\n                        <\\/div>\\n                    <\\/div>\\n                <\\/div>\\n                                    <div class=\\\"bookly-week-days bookly-js-week-days bookly-left bookly-mobile-float-none\\\">\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-2\\\" class=\\\"bookly-col-label\\\">Mon<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-2\\\" value=\\\"2\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-3\\\" class=\\\"bookly-col-label\\\">Tue<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-3\\\" value=\\\"3\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-4\\\" class=\\\"bookly-col-label\\\">Wed<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-4\\\" value=\\\"4\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-5\\\" class=\\\"bookly-col-label\\\">Thu<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-5\\\" value=\\\"5\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-6\\\" class=\\\"bookly-col-label\\\">Fri<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-6\\\" value=\\\"6\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-7\\\" class=\\\"bookly-col-label\\\">Sat<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-7\\\" value=\\\"7\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-1\\\" class=\\\"bookly-col-label\\\">Sun<\\/label>\\n                                <input id=\\\"bookly-week-day-061e267c777b8c50aafb9e033069a92f-1\\\" value=\\\"1\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                            <\\/div>\\n                            <\\/div>\\n                            <div class=\\\"bookly-time-range bookly-js-time-range bookly-left bookly-mobile-float-none\\\">\\n                                            <div class=\\\"bookly-form-group bookly-time-from bookly-left\\\">\\n    <label for=\\\"bookly-from-061e267c777b8c50aafb9e033069a92f\\\">Start from<\\/label>\\n    <div>\\n        <select id=\\\"bookly-from-061e267c777b8c50aafb9e033069a92f\\\" class=\\\"bookly-js-select-time-from\\\">\\n                            <option value=\\\"07:30\\\" selected='selected'>07:30<\\/option>\\n                            <option value=\\\"08:00\\\">08:00<\\/option>\\n                            <option value=\\\"09:00\\\">09:00<\\/option>\\n                            <option value=\\\"10:00\\\">10:00<\\/option>\\n                            <option value=\\\"11:00\\\">11:00<\\/option>\\n                            <option value=\\\"12:00\\\">12:00<\\/option>\\n                            <option value=\\\"13:00\\\">13:00<\\/option>\\n                            <option value=\\\"14:00\\\">14:00<\\/option>\\n                            <option value=\\\"15:00\\\">15:00<\\/option>\\n                            <option value=\\\"16:00\\\">16:00<\\/option>\\n                            <option value=\\\"17:00\\\">17:00<\\/option>\\n                            <option value=\\\"18:00\\\">18:00<\\/option>\\n                            <option value=\\\"19:00\\\">19:00<\\/option>\\n                            <option value=\\\"20:00\\\">20:00<\\/option>\\n                            <option value=\\\"21:00\\\">21:00<\\/option>\\n                            <option value=\\\"22:00\\\">22:00<\\/option>\\n                    <\\/select>\\n    <\\/div>\\n<\\/div>                        <div class=\\\"bookly-form-group bookly-time-to bookly-left\\\">\\n    <label for=\\\"bookly-to-061e267c777b8c50aafb9e033069a92f\\\">Finish by<\\/label>\\n    <div>\\n        <select id=\\\"bookly-to-061e267c777b8c50aafb9e033069a92f\\\" class=\\\"bookly-js-select-time-to\\\">\\n                            <option value=\\\"07:30\\\">07:30<\\/option>\\n                            <option value=\\\"08:00\\\">08:00<\\/option>\\n                            <option val"
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://m.stripe.network/inner.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://js.stripe.com/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://m.stripe.network/out-4.5.45.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://m.stripe.network/inner.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://m.stripe.com/6",
+   "postData": "JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjJkNTk3NjA3ZmI5Njg5YjQwNDI5NWVkZmY5MGNhNjRlMCUyMiUyQyUyMnQlMjIlM0EzMi4xJTJDJTIydGFnJTIyJTNBJTIyJTI0bnBtX3BhY2thZ2VfdmVyc2lvbiUyMiUyQyUyMnNyYyUyMiUzQSUyMmpzJTIyJTJDJTIyYSUyMiUzQSU3QiUyMmElMjIlM0ElN0IlMjJ2JTIyJTNBJTIydHJ1ZSUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyYiUyMiUzQSU3QiUyMnYlMjIlM0ElMjJmYWxzZSUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyYyUyMiUzQSU3QiUyMnYlMjIlM0ElMjJlbi1HQiUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyZCUyMiUzQSU3QiUyMnYlMjIlM0ElMjJMaW51eCUyMHg4Nl82NCUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIyZSUyMiUzQSU3QiUyMnYlMjIlM0ElMjIlMjIlMkMlMjJ0JTIyJTNBMC4yJTdEJTJDJTIyZiUyMiUzQSU3QiUyMnYlMjIlM0ElMjI4MDB3XzYwMGhfMjRkXzFyJTIyJTJDJTIydCUyMiUzQTAlN0QlMkMlMjJnJTIyJTNBJTdCJTIydiUyMiUzQSUyMjElMjIlMkMlMjJ0JTIyJTNBMCU3RCUyQyUyMmglMjIlM0ElN0IlMjJ2JTIyJTNBJTIyZmFsc2UlMjIlMkMlMjJ0JTIyJTNBMC4xJTdEJTJDJTIyaSUyMiUzQSU3QiUyMnYlMjIlM0ElMjJzZXNzaW9uU3RvcmFnZS1lbmFibGVkJTJDJTIwbG9jYWxTdG9yYWdlLWVuYWJsZWQlMjIlMkMlMjJ0JTIyJTNBMC40JTdEJTJDJTIyaiUyMiUzQSU3QiUyMnYlMjIlM0ElMjIwMDAwMDAwMTAwMDAwMDAwMDAwMTEwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTEwMDAwJTIyJTJDJTIydCUyMiUzQTE3LjglMkMlMjJhdCUyMiUzQTEuNCU3RCUyQyUyMmslMjIlM0ElN0IlMjJ2JTIyJTNBJTIyJTIyJTJDJTIydCUyMiUzQTAlN0QlMkMlMjJsJTIyJTNBJTdCJTIydiUyMiUzQSUyMk1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjEyNC4wJTIwU2FmYXJpJTJGNTM3LjM2JTIyJTJDJTIydCUyMiUzQTAlN0QlMkMlMjJtJTIyJTNBJTdCJTIydiUyMiUzQSUyMiUyMiUyQyUyMnQlMjIlM0EwJTdEJTJDJTIybiUyMiUzQSU3QiUyMnYlMjIlM0ElMjJmYWxzZSUyMiUyQyUyMnQlMjIlM0EyMC42JTJDJTIyYXQlMjIlM0EwLjMlN0QlMkMlMjJvJTIyJTNBJTdCJTIydiUyMiUzQSUyMmYwYWQ0ZGY0YjExZmRhMTM1ZmM1YzE1ODhmYTg0ZWM2JTIyJTJDJTIydCUyMiUzQTYuOSU3RCU3RCUyQyUyMmIlMjIlM0ElN0IlMjJhJTIyJTNBJTIyJTIyJTJDJTIyYiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGWF92V09wWVF3MnlpbVB6YTJsZGlsc3NaMVZnbEFoNlYzaHhrVFRja20xNC5IZ2M0bjNrdm5BNFJZNGlJcG5FWnh1YmFDTko3TzhKSEZhMmNWb0NGVDFrLkxUekpLMGt6My1UUjItWlVSQ3R4WDF6bzNwVGwwTFBYTnllY2pCTnUzNlUuaURvUGQ4QlV1YV8xcmRwS3BBRU56QS1CdW5YaDU1WEROQzhpOEFwbmlrbyUyRnZCOGNZcmNJRHU1VjRENFFHVkxNd1hpaGVWWk41LVlhSGpJeno1RFBNb1UlMkYlMjIlMkMlMjJjJTIyJTNBJTIyeVF3MC04LU5qSTltcXRCa3BqZmRQeDIyMzQ2RDFFMFRIcXBpNi1RY1ZSNCUyMiUyQyUyMmQlMjIlM0ElMjJOQSUyMiUyQyUyMmUlMjIlM0ElMjJOQSUyMiUyQyUyMmYlMjIlM0FmYWxzZSUyQyUyMmclMjIlM0F0cnVlJTJDJTIyaCUyMiUzQXRydWUlMkMlMjJpJTIyJTNBJTVCJTIybG9jYXRpb24lMjIlNUQlMkMlMjJqJTIyJTNBJTVCJTVEJTJDJTIybiUyMiUzQTEwMS45MDAwMDAwMDAwMjMyOCUyQyUyMnUlMjIlM0ElMjJ3d3cuc2ltcGx5bWVkaWNhbHMuY28udWslMjIlMkMlMjJ3JTIyJTNBJTIyMTc5MTc1NDA0Njk4NiUzQWQ5M2RlYjY1NTAxZTU1MzRlZThmNTA3MDdmODVmNWEwNjUzMTdiOGU1NDdlMDUyNjY4M2JiYjZkMzg2ZTI3YzYlMjIlN0QlMkMlMjJoJTIyJTNBJTIyMjgwZGJkMjRhY2Q1ZDdhMjAxMDUlMjIlN0Q=",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://m.stripe.network/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://m.stripe.com/6",
+   "contentType": "application/json;charset=utf-8",
+   "body": "{\"muid\":\"c5f78722-9bbb-4f1c-9227-3940a33d0d8116be8a\",\"guid\":\"7f6f3c54-17dd-4d4e-afcc-8006dc4a5e2fecdd3b\",\"sid\":\"80231610-77fc-49b1-9cfc-d3f528ed6a616ea137\"}"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://js.web-2-tel.com/org-jsSaveCookie",
+   "postData": "{\"googleAnalyticsCookie\":null,\"adobeAnalyticsCookie\":null,\"freshpaintCookie\":null,\"googleAdsCookie\":{\"googleAdsConsent\":{\"ad_storage\":\"denied\",\"analytics_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\"}},\"consentData\":null,\"sessionIdentifier\":\"e1b8825b-4cd9-433d-96fd-3194fc51c7b6\"}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "application/json",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://js.web-2-tel.com/org-jsSaveCookie",
+   "contentType": "",
+   "body": ""
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/boxing-medical/",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://www.simplymedicals.co.uk/book-an-appointment-new/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/cookie-law-info/lite/frontend/js/gcm.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/script.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "if-none-match": "\"3d49876645c823763397a1915b0a7c2d\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "accept-language": "en-GB",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "if-modified-since": "Sat, 04 Jul 2026 00:56:41 GMT"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/spin.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/ladda.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/moment.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/hammer.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/jquery.hammer.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/qrcode.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/bookly.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/intlTelInput.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/bookly-core.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/modules/ai/resources/js/ai-assistant.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-addon-pro/frontend/modules/customer_profile/resources/js/customer-profile.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/bootstrap/js/bootstrap.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/daterangepicker.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/dropdown.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/select2.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/common.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/bookly-datatables.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/bookly-addon-customer-cabinet/frontend/modules/customer_cabinet/resources/js/customer-cabinet.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://widget.reviews.co.uk/polaris/build.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/neve-pro-addon/includes/modules/elementor_booster/assets/js/track.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/js/voice-search-widget.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/masonry.min.js?ver=4.2.2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/themes/neve/assets/js/build/modern/frontend.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/themes/neve/assets/js/build/modern/scroll-to-top.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/frontend.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/js/link-tracking.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/prorank-seo-premium/assets/js/link-tracker.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/neve-pro-addon/includes/modules/header_footer_grid/assets/js/build/front-end.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "click",
+   "selector": "text=/boxing/i"
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/banner.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "if-none-match": "\"69a334d42bcd9226e38a06ec40e60f85\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "accept-language": "en-GB",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "if-modified-since": "Sat, 04 Jul 2026 00:56:41 GMT"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "POST",
+   "url": "https://mv-prod-1-1053047382554.us-central1.run.app/events?cee=no",
+   "postData": "{\"event_name\":\"PageView\",\"event_id\":\"ob3_plugin-set_727e1ed32af4ad1b2f2c5263f32e1f75ffe087d0a2069c84ec9fe262d029f047\",\"fb.pixel_id\":\"317230657542547\",\"website_context\":{\"location\":\"https://www.simplymedicals.co.uk/boxing-medical/\",\"referrer\":\"https://www.simplymedicals.co.uk/book-an-appointment-new/\",\"isInIFrame\":false},\"fb.fbp\":\"fb.2.1791754042942.1055210136.AQECAQIB\",\"event_meta_info\":{\"cc_info\":{\"cas\":\"9168252406617712,9402893719747550,28327818050202102\"},\"cs_est\":true}}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://resources.xg4ken.com/js/v2/ktag.js?tid=KT-N3ABB-3EB",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://widget.reviews.co.uk/polaris/203/5757.build.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://widget.reviews.co.uk/polaris/203/8722.build.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://api.reviews.co.uk/timeline/data?type=store_review&store=simplymedicals.co.uk-r9dnp1o&sort=date_desc&page=1&per_page=5&include_sentiment_analysis=true&widget=polaris&lang=en&enable_avatars=true&include_subrating_breakdown=1",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/plain, */*",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://api.reviews.co.uk/timeline/photos?per_page=24&store=simplymedicals.co.uk-r9dnp1o&type=store_review&enable_social_photos=true&enable_review_photos=true&lang=en",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/plain, */*",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php",
+   "postData": "action=bookly_get_form_id&form_id=&form_data%5Bskip_service_step%5D=0&form_data%5Bhide_service_part1%5D=0&form_data%5Bhide_service_part2%5D=1&form_data%5Bdefaults%5D%5Bservice_id%5D=5&form_data%5Bdefaults%5D%5Bstaff_id%5D=0&form_data%5Bdefaults%5D%5Blocation_id%5D=0&form_data%5Bdefaults%5D%5Bcategory_id%5D=0&form_data%5Bdefaults%5D%5Bunits%5D=0&form_data%5Bdefaults%5D%5Bdate_from%5D=0&form_data%5Bdefaults%5D%5Btime_from%5D=0&form_data%5Bdefaults%5D%5Btime_to%5D=0&csrf_token=800d3f7b8d",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "accept-language": "en-GB",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/gkSpKTtd.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.web-2-tel.com/org-sdk?identifier=3aa48ff3-80c0-423b-99cd-08dd2b48fbd2",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.4",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://js.web-2-tel.com/org-jsSdk",
+   "postData": "{\"web2telIdentifier\":\"3aa48ff3-80c0-423b-99cd-08dd2b48fbd2\",\"pageUrl\":\"https://www.simplymedicals.co.uk/boxing-medical/\",\"referrerUrl\":\"https://www.simplymedicals.co.uk/book-an-appointment-new/\",\"sessionIdentifier\":\"e1b8825b-4cd9-433d-96fd-3194fc51c7b6\",\"pageVariablesJson\":\"\",\"scannedPhoneNumbers\":[],\"htmlAttributes\":[]}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "application/json",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/config/wFijwR8g.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/gkSpKTtd.json",
+   "contentType": "application/json",
+   "body": "[{\"targetBanner\":1931774,\"condition\":\"all\"}]"
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/translations/_NBsBrO8.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/config/wFijwR8g.json",
+   "contentType": "application/json",
+   "body": "{\"reloadOnAccept\":false,\"dataShortCodes\":[{\"key\":\"cky_show_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"show-desc-button\\\" aria-label=\\\"[cky_showmore_text]\\\">[cky_showmore_text]</button>\"},\"uiTag\":\"show-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_hide_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"hide-desc-button\\\" aria-label=\\\"[cky_showless_text]\\\">[cky_showless_text]</button>\"},\"uiTag\":\"hide-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_readmore\",\"content\":{\"link\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">[cky_readmore_text]</a>\",\"button\":\"<button class=\\\"cky-policy\\\" aria-label=\\\"[cky_readmore_text]\\\">[cky_readmore_text]</button>\"},\"uiTag\":\"readmore-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{\"data-cky-tag\":\"readmore-button\"},\"processedHTML\":\"\"},{\"key\":\"cky_category_toggle_label\",\"content\":{\"container\":\"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]\"},\"uiTag\":\"detail-category-toggle\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_optout_toggle_label\",\"content\":{\"container\":\"[cky_{{status}}_optout_label] [cky_optout_option_title]\"},\"uiTag\":\"optout-option-toggle\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_dma_readmore\",\"content\":{\"link\":\"<a href=\\\"#\\\" class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\" target=\\\"_blank\\\" rel=\\\"nofollow noopener noreferrer\\\">[cky_dma_readmore_text]</a>\",\"button\":\"<button class=\\\"cky-policy\\\" aria-label=\\\"[cky_dma_readmore_text]\\\">[cky_dma_readmore_text]</button>\"},\"uiTag\":\"detail-dma-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{\"data-cky-tag\":\"detail-dma-button\"},\"processedHTML\":\"\"},{\"key\":\"cky_optout_show_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"optout-show-desc-button\\\" aria-label=\\\"[cky_showmore_text]\\\">[cky_showmore_text]</button>\"},\"uiTag\":\"optout-show-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}},{\"key\":\"cky_optout_hide_desc\",\"content\":{\"button\":\"<button class=\\\"cky-show-desc-btn\\\" data-cky-tag=\\\"optout-hide-desc-button\\\" aria-label=\\\"[cky_showless_text]\\\">[cky_showless_text]</button>\"},\"uiTag\":\"optout-hide-desc-button\",\"type\":\"data\",\"customTag\":\"\",\"attributes\":{}}],\"iabDataShortCodes\":[],\"activeLaw\":\"gdpr\",\"showAuditTable\":true,\"showToggler\":false,\"googleACMEnabled\":false,\"readMore\":{\"status\":false,\"styles\":{\"color\":\"#1863dc\",\"border-color\":\"transparent\",\"background-color\":\"transparent\"},\"type\":\"link\"},\"togglerSwitch\":{\"status\":true,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#d0d5d2\"}},\"togglerIABSwitch\":{\"status\":false,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#d0d5d2\"}},\"ccpaSwitch\":{\"status\":false,\"styles\":{\"activeColor\":\"#1863dc\",\"inactiveColor\":\"#FFFFFF\"}},\"placeHolder\":{\"status\":true,\"styles\":{\"border-color\":\"#000000\",\"background-color\":\"#000000\",\"color\":\"#ffffff\"}},\"html\":\"<div class=\\\"cky-hide cky-overlay\\\"></div><div class=\\\"cky-hide cky-consent-container cky-box-bottom-left\\\" tabindex=\\\"-1\\\" role=\\\"region\\\" aria-label=\\\"[cky_notice_title]\\\"><div class=\\\"cky-consent-bar\\\" data-cky-tag=\\\"notice\\\" style=\\\"border-color: #2a2a2a; background-color: #121212;\\\"><div class=\\\"cky-notice\\\"><p class=\\\"cky-title\\\" data-cky-tag=\\\"title\\\" aria-level=\\\"2\\\" role=\\\"heading\\\" style=\\\"color: #d0d0d0;\\\">[cky_notice_title]</p><div class=\\\"cky-notice-group\\\"><div class=\\\"cky-notice-des\\\" data-cky-tag=\\\"description\\\" style=\\\"color: #d0d0d0;\\\">[cky_notice_description]</div><div class=\\\"cky-notice-btn-wrapper\\\" data-cky-tag=\\\"notice-buttons\\\"><button class=\\\"cky-btn cky-btn-customize\\\" aria-label=\\\"[cky_settings_text]\\\" aria-haspopup=\\\"dialog\\\" aria-controls=\\\"ckyPreferenceCenter\\\" data-cky-tag=\\\"settings-button\\\" style=\\\"color: #d0d0d0; border-color: #d0d0d0; background-color: transparent;\\\">[cky_settings_text]</button> <button class=\\\"cky-btn cky-btn-reject\\\" aria-label=\\\"[cky_reject_text]\\\" data-cky-tag=\\\"reject-button\\\" style=\\\"color: #d0d0d0; border-color: #d0d0d0; background-color: transparent;\\\">[cky_reject_text]</button> <button class=\\\"cky-btn cky-btn-accept\\\" aria-label=\\\"[cky_accept_text]\\\" data-cky-tag=\\\"accept-button\\\" style=\\\"color: #d0d0d0; border-color: #1863dc; background-color: #1863dc;\\\">[cky_accept_text]</button> </div></div></div></div></div><div class=\\\"cky-modal\\\" tabindex=\\\"-1\\\"><div class=\\\"cky-preference-center\\\" data-cky-tag=\\\"detail\\\" role=\\\"dialog\\\" aria-label=\\\"[cky_preference_title]\\\" aria-modal=\\\"true\\\" id=\\\"ckyPreferenceCenter\\\" style=\\\"color: #d0d0d0; border-color: #2A2A2A; background-color: #121212;\\\"><div class=\\\"cky-preference-header\\\"><span class=\\\"cky-preference-title\\\" aria-level=\\\"2\\\" data-cky-tag=\\\"detail-title\\\" role=\\\"heading\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_title]</span> <button aria-label=\\\"[cky_preference_close_label]\\\" class=\\\"cky-btn-close\\\" data-cky-tag=\\\"detail-close\\\"><img alt=\\\"\\\" src=\\\"https://cdn-cookieyes.com/assets/images/close.svg\\\"></button></div><div class=\\\"cky-preference-body-wrapper\\\"><div class=\\\"cky-preference-content-wrapper\\\" data-cky-tag=\\\"detail-description\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_description]</div><div class=\\\"cky-horizontal-separator\\\"></div><div class=\\\"cky-accordion-wrapper\\\" data-cky-tag=\\\"detail-categories\\\"><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategorynecessary\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategorynecessaryBody\\\" aria-label=\\\"[cky_preference_necessary_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_necessary_title]</button><span class=\\\"cky-always-active\\\" data-cky-tag=\\\"always-active\\\">[cky_preference_always_enabled]</span></div><div class=\\\"cky-accordion-header-des\\\" data-cky-tag=\\\"detail-category-description\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_necessary_description]</div></div></div><div class=\\\"cky-accordion-body\\\" id=\\\"ckyDetailCategorynecessaryBody\\\"><div class=\\\"cky-audit-table\\\" data-cky-tag=\\\"audit-table\\\" style=\\\"color: #d0d0d0; border-color: #474444; background-color: #2a2a2a;\\\"></div></div></div><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategoryfunctional\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategoryfunctionalBody\\\" aria-label=\\\"[cky_preference_functional_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_functional_title]</button><div class=\\\"cky-switch\\\" data-cky-tag=\\\"detail-category-toggle\\\"><input type=\\\"checkbox\\\" id=\\\"ckySwitchfunctional\\\" aria-label=\\\"[cky_category_toggle_label]\\\" autocomplete=\\\"off\\\"></div></div><div class=\\\"cky-accordion-header-des\\\" data-cky-tag=\\\"detail-category-description\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_functional_description]</div></div></div><div class=\\\"cky-accordion-body\\\" id=\\\"ckyDetailCategoryfunctionalBody\\\"><div class=\\\"cky-audit-table\\\" data-cky-tag=\\\"audit-table\\\" style=\\\"color: #d0d0d0; border-color: #474444; background-color: #2a2a2a;\\\"></div></div></div><div class=\\\"cky-accordion\\\" id=\\\"ckyDetailCategoryanalytics\\\"><div class=\\\"cky-accordion-item\\\"><div class=\\\"cky-accordion-chevron\\\"><i class=\\\"cky-chevron-right\\\"></i></div><div class=\\\"cky-accordion-header-wrapper\\\"><div class=\\\"cky-accordion-header\\\"><button class=\\\"cky-accordion-btn\\\" aria-expanded=\\\"false\\\" aria-controls=\\\"ckyDetailCategoryanalyticsBody\\\" aria-label=\\\"[cky_preference_analytics_title]\\\" data-cky-tag=\\\"detail-category-title\\\" style=\\\"color: #d0d0d0;\\\">[cky_preference_analytics_title]</button>"
+  },
+  {
+   "kind": "request",
+   "type": "fetch",
+   "method": "GET",
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/audit-table/SotVKN7H.json",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/translations/_NBsBrO8.json",
+   "contentType": "application/json",
+   "body": "{\"cky_notice_title\":\"We value your privacy\",\"cky_notice_description\":\"<p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \\\"Accept All\\\", you consent to our use of cookies.</p>\",\"cky_notice_close_label\":\"Close\",\"cky_readmore_text\":\"Cookie Policy\",\"cky_readmore_privacyLink\":\"\",\"cky_revisit_title\":\"Consent Preferences\",\"cky_video_placeholder_title\":\"Please accept cookies to access this content\",\"cky_accept_text\":\"Accept All\",\"cky_reject_text\":\"Reject All\",\"cky_settings_text\":\"Customize\",\"cky_preference_title\":\"Customize Consent Preferences\",\"cky_preference_description\":\"<p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorized as \\\"Necessary\\\" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p>\",\"cky_preference_always_enabled\":\"Always Active\",\"cky_preference_save_text\":\"Save My Preferences\",\"cky_preference_accept_text\":\"Accept All\",\"cky_preference_reject_text\":\"Reject All\",\"cky_preview_save_text\":\"Save My Preferences\",\"cky_enable_category_label\":\"Enable\",\"cky_disable_category_label\":\"Disable\",\"cky_preference_close_label\":\"Close\",\"cky_showmore_text\":\"Show more\",\"cky_showless_text\":\"Show less\"}"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://cdn-cookieyes.com/client_data/4841d109c8fd6628f68242a8/audit-table/SotVKN7H.json",
+   "contentType": "application/json",
+   "body": "{\"cookies\":{\"PHPSESSID\":{\"cookie_id\":\"PHPSESSID\",\"duration\":\"session\",\"description\":\"This cookie is native to PHP applications. The cookie stores and identifies a user's unique session ID to manage user sessions on the website. The cookie is a session cookie and will be deleted when all the browser windows are closed.\"},\"cookieyes-consent\":{\"cookie_id\":\"cookieyes-consent\",\"duration\":\"1 year\",\"description\":\"CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.\"},\"elementor\":{\"cookie_id\":\"elementor\",\"duration\":\"never\",\"description\":\"The website's WordPress theme uses this cookie. It allows the website owner to implement or change the website's content in real-time.\"},\"rc::a\":{\"cookie_id\":\"rc::a\",\"duration\":\"never\",\"description\":\"This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.\"},\"rc::c\":{\"cookie_id\":\"rc::c\",\"duration\":\"session\",\"description\":\"This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.\"},\"m\":{\"cookie_id\":\"m\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Stripe sets this cookie for fraud prevention purposes. It identifies the device used to access the website, allowing the website to be formatted accordingly.\"},\"__stripe_mid\":{\"cookie_id\":\"__stripe_mid\",\"duration\":\"1 year\",\"description\":\"Stripe sets this cookie to process payments.\"},\"__stripe_sid\":{\"cookie_id\":\"__stripe_sid\",\"duration\":\"1 hour\",\"description\":\"Stripe sets this cookie to process payments.\"},\"__cf_bm\":{\"cookie_id\":\"__cf_bm\",\"duration\":\"1 hour\",\"description\":\"This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. \"},\"activechatyWidgets\":{\"cookie_id\":\"activechatyWidgets\",\"duration\":\"1 day\",\"description\":\"Chaty set this cookie to collect information about how the user interacts with the live chat feature on the website.\"},\"yt-remote-device-id\":{\"cookie_id\":\"yt-remote-device-id\",\"duration\":\"never\",\"description\":\"YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\"},\"ytidb::LAST_RESULT_ENTRY_KEY\":{\"cookie_id\":\"ytidb::LAST_RESULT_ENTRY_KEY\",\"duration\":\"never\",\"description\":\"The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.\"},\"yt-player-headers-readable\":{\"cookie_id\":\"yt-player-headers-readable\",\"duration\":\"never\",\"description\":\"The yt-player-headers-readable cookie is used by YouTube to store user preferences related to video playback and interface, enhancing the user's viewing experience.\"},\"yt-remote-connected-devices\":{\"cookie_id\":\"yt-remote-connected-devices\",\"duration\":\"never\",\"description\":\"YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\"},\"yt-player-bandwidth\":{\"cookie_id\":\"yt-player-bandwidth\",\"duration\":\"never\",\"description\":\"The yt-player-bandwidth cookie is used to store the user's video player preferences and settings, particularly related to bandwidth and streaming quality on YouTube.\"},\"yt-remote-session-app\":{\"cookie_id\":\"yt-remote-session-app\",\"duration\":\"session\",\"description\":\"The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.\"},\"yt-remote-cast-installed\":{\"cookie_id\":\"yt-remote-cast-installed\",\"duration\":\"session\",\"description\":\"The yt-remote-cast-installed cookie is used to store the user's video player preferences using embedded YouTube video.\"},\"yt-remote-session-name\":{\"cookie_id\":\"yt-remote-session-name\",\"duration\":\"session\",\"description\":\"The yt-remote-session-name cookie is used by YouTube to store the user's video player preferences using embedded YouTube video.\"},\"yt-remote-cast-available\":{\"cookie_id\":\"yt-remote-cast-available\",\"duration\":\"session\",\"description\":\"The yt-remote-cast-available cookie is used to store the user's preferences regarding whether casting is available on their YouTube video player.\"},\"yt-remote-fast-check-period\":{\"cookie_id\":\"yt-remote-fast-check-period\",\"duration\":\"session\",\"description\":\"The yt-remote-fast-check-period cookie is used by YouTube to store the user's video player preferences for embedded YouTube videos.\"},\"_gcl_au\":{\"cookie_id\":\"_gcl_au\",\"duration\":\"3 months\",\"description\":\"Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.\"},\"_ga\":{\"cookie_id\":\"_ga\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.\"},\"_ga_*\":{\"cookie_id\":\"_ga_*\",\"duration\":\"1 year 1 month 4 days\",\"description\":\"Google Analytics sets this cookie to store and count page views.\"},\"YSC\":{\"cookie_id\":\"YSC\",\"duration\":\"session\",\"description\":\"Youtube sets this cookie to track the views of embedded videos on Youtube pages.\"},\"VISITOR_INFO1_LIVE\":{\"cookie_id\":\"VISITOR_INFO1_LIVE\",\"duration\":\"6 months\",\"description\":\"YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.\"},\"VISITOR_PRIVACY_METADATA\":{\"cookie_id\":\"VISITOR_PRIVACY_METADATA\",\"duration\":\"6 months\",\"description\":\"YouTube sets this cookie to store the user's cookie consent state for the current domain.\\t\"},\"test_cookie\":{\"cookie_id\":\"test_cookie\",\"duration\":\"15 minutes\",\"description\":\"doubleclick.net sets this cookie to determine if the user's browser supports cookies.\"},\"PREF\":{\"cookie_id\":\"PREF\",\"duration\":\"8 months\",\"description\":\"PREF cookie is set by Youtube to store user preferences like language, format of search results and other customizations for YouTube Videos embedded in different sites.\"},\"NID\":{\"cookie_id\":\"NID\",\"duration\":\"6 months\",\"description\":\"Google sets the cookie for advertising purposes; to limit the number of times the user sees an ad, to unwanted mute ads, and to measure the effectiveness of ads.\"},\"chatyWidget_0\":{\"cookie_id\":\"chatyWidget_0\",\"duration\":\"7 days\",\"description\":\"Description is currently not available.\"},\"__cflb\":{\"cookie_id\":\"__cflb\",\"duration\":\"1 hour\",\"description\":\"This cookie is used by Cloudflare for load balancing.\\n\\n\"},\"hmt_id\":{\"cookie_id\":\"hmt_id\",\"duration\":\"1 month\",\"description\":\"Description is currently not available.\"}},\"cky_audit_table_empty_text\":\"No cookies to display.\",\"cky_audit_table_header_id\":\"Cookie\",\"cky_audit_table_header_duration\":\"Duration\",\"cky_audit_table_header_description\":\"Description\",\"cky_preference_necessary_title\":\"Necessary\",\"cky_preference_necessary_description\":\"<p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p>\",\"cky_preference_functional_title\":\"Functional\",\"cky_preference_functional_description\":\"<p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p>\",\"cky_preference_analytics_title\":\"Analytics\",\"cky_preference_analytics_description\":\"<p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p>\",\"cky_preference_performance_title\":\"Performance\",\"cky_preference_performance_description\":\"<p>Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user exper"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://js.web-2-tel.com/org-jsSdk",
+   "contentType": "application/javascript",
+   "body": "//# sourceURL=jsSdk.js\nvar telmeSdk =\n{\n    sessionIdentifier: null,\n    timer: null,\n    replaceAllNumberDetail: {},\n    options: {\"isIntl\":true,\"trackPage\":false,\"formTrack\":false,\"formDataTrack\":true,\"enableHtmlListener\":true,\"enableDynamicEntireDomListener\":false,\"debugMode\":false},\n    timeOutMs: 5000000,\n    hasErrorTracking: window.Sentry && document.getElementById(\"telme-error-handler\") !== null,\n    isSafariOnIOS: false,\n    cacheKey: \"telme.js.session\",\n\n    // Flat routing fields written into debugInfo by initialSetup.js and carried across the\n    // wholesale rebuild in initDebugInfo.\n    debugInfoRoutingKeys: [\"platform\", \"db\", \"config\", \"configtype\", \"tier\", \"sdkHost\", \"identifier\",\n        \"pageUrl\", \"stage\", \"timestampUtc\", \"transport\", \"url\", \"hasCachedSession\",\n        \"scannedNumbers\"],\n    pooledCookieKey: \"telme.js.poolNumbers\",\n    numbersCookieKey: \"telme.js.numbers\",\n    sessionCookieKey: \"telme.js.session\",\n    contextArray: null,\n    replacedNumbers: null,\n    replacedImages: null,\n    replacedTexts: null,\n    contextExactURLs: null,\n    currentPage: null,\n    lookUpPhoneNumberRgx: null,\n    alreadyViewedNumbers: {},\n    elementReplacedAttr: \"dni-replaced\",\n    gaConfigIds: null,\n    freshpaintEnabled: false,\n    freshpaintAttributionKeys: [],\n    debugInfo: null,\n\n    initDebugInfo: function () {\n        // Routing fields are merged flat into debugInfo and kept at the top. They are taken\n        // from the in-memory global that initialSetup.js left on the page rather than from\n        // localStorage, because the session cache can be cleared between the two stages,\n        // which would silently drop them.\n        // Seeded first so platform and db lead the object; the real platform value is applied\n        // below, once the carried and in-memory values have been merged over the top.\n        var info = { platform: null, db: null, config: null, configtype: null };\n        try {\n            var stored = telmeSdk.getLocalStorageData();\n            if (stored && stored.debugInfo) {\n                var carried = telmeSdk.debugInfoRoutingKeys;\n                for (var c = 0; c < carried.length; c++) {\n                    if (stored.debugInfo[carried[c]] !== undefined) {\n                        info[carried[c]] = stored.debugInfo[carried[c]];\n                    }\n                }\n            }\n        } catch (e) { }\n        try {\n            var dni = (typeof telmeDniOrgSdk !== \"undefined\" ? telmeDniOrgSdk : null)\n                || (typeof telmeDniSdk !== \"undefined\" ? telmeDniSdk : null)\n                || window.telmeDniOrgSdk || window.telmeDniSdk;\n            if (dni) {\n                info.db = dni.dniDb;\n                info.config = dni.dniConfig;\n                info.configtype = dni.dniConfigType;\n                info.tier = dni.dniTier;\n                info.sdkHost = dni.dniHost;\n                info.identifier = dni.dniIdentifier;\n            }\n        } catch (e) { }\n        // Set here rather than relying on carry-forward: the session cache is often cleared\n        // between the two stages, which would silently drop both fields.\n        try { info.pageUrl = document.URL; } catch (e) { }\n        info.hasCachedSession = !!(typeof stored !== \"undefined\" && stored && stored.sessionData\n            && stored.sessionData.SessionIdentifier);\n        // Runtime of the tier that actually served this replacement snippet, which is the tier\n        // the session was routed to. The setup snippet always comes from the default tier, so a\n        // session routed to another tier reports that tier's runtime only from here.\n        info.platform = \".NET 6.0.36\";\n        info.servingTier = 2;\n        info.stage = \"replacement-applied\";\n        info.timestampUtc = new Date().toISOString();\n        // The setup snippet froze these at the routing tier's values, so every dniDiag line\n        // reports that tier even when another one served the replacement. Correct them here and\n        // emit one line that names the tier which actually did the work.\n        try {\n            if (dni) {\n                dni.dniPlatform = info.platform;\n                dni.dniServingTier = info.servingTier;\n                if (dni.dniDiag) {\n                    dni.dniDiag(\"replacement-applied\", { servedByHost: dni.dniHost });\n                }\n            }\n        } catch (e) { }\n\n        info.lastRunTimestamp = Date.now();\n        info.currentPage = window.location.pathname;\n        info.exactUrlExclusions = [];\n        info.replacements = {\n            numbers: { attempted: 0, replaced: 0, notFoundInDom: 0, details: [] },\n            vanity: { attempted: 0, replaced: 0, details: [] },\n            replaceAll: { enabled: false, dniNumber: null, nodesReplaced: 0 },\n            text: { attempted: 0, replaced: 0, notFoundInDom: 0, details: [] },\n            htmlAttributes: { attempted: 0, replaced: 0, notFoundInDom: 0, details: [] }\n        };\n        info.context = {\n            contextArray: [],\n            contextExactURLs: {},\n            matchedContexts: [],\n            excludedByExactUrl: false\n        };\n        info.triggeredRules = [];\n        info.poolCallbacks = { count: 0, lastCallbackTimestamp: null, numbersReceived: 0 };\n        info.session = { isNew: false, usedCachedCollection: false, isPooled: false };\n        info.pageVariables = telmeSdk._buildPageVariablesDebug(dni, stored);\n        telmeSdk.debugInfo = info;\n    },\n\n    saveDebugInfo: function (immediate) {\n        if (immediate) {\n            telmeSdk._flushDebugInfo();\n        } else {\n            clearTimeout(telmeSdk._debugSaveTimer);\n            telmeSdk._debugSaveTimer = setTimeout(function () { telmeSdk._flushDebugInfo(); }, 200);\n        }\n    },\n\n    _flushDebugInfo: function () {\n        try {\n            var cache = telmeSdk.getLocalStorageData();\n            if (telmeSdk.debugInfo) {\n                // Cap detail arrays to last 20 entries\n                var maxDetails = 20;\n                var types = ['numbers', 'vanity', 'text', 'htmlAttributes'];\n                for (var t = 0; t < types.length; t++) {\n                    var details = telmeSdk.debugInfo.replacements[types[t]].details;\n                    if (details && details.length > maxDetails) {\n                        telmeSdk.debugInfo.replacements[types[t]].details = details.slice(-maxDetails);\n                    }\n                }\n                // Cap exactUrlExclusions to last 10\n                if (telmeSdk.debugInfo.exactUrlExclusions.length > 10) {\n                    telmeSdk.debugInfo.exactUrlExclusions = telmeSdk.debugInfo.exactUrlExclusions.slice(-10);\n                }\n                cache.debugInfo = telmeSdk.debugInfo;\n                telmeSdk.setLocalStorageData(cache);\n            }\n        } catch (e) { }\n    },\n\n    // --- Page variables debug (best-effort; must never throw on a customer page) ---\n    // Bounds a page-variables object so customer-controlled data cannot blow the shared\n    // localStorage budget or slow the repeated debugInfo writes: at most 50 keys, and every value\n    // reduced to a bounded primitive. Returns null for a null/non-object input, or a shallow\n    // bounded copy (the source is never mutated).\n    _boundPageVars: function (obj) {\n        if (obj == null || typeof obj !== \"object\") return null;\n        var out = {};\n        var maxKeys = 50, maxValueLen = 200, count = 0;\n        try {\n            for (var k in obj) {\n                if (!Object.prototype.hasOwnProperty.call(obj, k)) continue;\n                if (count >= maxKeys) { out.__truncated__ = true; break; }\n                out[k] = telmeSdk._boundPageVarValue(obj[k], maxValueLen);\n                count++;\n            }\n        } catch (e) { }\n        return out;\n    },\n\n    // Reduces one page-variable value to a bounded primitive. Non-primitives are replaced with a\n    // short type marker rather than kept by reference: debugInfo is re-serialized and written to\n    // localStorage on every sa"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "GET",
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php?action=bookly_render_service&form_id=575d18cab98789531baa32799828ec0b&new_chain=true&csrf_token=800d3f7b8d",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/boxing-medical/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{\"success\":true,\"form_id\":\"575d18cab98789531baa32799828ec0b\",\"status\":{\"booking\":\"new\"}}"
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://www.simplymedicals.co.uk/wp-admin/admin-ajax.php?action=bookly_render_service&form_id=575d18cab98789531baa32799828ec0b&new_chain=true&csrf_token=800d3f7b8d",
+   "contentType": "application/json; charset=UTF-8",
+   "body": "{\"success\":true,\"csrf_token\":\"800d3f7b8d\",\"html\":\"<div class=\\\"bookly-progress-tracker bookly-table\\\">\\n            <div class=\\\"active\\\">\\n            1. Service            <div class=step><\\/div>\\n        <\\/div>\\n                <div >\\n                        2. Extras            <div class=step><\\/div>\\n        <\\/div>\\n                <div >\\n                        3. Time            <div class=step><\\/div>\\n        <\\/div>\\n                    <div >\\n                4. Details        <div class=step><\\/div>\\n    <\\/div>\\n            <div >\\n                        5. Payment            <div class=step><\\/div>\\n        <\\/div>\\n        <div >\\n                6. Done        <div class=step><\\/div>\\n    <\\/div>\\n<\\/div>\\n<ol class=\\\"bookly-stepper\\\">\\n            <li class=\\\"bookly-step-active\\\"><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n            <li><\\/li>\\n    <\\/ol><div class=\\\"bookly-service-step\\\">\\n    <div class=\\\"bookly-box bookly-bold\\\">To book your medical, please select your preferred location: <\\/div>\\n    <div class=\\\"bookly-mobile-step-1 bookly-js-mobile-step-1\\\">\\n        <div class=\\\"bookly-js-chain\\\"><\\/div>\\n        <div class=\\\"bookly-nav-steps bookly-box\\\">\\n                        <div class=\\\"bookly-right\\\">\\n                <button class=\\\"bookly-right bookly-mobile-next-step bookly-js-mobile-next-step bookly-btn bookly-none ladda-button\\\" data-style=\\\"zoom-in\\\" data-spinner-size=\\\"40\\\">\\n                    <span class=\\\"ladda-label\\\">Next<\\/span>\\n                <\\/button>\\n            <\\/div>\\n        <\\/div>\\n    <\\/div>\\n    <div class=\\\"bookly-mobile-step-2 bookly-js-mobile-step-2\\\">\\n        <div class=\\\"bookly-box\\\" style=\\\"display: table; overflow:visible;\\\">\\n            <div class=\\\"bookly-left bookly-mobile-float-none\\\">\\n                <div class=\\\"bookly-available-date bookly-js-available-date bookly-left bookly-mobile-float-none\\\">\\n                    <div class=\\\"bookly-form-group\\\">\\n                        <label for=\\\"bookly-available-after-575d18cab98789531baa32799828ec0b\\\">I'm available on or after<\\/label>\\n                        <div>\\n                            <input id=\\\"bookly-available-after-575d18cab98789531baa32799828ec0b\\\" class=\\\"bookly-date-from bookly-js-date-from\\\" type=\\\"text\\\" value=\\\"\\\" data-value=\\\"2026-10-11\\\"\\/>\\n                            <div class=\\\"bookly:relative bookly:w-full bookly:z-10 bookly-js-datepicker-container\\\">\\n                                <div class=\\\"bookly:absolute bookly:top-1 bookly:w-72 bookly-p-0 bookly:bg-white bookly-js-datepicker-calendar bookly:min-w-[200px] bookly:rounded\\\"><\\/div>\\n                            <\\/div>\\n                        <\\/div>\\n                    <\\/div>\\n                <\\/div>\\n                                    <div class=\\\"bookly-week-days bookly-js-week-days bookly-left bookly-mobile-float-none\\\">\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-2\\\" class=\\\"bookly-col-label\\\">Mon<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-2\\\" value=\\\"2\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-3\\\" class=\\\"bookly-col-label\\\">Tue<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-3\\\" value=\\\"3\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-4\\\" class=\\\"bookly-col-label\\\">Wed<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-4\\\" value=\\\"4\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-5\\\" class=\\\"bookly-col-label\\\">Thu<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-5\\\" value=\\\"5\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-6\\\" class=\\\"bookly-col-label\\\">Fri<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-6\\\" value=\\\"6\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-7\\\" class=\\\"bookly-col-label\\\">Sat<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-7\\\" value=\\\"7\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                                    <div class=\\\"bookly-form-group\\\">\\n                                <label for=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-1\\\" class=\\\"bookly-col-label\\\">Sun<\\/label>\\n                                <input id=\\\"bookly-week-day-575d18cab98789531baa32799828ec0b-1\\\" value=\\\"1\\\"  checked='checked' type=\\\"checkbox\\\"\\/>\\n                            <\\/div>\\n                                            <\\/div>\\n                            <\\/div>\\n                            <div class=\\\"bookly-time-range bookly-js-time-range bookly-left bookly-mobile-float-none\\\">\\n                                            <div class=\\\"bookly-form-group bookly-time-from bookly-left\\\">\\n    <label for=\\\"bookly-from-575d18cab98789531baa32799828ec0b\\\">Start from<\\/label>\\n    <div>\\n        <select id=\\\"bookly-from-575d18cab98789531baa32799828ec0b\\\" class=\\\"bookly-js-select-time-from\\\">\\n                            <option value=\\\"07:30\\\" selected='selected'>07:30<\\/option>\\n                            <option value=\\\"08:00\\\">08:00<\\/option>\\n                            <option value=\\\"09:00\\\">09:00<\\/option>\\n                            <option value=\\\"10:00\\\">10:00<\\/option>\\n                            <option value=\\\"11:00\\\">11:00<\\/option>\\n                            <option value=\\\"12:00\\\">12:00<\\/option>\\n                            <option value=\\\"13:00\\\">13:00<\\/option>\\n                            <option value=\\\"14:00\\\">14:00<\\/option>\\n                            <option value=\\\"15:00\\\">15:00<\\/option>\\n                            <option value=\\\"16:00\\\">16:00<\\/option>\\n                            <option value=\\\"17:00\\\">17:00<\\/option>\\n                            <option value=\\\"18:00\\\">18:00<\\/option>\\n                            <option value=\\\"19:00\\\">19:00<\\/option>\\n                            <option value=\\\"20:00\\\">20:00<\\/option>\\n                            <option value=\\\"21:00\\\">21:00<\\/option>\\n                            <option value=\\\"22:00\\\">22:00<\\/option>\\n                    <\\/select>\\n    <\\/div>\\n<\\/div>                        <div class=\\\"bookly-form-group bookly-time-to bookly-left\\\">\\n    <label for=\\\"bookly-to-575d18cab98789531baa32799828ec0b\\\">Finish by<\\/label>\\n    <div>\\n        <select id=\\\"bookly-to-575d18cab98789531baa32799828ec0b\\\" class=\\\"bookly-js-select-time-to\\\">\\n                            <option value=\\\"07:30\\\">07:30<\\/option>\\n                            <option value=\\\"08:00\\\">08:00<\\/option>\\n                            <option val"
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "document",
+   "method": "GET",
+   "url": "https://m.stripe.network/inner.html",
+   "postData": "",
+   "headers": {
+    "accept-language": "en-GB",
+    "referer": "https://js.stripe.com/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+   }
+  },
+  {
+   "kind": "request",
+   "type": "script",
+   "method": "GET",
+   "url": "https://m.stripe.network/out-4.5.45.js",
+   "postData": "",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://m.stripe.network/inner.html",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "accept-language": "en-GB",
+    "sec-ch-ua-mobile": "?0"
+   }
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://m.stripe.com/6",
+   "postData": "JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjJkNTk3NjA3ZmI5Njg5YjQwNDI5NWVkZmY5MGNhNjRlMCUyMiUyQyUyMnQlMjIlM0E0LjQlMkMlMjJ0YWclMjIlM0ElMjIlMjRucG1fcGFja2FnZV92ZXJzaW9uJTIyJTJDJTIyc3JjJTIyJTNBJTIyanMlMjIlMkMlMjJhJTIyJTNBbnVsbCUyQyUyMmIlMjIlM0ElN0IlMjJhJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZYX3ZXT3BZUXcyeWltUHphMmxkaWxzc1oxVmdsQWg2VjNoeGtUVGNrbTE0LkhnYzRuM2t2bkE0Ulk0aUlwbkVaeHViYUNOSjdPOEpIRmEyY1ZvQ0ZUMWsuTFR6Skswa3ozLVRSMi1aVVJDdHhYMXpvM3BUbDBMUFhOeWVjakJOdTM2VS5pRG9QZDhCVXVhXzFyZHBLcEFFTnpBLUJ1blhoNTVYRE5DOGk4QXBuaWtvJTJGdkI4Y1lyY0lEdTVWNEQ0UUdWTE13WGloZVZaTjUtWWFIakl6ejVEUE1vVSUyRiUyMiUyQyUyMmIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRlhfdldPcFlRdzJ5aW1QemEybGRpbHNzWjFWZ2xBaDZWM2h4a1RUY2ttMTQuSGdjNG4za3ZuQTRSWTRpSXBuRVp4dWJhQ05KN084SkhGYTJjVm9DRlQxay5MVHpKSzBrejMtVFIyLVpVUkN0eFgxem8zcFRsMExQWE55ZWNqQk51MzZVLmlEb1BkOEJVdWFfMXJkcEtwQUVOekEtQnVuWGg1NVhETkM4aThBcG5pa28lMkZFc3R5bFVKbFh5eC1pOFJjVVBuX1B5dUVtVmFuQzVuc3hZN2NUWDloTUdJJTJGJTIyJTJDJTIyYyUyMiUzQSUyMm9sNnllOXpBTXk3NW9YS2QxaUtKa0dJNnFXTVNORzhIRjlIcm5JU3kyUEElMjIlMkMlMjJkJTIyJTNBJTIyYzVmNzg3MjItOWJiYi00ZjFjLTkyMjctMzk0MGEzM2QwZDgxMTZiZThhJTIyJTJDJTIyZSUyMiUzQSUyMjgwMjMxNjEwLTc3ZmMtNDliMS05Y2ZjLWQzZjUyOGVkNmE2MTZlYTEzNyUyMiUyQyUyMmYlMjIlM0FmYWxzZSUyQyUyMmclMjIlM0F0cnVlJTJDJTIyaCUyMiUzQXRydWUlMkMlMjJpJTIyJTNBJTVCJTIybG9jYXRpb24lMjIlNUQlMkMlMjJqJTIyJTNBJTVCJTVEJTJDJTIybiUyMiUzQTE0LjY5OTk5OTk5OTk4MjUzOCUyQyUyMnUlMjIlM0ElMjJ3d3cuc2ltcGx5bWVkaWNhbHMuY28udWslMjIlMkMlMjJ2JTIyJTNBJTIyd3d3LnNpbXBseW1lZGljYWxzLmNvLnVrJTIyJTJDJTIydyUyMiUzQSUyMjE3OTE3NTQwNTkzOTglM0E4NTUxNWQxMGIwMGY2NTVjYjc1ZjcwZWJmMjMyMDJkOTNlNGEwZTY2ZjVmOGEwNDA5MTBjMjdkZmNkZTg3MjM5JTIyJTdEJTJDJTIyaCUyMiUzQSUyMjVhYzU1OWVhYzllYmY5N2NjMmVmJTIyJTdE",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://m.stripe.network/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://m.stripe.com/6",
+   "contentType": "application/json;charset=utf-8",
+   "body": "{\"muid\":\"c5f78722-9bbb-4f1c-9227-3940a33d0d8116be8a\",\"guid\":\"7f6f3c54-17dd-4d4e-afcc-8006dc4a5e2fecdd3b\",\"sid\":\"80231610-77fc-49b1-9cfc-d3f528ed6a616ea137\"}"
+  },
+  {
+   "kind": "request",
+   "type": "xhr",
+   "method": "POST",
+   "url": "https://js.web-2-tel.com/org-jsSaveCookie",
+   "postData": "{\"googleAnalyticsCookie\":null,\"adobeAnalyticsCookie\":null,\"freshpaintCookie\":null,\"googleAdsCookie\":{\"googleAdsConsent\":{\"ad_storage\":\"denied\",\"analytics_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\"}},\"consentData\":null,\"sessionIdentifier\":\"e1b8825b-4cd9-433d-96fd-3194fc51c7b6\"}",
+   "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.simplymedicals.co.uk/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"HeadlessChrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "content-type": "application/json",
+    "sec-ch-ua-mobile": "?0",
+    "accept-language": "en-GB"
+   }
+  },
+  {
+   "kind": "response",
+   "status": 200,
+   "url": "https://js.web-2-tel.com/org-jsSaveCookie",
+   "contentType": "",
+   "body": ""
+  },
+  {
+   "kind": "click-failed",
+   "selector": "button:has-text(\"Next\")"
+  }
+ ]
+}
