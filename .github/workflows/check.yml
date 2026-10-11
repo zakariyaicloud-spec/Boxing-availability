@@ -1,0 +1,36 @@
+name: Check clinic availability
+
+# Four times a day (times are UTC: 7am, 12pm, 5pm and 9pm UK summer time,
+# one hour earlier in winter). Can also be run by hand from the Actions tab.
+on:
+  schedule:
+    - cron: '0 6,11,16,20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: availability
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - run: node scripts/check.js
+      - name: Publish the new times
+        run: |
+          git config user.name "availability-bot"
+          git config user.email "availability-bot@users.noreply.github.com"
+          git add availability.json debug
+          git commit -m "Update availability" || echo "No changes"
+          git pull --rebase
+          git push
