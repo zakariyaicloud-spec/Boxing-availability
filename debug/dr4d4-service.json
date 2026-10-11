@@ -1,0 +1,20 @@
+{
+ "svc": {
+  "id": 11,
+  "name": "Professional Boxing Medical",
+  "duration": 900,
+  "price": 45
+ },
+ "providers": [
+  1,
+  4,
+  5,
+  335,
+  488,
+  698,
+  804,
+  994,
+  1063,
+  737
+ ]
+}
