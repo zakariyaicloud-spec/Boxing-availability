@@ -1,4 +1,4 @@
-Run at 2026-10-11T21:37:41.062Z
+Run at 2026-10-11T21:41:59.202Z
 OK    jh-burnley: 10 days, 78 times
 OK    jh-dewsbury: 12 days, 56 times
 OK    jh-edgbaston: 25 days, 87 times
@@ -9,9 +9,6 @@ OK    d4-shaw: 4 days, 30 times
 OK    d4-rochdale: 9 days, 88 times
 OK    d4-rusholme: 4 days, 28 times
 OK    d4-victoria: 4 days, 54 times
-OK    sm-oldbury: 1 days, 1 times
-OK    sm-droitwich: 1 days, 1 times
-FAIL  sm-garretts: Time step did not load
-FAIL  sm-wbrom: Time step did not load
-FAIL  sm-willenhall: Time step did not load
+OK    sm-oldbury: 4 days, 4 times
+OK    sm-droitwich: 8 days, 8 times
 OK    hm-mayfair: 17 days, 510 times
