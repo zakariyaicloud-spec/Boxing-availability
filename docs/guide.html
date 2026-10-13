@@ -1,0 +1,537 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<meta name="theme-color" content="#B4232C">
+<meta property="og:site_name" content="Boxing Medicals">
+<meta property="og:title" content="Easy BCR1 · Boxing Medicals UK">
+<meta property="og:description" content="Your England Boxing BCR1 medical for £50 at a trusted clinic near you. Find the next free appointment within your chosen distance, plus everything you need to know about the BCR1.">
+<meta property="og:image" content="https://boxingmedicals.co.uk/images/share-image.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+
+<title>Easy BCR1 · Boxing Medicals UK</title>
+<meta name="description" content="Your England Boxing BCR1 medical for £50 at a trusted clinic near you. Find the next free appointment within your chosen distance, plus everything you need to know about the BCR1.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{color-scheme:light;--ink:#15171C;--muted:#50545C;--line:#E2E2DE;--soft:#F6F6F4;--accent:#B4232C;--accent-dark:#A11F28;--accent-soft:#FBE9EA;--warn-bg:#FBEFD9;--warn-fg:#5C3806}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--soft);color:var(--ink);font-family:'Figtree',system-ui,sans-serif;font-size:16px;line-height:1.6}
+  a{color:var(--accent-dark)}
+  h1,h2,h3{font-family:'Bricolage Grotesque',sans-serif;letter-spacing:-.02em;margin:0;line-height:1.15;text-wrap:balance}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+  header.top{background:#fff;border-bottom:1px solid var(--line)}
+  header.top .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;min-height:64px;padding-block:10px}
+  .logo{display:flex;align-items:center;gap:10px;font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:22px;text-decoration:none;color:var(--ink);white-space:nowrap}
+  .nav{margin-left:auto;display:flex;flex-wrap:wrap;gap:8px 16px;font-weight:600;font-size:15px}
+  .nav a{color:var(--ink);text-decoration:none}
+  .nav a[aria-current]{color:var(--accent-dark)}
+  @media (max-width:480px){.logo{font-size:19px}}
+  .hero{background:var(--ink);color:#fff}
+  .hero .wrap{padding:52px 20px 44px;display:flex;flex-direction:column;gap:16px}
+  .eyebrow{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#F2A7AC}
+  .hero h1{font-size:clamp(32px,5vw,48px);max-width:760px}
+  .hero p{margin:0;color:#D6D9DE;font-size:18px;max-width:660px}
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;max-width:900px}
+  .fact{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:14px 16px}
+  .fact b{display:block;font-family:'Bricolage Grotesque',sans-serif;font-size:24px;color:#fff}
+  .fact span{font-size:14px;color:#D6D9DE}
+  @media (max-width:480px){.facts{grid-template-columns:1fr 1fr;gap:10px}.fact{padding:12px}.fact b{font-size:19px}.fact span{font-size:13px}}
+  .btn{font:inherit;font-weight:700;font-size:16px;min-height:48px;padding:0 20px;border-radius:10px;border:0;background:var(--accent);color:#fff;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;align-self:flex-start}
+  .btn:focus-visible{outline:3px solid #F2A7AC;outline-offset:2px}
+  .layout{display:flex;flex-wrap:wrap;gap:32px;align-items:flex-start;padding-block:40px}
+  .toc{flex:1 1 220px;max-width:100%;background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px 20px;position:sticky;top:16px}
+  .toc strong{display:block;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent-dark);margin-bottom:8px}
+  .toc ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:15px}
+  .toc a{color:var(--ink);text-decoration:none}
+  .toc a:hover{color:var(--accent-dark)}
+  @media (max-width:760px){.toc{position:static}}
+  article{flex:999 1 560px;min-width:0;display:flex;flex-direction:column;gap:20px}
+  .sec{background:#fff;border:1px solid var(--line);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:12px;scroll-margin-top:16px}
+  .sec h2{font-size:26px;color:var(--accent-dark)}
+  .sec p{margin:0;max-width:68ch}
+  .sec ul,.sec ol{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:6px;max-width:68ch}
+  .steps{list-style:none;padding:0!important;counter-reset:s}
+  .steps li{counter-increment:s;display:grid;grid-template-columns:36px 1fr;gap:12px;align-items:start}
+  .steps li::before{content:counter(s);font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:18px;color:#fff;background:var(--accent);width:32px;height:32px;border-radius:999px;display:grid;place-items:center}
+  .note{background:var(--warn-bg);color:var(--warn-fg);border-radius:12px;padding:12px 14px;font-size:15px}
+  .callout{background:var(--accent-soft);border-radius:12px;padding:14px 16px;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px}
+  table{border-collapse:collapse;width:100%;font-size:15px}
+  th,td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+  .tbl{overflow-x:auto}
+  details{border:1px solid var(--line);border-radius:12px;padding:12px 16px;background:var(--soft)}
+  summary{font-weight:700;cursor:pointer}
+  details p{margin:8px 0 0;color:var(--muted)}
+  .sources{font-size:14px;color:var(--muted)}
+  footer{background:var(--ink);color:#D6D9DE;font-size:14px}
+  footer .wrap{padding:28px 20px}
+  html{scroll-behavior:smooth}
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+  /* Shared site header: logo row + three section tabs */
+  header.top .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;min-height:64px;padding-block:10px}
+  .paylink{margin-left:auto;font-weight:600;font-size:15px;color:var(--ink);text-decoration:none;white-space:nowrap}
+  .paylink:hover{color:var(--accent-dark)}
+  .sections{background:#fff;border-bottom:1px solid var(--line)}
+  .sections .wrap{display:grid;grid-template-columns:repeat(3,1fr)}
+  .sections a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:52px;padding:0 6px;font-weight:700;font-size:16px;color:var(--ink);text-decoration:none;border-bottom:3px solid transparent}
+  .sections a:hover{color:var(--accent-dark)}
+  .sections a[aria-current]{color:var(--accent-dark);border-bottom-color:var(--accent)}
+  .sections a:focus-visible,.paylink:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+  @media (max-width:480px){.sections a{font-size:15px}.paylink{font-size:14px}}
+
+  /* ---- Easy BCR1 package ---- */
+  [hidden]{display:none!important}
+  .easy .wrap{padding:44px 20px 48px}
+  .hero .wrap.easy-grid{display:grid;flex-direction:initial;grid-template-columns:minmax(0,1fr) minmax(0,440px);gap:36px;align-items:start}
+  @media (max-width:860px){.hero .wrap.easy-grid{grid-template-columns:minmax(0,1fr)}}
+  .easy-copy{display:flex;flex-direction:column;gap:16px;min-width:0}
+  .ticks{list-style:none;margin:4px 0 0;padding:0;display:flex;flex-direction:column;gap:10px;color:#E6E8EC;font-size:17px;max-width:560px}
+  .ticks li{display:grid;grid-template-columns:24px 1fr;gap:10px;align-items:start}
+  .ticks li::before{content:"";width:22px;height:22px;margin-top:2px;border-radius:999px;background:var(--accent) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 22'%3E%3Cpath d='M6.5 11.5l3 3 6-7' stroke='%23fff' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/22px no-repeat}
+  .finder{background:#fff;color:var(--ink);border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:18px;box-shadow:0 18px 50px rgba(0,0,0,.28);min-width:0}
+  .finder-price{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+  .pkg{display:block;font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:24px;letter-spacing:-.02em;color:var(--accent-dark)}
+  .pkg-sub{display:block;font-size:14px;color:var(--muted)}
+  .big-price{font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:48px;line-height:1;letter-spacing:-.03em;text-align:right}
+  .big-price small{display:block;font-family:'Figtree',system-ui,sans-serif;font-size:13px;font-weight:600;letter-spacing:0;color:var(--muted);margin-top:4px}
+  .finder label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+  .finder input[type=text],.finder input[type=tel],.finder input[type=email],.finder input[type=date],.finder select{font:inherit;font-size:16px;color:var(--ink);min-height:46px;border:1px solid #CFCFCA;border-radius:10px;padding:0 12px;background:#fff;width:100%}
+  .finder input:focus,.finder select:focus{outline:2px solid var(--accent);outline-offset:0;border-color:var(--accent)}
+  .find-form,.book-form{display:flex;flex-direction:column;gap:14px}
+  fieldset{border:0;margin:0;padding:0;min-width:0}
+  legend{font-size:13px;font-weight:600;color:var(--muted);margin-bottom:6px;padding:0}
+  .seg{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+  .seg label{position:relative}
+  .seg input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
+  .seg span{display:flex;align-items:center;justify-content:center;min-height:44px;border:1px solid #CFCFCA;border-radius:10px;font-size:14px;font-weight:700;color:var(--ink);text-align:center;cursor:pointer}
+  .seg input:checked+span{background:var(--ink);border-color:var(--ink);color:#fff}
+  .seg input:focus-visible+span{outline:2px solid var(--accent);outline-offset:2px}
+  .btn.wide{width:100%;align-self:stretch;cursor:pointer}
+  .btn:disabled{background:#9A9CA1;cursor:wait}
+  .fine{font-size:13px;color:var(--muted);margin:0}
+  .two{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+  .res{display:flex;flex-direction:column;gap:12px}
+  .res-head{font-size:14px;color:var(--muted);margin:0}
+  .res-head b{color:var(--ink)}
+  .next{border:2px solid var(--accent);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:6px;background:var(--accent-soft)}
+  .next .tag{font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--accent-dark)}
+  .next .when{font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:26px;letter-spacing:-.02em;line-height:1.1}
+  .next .where{font-size:15px}
+  .next .btn{margin-top:6px}
+  .alt-title{font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:4px 0 0}
+  .alts{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+  .alt{width:100%;font:inherit;text-align:left;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;align-items:center;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);cursor:pointer}
+  .alt:hover,.alt:focus-visible{border-color:var(--accent);outline:none}
+  .alt b{font-size:15px}
+  .alt span{font-size:13px;color:var(--muted);grid-column:1}
+  .alt i{font-style:normal;font-weight:700;font-size:13px;color:var(--accent-dark);grid-row:1/3;grid-column:2}
+  .none{background:var(--soft);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:10px;font-size:15px}
+  .none .btn{align-self:flex-start;cursor:pointer}
+  .back{font:inherit;font-size:14px;font-weight:600;color:var(--accent-dark);background:none;border:0;padding:0;cursor:pointer;align-self:flex-start}
+  .summary{background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:15px;display:flex;flex-direction:column;gap:2px}
+  .summary b{font-size:16px}
+  .pay{display:flex;flex-direction:column;gap:8px}
+  .pay .opt{flex-direction:row;align-items:center;gap:10px;border:1px solid #CFCFCA;border-radius:10px;padding:12px;font-size:15px;color:var(--ink);font-weight:600}
+  .pay .opt:has(input:checked){border-color:var(--accent);background:var(--accent-soft)}
+  .check{flex-direction:row!important;align-items:flex-start;gap:10px!important;font-size:14px!important;font-weight:500!important;color:var(--ink)!important}
+  .pay input,.check input{width:18px;height:18px;margin:2px 0 0;accent-color:var(--accent);flex:none}
+  .sent{display:flex;flex-direction:column;gap:10px}
+  .sent p{margin:0}
+  .sent-actions{display:flex;flex-wrap:wrap;gap:10px}
+  .btn.ghost-dark{background:#fff;color:var(--ink);border:1px solid var(--ink)}
+  .steps-band{background:#fff;border-bottom:1px solid var(--line)}
+  .steps-band .wrap{padding:40px 20px;display:flex;flex-direction:column;gap:18px}
+  .steps-band h2{font-size:28px}
+  .band{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;counter-reset:b}
+  .band li{counter-increment:b;background:var(--soft);border-radius:16px;padding:18px 20px;display:flex;flex-direction:column;gap:6px}
+  .band li::before{content:counter(b);font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:26px;color:var(--accent-dark)}
+  .band strong{font-size:17px}
+  .band span{color:var(--muted)}
+  .textlink{font-weight:700;align-self:flex-start}
+  .guide-intro .wrap{padding:44px 20px 0;display:flex;flex-direction:column;gap:12px}
+  .guide-intro h2{font-size:clamp(28px,4vw,38px)}
+  .guide-intro p{margin:0;color:var(--muted);font-size:17px;max-width:660px}
+  .eyebrow.dark{color:var(--accent-dark)}
+  .guide-intro .facts{margin-top:8px}
+  .guide-intro .fact{background:#fff;border:1px solid var(--line)}
+  .guide-intro .fact b{color:var(--ink)}
+  .guide-intro .fact span{color:var(--muted)}
+  .layout{padding-top:28px}
+  /* keep finder text dark inside the dark hero */
+  .hero .finder p{margin:0;color:var(--ink);font-size:15px;max-width:none}
+  .hero .finder .fine{color:var(--muted);font-size:13px}
+  .hero .finder .res-head{color:var(--muted);font-size:14px}
+  .hero .finder .alt-title{color:var(--muted);font-size:12px}
+
+  /* ---- Photos ---- */
+  .hero-photo{height:auto;width:100%;max-width:560px;aspect-ratio:16/10;object-fit:cover;border-radius:16px;display:block;margin-top:8px}
+  @media (max-width:860px){.hero-photo{max-width:100%;aspect-ratio:16/9}}
+  .intro-row{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:28px;align-items:center}
+  @media (max-width:760px){.intro-row{grid-template-columns:minmax(0,1fr)}}
+  .intro-text{display:flex;flex-direction:column;gap:12px;min-width:0}
+  .intro-photo{height:auto;width:100%;max-width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:16px;display:block}
+
+  /* Logo */
+  header.top .logo{display:flex;align-items:center}
+  header.top .logo img{display:block;height:34px;width:auto}
+  @media (max-width:480px){header.top .logo img{height:28px}}
+  .foot-logo{display:block;height:26px;width:auto;margin-bottom:12px}
+
+  /* Footer legal line */
+  .foot-legal{margin-top:16px;padding-top:14px;border-top:1px solid rgba(255,255,255,.14);font-size:13px;color:#A9ADB4}
+  .foot-legal a{color:#D6D9DE;font-weight:600}
+
+  /* BETA badge next to the logo */
+  .beta{display:inline-flex;align-items:center;font-family:'Figtree',system-ui,sans-serif;font-size:11px;font-weight:800;letter-spacing:.1em;color:#A11F28;background:#FBE9EA;border:1px solid #F2C9CC;border-radius:999px;padding:2px 8px;line-height:1.4}
+
+  /* Call to action under the ticks */
+  .hero-cta{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;margin-top:6px}
+  .hero-cta .btn{min-height:52px;padding:0 24px;font-size:17px;text-decoration:none;align-self:auto}
+  .hero-cta span{color:#D6D9DE;font-size:15px}
+  @media (max-width:480px){.hero-cta .btn{width:100%}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="index.html" aria-label="Boxing Medicals home"><img src="images/logo.svg" alt="Boxing Medicals" width="211" height="34"></a>
+    <span class="beta" title="This site is in beta">BETA</span>
+    <a class="paylink" href="index.html#payments">How payment works</a>
+  </div>
+</header>
+<nav class="sections" aria-label="Sections">
+  <div class="wrap">
+    <a href="clubs.html">For clubs</a>
+    <a href="guide.html" aria-current="page">For boxers</a>
+    <a href="index.html">Search</a>
+  </div>
+</nav>
+
+<section class="hero easy" id="easy">
+  <div class="wrap easy-grid">
+    <div class="easy-copy">
+      <span class="eyebrow">For boxers · Easy BCR1</span>
+      <h1>Your BCR1 medical, booked for £50.</h1>
+      <p>Tell us where you are and how far you'll travel. We find the next free appointment at one of our trusted clinics and book it in your name.</p>
+      <ul class="ticks">
+        <li>Full BCR1 medical with an England Boxing-registered doctor</li>
+        <li>Result recorded on your England Boxing profile on The Locker</li>
+        <li>The soonest free appointment within your chosen distance</li>
+        <li>£50 all in, with no booking fee or card fees. Pay by bank transfer as soon as you book a live time</li>
+      </ul>
+      <div class="hero-cta">
+        <a class="btn" href="#e-pc" id="hero-find">Find my next appointment</a>
+        <span>Takes about a minute · £50 all in</span>
+      </div>
+      <img class="hero-photo" src="images/boxer-guard.jpg" alt="An amateur boxer with gloves up in a gym" width="1100" height="687">
+    </div>
+
+    <div class="finder" aria-live="polite">
+      <div class="finder-price">
+        <div><span class="pkg">Easy BCR1</span><span class="pkg-sub">England Boxing medical</span></div>
+        <div class="big-price">£50<small>all in</small></div>
+      </div>
+
+      <!-- Step 1: where and how far -->
+      <form id="find-form" class="find-form">
+        <label for="e-pc">Your postcode or town
+          <input id="e-pc" type="text" placeholder="e.g. B16 0QJ" autocomplete="postal-code" required>
+        </label>
+        <fieldset class="radius">
+          <legend>How far will you travel?</legend>
+          <div class="seg">
+            <label><input type="radio" name="radius" value="5"><span>5 miles</span></label>
+            <label><input type="radio" name="radius" value="10" checked><span>10 miles</span></label>
+            <label><input type="radio" name="radius" value="15"><span>15 miles</span></label>
+            <label><input type="radio" name="radius" value="25"><span>25 miles</span></label>
+          </div>
+        </fieldset>
+        <button class="btn wide" type="submit" id="find-btn">Find my next appointment</button>
+        <p class="fine" id="find-note">Trusted clinics in Greater Manchester, the West Midlands and south-west London.</p>
+      </form>
+      <div id="results" hidden></div>
+
+      <!-- Step 2: boxer's details -->
+      <form id="book-form" class="book-form" hidden>
+        <button type="button" class="back" id="back">← Change appointment</button>
+        <div class="summary" id="b-summary"></div>
+        <div id="req-fields" class="two" hidden>
+          <label for="b-day">Preferred day<select id="b-day"></select></label>
+          <label for="b-part">Time of day<select id="b-part"><option>Any time</option><option>Morning</option><option>Afternoon</option><option>Evening</option></select></label>
+        </div>
+        <label for="b-name">Boxer's full name<input id="b-name" type="text" required autocomplete="name"></label>
+        <div class="two">
+          <label for="b-dob">Date of birth<input id="b-dob" type="date" required autocomplete="bday"></label>
+          <label for="b-mobile">Mobile<input id="b-mobile" type="tel" required minlength="10" autocomplete="tel"></label>
+        </div>
+        <label for="b-email">Email<input id="b-email" type="email" required autocomplete="email"></label>
+        <p class="fine">Booking for a junior? Put the boxer's name and date of birth, and your own mobile and email.</p>
+        <label class="check" for="b-locker"><input type="checkbox" id="b-locker" required><span>The boxer's England Boxing membership and age verification are done on The Locker. <a href="https://englandboxing.sport80.com/" target="_blank" rel="noopener">Not yet? Join for £15 a year</a></span></label>
+        <a class="btn wide" id="send-wa" href="#" target="_blank" rel="noopener" role="button" style="display:inline-flex;align-items:center;justify-content:center;text-decoration:none;cursor:pointer">Send booking on WhatsApp</a>
+        <p class="fine" id="pay-note">WhatsApp opens with your booking written out. Press send, then pay the £50 by bank transfer straight away.</p>
+      </form>
+
+      <!-- Step 3: done -->
+      <div id="sent" class="sent" hidden>
+        <strong>Nearly done.</strong>
+        <p>WhatsApp should have opened with your booking. <strong>Press send in WhatsApp</strong> first, then use the details below.</p>
+        <div id="pay-now"></div>
+        <div class="sent-actions"><a class="btn ghost-dark" id="reopen" href="#" target="_blank" rel="noopener">WhatsApp didn't open?</a><button type="button" class="btn ghost-dark" id="again">Book another boxer</button></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="steps-band">
+  <div class="wrap">
+    <h2>How the Easy BCR1 works</h2>
+    <ol class="band">
+      <li><strong>Find your slot</strong><span>Enter your postcode and how far you'll travel. We show the soonest free time at a trusted clinic.</span></li>
+      <li><strong>Send it and pay</strong><span>Send it to us on WhatsApp and pay £50 by bank transfer straight away. For a requested time, we check with the clinic first and send you a payment link.</span></li>
+      <li><strong>Pay £50 and turn up</strong><span>We book it in your name. The doctor records your result on The Locker.</span></li>
+    </ol>
+    <a class="textlink" href="index.html#payments">How payment and cancellations work</a>
+  </div>
+</section>
+
+<section class="guide-intro">
+  <div class="wrap">
+    <div class="intro-row">
+      <div class="intro-text">
+        <span class="eyebrow dark">BCR1 guide</span>
+        <h2>Your BCR1, explained</h2>
+        <p>Who needs one, what to sort out first, what happens on the day, and how long it takes before you can box.</p>
+        <p>Every BCR1 is done by a GMC-registered doctor on England Boxing's register. They check your history, heart, eyes, nerves and joints, then record the result on your England Boxing profile.</p>
+      </div>
+      <img class="intro-photo" src="images/doctor-scrubs.jpg" alt="A doctor in scrubs with a stethoscope" width="900" height="675" loading="lazy">
+    </div>
+    <div class="facts">
+      <div class="fact"><b>Every 12 months</b><span>Renew it to stay fit to box</span></div>
+      <div class="fact"><b>About 10–30 min</b><span>Typical appointment length</span></div>
+      <div class="fact"><b>£40–£95</b><span>Standard BCR1 at the clinics we list</span></div>
+      <div class="fact"><b>Several days</b><span>For sign-off by the regional registrar</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap layout">
+  <nav class="toc" aria-label="On this page">
+    <strong>On this page</strong>
+    <ol>
+      <li><a href="#what">What is a BCR1?</a></li>
+      <li><a href="#before">Before you book</a></li>
+      <li><a href="#day">What happens at the medical</a></li>
+      <li><a href="#after">After the medical</a></li>
+      <li><a href="#issues">If something comes up</a></li>
+      <li><a href="#cost">Cost and where to go</a></li>
+      <li><a href="#faq">Common questions</a></li>
+    </ol>
+  </nav>
+
+  <article>
+    <section class="sec" id="what">
+      <h2>What is a BCR1?</h2>
+      <p>The BCR1 is England Boxing's medical record for amateur boxers. A doctor on England Boxing's register checks you're fit to box and records the result, either <strong>fit to box</strong> or <strong>not fit to box</strong>, on your England Boxing profile.</p>
+      <ul>
+        <li>Every amateur boxer who wants to <strong>spar or compete</strong> needs one.</li>
+        <li>It must be <strong>renewed every 12 months</strong> to stay fit to box.</li>
+        <li>It covers England Boxing only. Boxers in Scotland and Wales, professional boxers and MMA fighters have different medical rules.</li>
+      </ul>
+    </section>
+
+    <section class="sec" id="before">
+      <h2>Before you book</h2>
+      <p>A doctor can only add your BCR1 to your profile once these are done:</p>
+      <ol class="steps">
+        <li><span><strong>Join an England Boxing club.</strong> To spar or compete you need a full club with a Level 2 qualified head coach.</span></li>
+        <li><span><strong>Get your membership on The Locker</strong>, England Boxing's member system. It's £15 a year for an amateur boxer. <a href="https://englandboxing.sport80.com/" target="_blank" rel="noopener">Go to The Locker</a></span></li>
+        <li><span><strong>Verify your age</strong> by uploading your ID on The Locker.</span></li>
+        <li><span><strong>Submit the pregnancy indemnity form</strong> on The Locker, if it applies to you.</span></li>
+      </ol>
+      <div class="note">Book well before a show. Your medical can't be done on fight day, and sign-off usually takes several working days.</div>
+    </section>
+
+    <section class="sec" id="day">
+      <h2>What happens at the medical</h2>
+      <p>The doctor goes through:</p>
+      <ul>
+        <li><strong>Your history:</strong> boxing and other combat sports (kickboxing, Muay Thai, jiu-jitsu and so on), knockouts, concussions, head injuries, fractures and operations.</li>
+        <li><strong>Measurements:</strong> height, weight and blood pressure.</li>
+        <li><strong>A urine dipstick test.</strong></li>
+        <li><strong>An examination:</strong> heart, nervous system, muscles and joints, teeth and eyes.</li>
+      </ul>
+      <p><strong>Bring:</strong> photo ID, your glasses or contact lenses if you wear them, a list of any medication and past injuries, and a urine sample if the clinic asks for one.</p>
+    </section>
+
+    <section class="sec" id="after">
+      <h2>After the medical</h2>
+      <ol class="steps">
+        <li><span>The doctor marks you <strong>fit to box</strong> or <strong>not fit to box</strong> and signs off your digital BCR1.</span></li>
+        <li><span>It goes to your <strong>regional medical registrar</strong>, who registers it. This often takes <strong>several working days</strong>.</span></li>
+        <li><span>Once approved, you're cleared to spar and compete for the next 12 months.</span></li>
+      </ol>
+      <div class="note">First time boxing with England Boxing? New boxers have a <strong>30-day pending period</strong> on their BCR1 and need recorded sparring before their competitive debut.</div>
+    </section>
+
+    <section class="sec" id="issues">
+      <h2>If something comes up</h2>
+      <p>The most common finding is a <strong>heart murmur</strong>. The doctor will refer you back to your own GP for an ECG, an echocardiogram (heart scan) and a cardiologist's opinion. Your BCR1 stays unsigned until those results come back, which can take weeks or months.</p>
+      <p>England Boxing's guidance says these stop you being passed fit to box:</p>
+      <ul>
+        <li>Epilepsy, even if controlled with medication</li>
+        <li>A previous stroke or bleed on the brain</li>
+        <li>A detached retina</li>
+        <li>A hernia that hasn't been successfully treated</li>
+        <li>A fracture in the last 12 weeks, or wearing a cast</li>
+      </ul>
+      <p>If you're unsure whether something affects you, mention it when you book and we'll check with the doctor first.</p>
+    </section>
+
+    <section class="sec" id="cost">
+      <h2>Cost and where to go</h2>
+      <div class="tbl">
+        <table>
+          <thead><tr><th>Option</th><th>Typical cost</th><th>Good to know</th></tr></thead>
+          <tbody>
+            <tr><td>Private clinic with an England Boxing-registered doctor</td><td>£40–£95</td><td>Book quickly, often evenings and weekends.</td></tr>
+            <tr><td>Your own GP</td><td>Often £150–£200</td><td>Only if they're willing. It counts as private work, so GPs set their own fee and can take weeks.</td></tr>
+            <tr><td>A doctor at your club</td><td>Varies</td><td>Some clubs arrange doctors for group medicals. <a href="clubs.html">We can arrange this for your club</a>.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="callout"><span><strong>Ready to book?</strong> Get the Easy BCR1 for £50 at a trusted clinic near you.</span><a class="btn" href="#easy">Find my next appointment</a></div>
+    </section>
+
+    <section class="sec" id="faq">
+      <h2>Common questions</h2>
+      <details><summary>Can my own GP do my BCR1?</summary><p>Yes, if they're willing. It's private work rather than NHS work, so they can charge their own fee or decline.</p></details>
+      <details><summary>Do I need a new medical every year?</summary><p>Yes. Your BCR1 needs renewing every 12 months to stay fit to box. A renewal (re-medical) is often quicker, and some clinics charge less for it.</p></details>
+      <details><summary>Can I have my medical on the day of a show?</summary><p>No. England Boxing doesn't allow the medical on competition day, and sign-off takes several working days, so book well ahead.</p></details>
+      <details><summary>Do I need blood tests or a brain scan?</summary><p>Not for a standard amateur BCR1. Blood tests, brain scans and eye specialist checks are for professional boxing and some MMA licences.</p></details>
+      <details><summary>I've done other combat sports. Does that matter?</summary><p>Yes, tell the doctor. England Boxing asks about previous experience in kickboxing, Muay Thai, jiu-jitsu and similar sports.</p></details>
+      <details><summary>What if I'm not passed fit to box?</summary><p>The doctor will explain why and what to do next. Often that means further tests through your GP, then a re-check once you're cleared.</p></details>
+    </section>
+
+    <p class="sources">Based on England Boxing's <a href="https://www.englandboxing.org/wp-content/uploads/2023/09/Phase-One-Screening-Safeguarding-and-the-BCR1-Medical.pdf" target="_blank" rel="noopener">BCR1 medical guidelines</a>, <a href="https://www.englandboxing.org/doctors/" target="_blank" rel="noopener">doctors page</a> and <a href="https://www.englandboxing.org/news_articles/membership-updates-reminders-in-advance-of-the-2026-27-season/" target="_blank" rel="noopener">2026–27 membership update</a>. This guide is general information, not medical advice. England Boxing's rules can change, so check their site if in doubt.</p>
+  </article>
+</div>
+
+<footer>
+  <div class="wrap"><img class="foot-logo" src="images/logo-white.svg" alt="Boxing Medicals" width="161" height="26"><a href="index.html#payments" style="color:#fff;font-weight:600">How payment works</a><br>Questions? Call or WhatsApp Boxing Medicals UK on <a href="tel:07466876541" style="color:#fff;font-weight:600">07466 876541</a>.<br>Independent service, not affiliated with England Boxing.<div class="foot-legal">© 2026 Boxing Medicals. All rights reserved. · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Booking terms</a></div></div>
+</footer>
+<script src="data.js"></script>
+<script>
+(function(){
+  var $=function(id){return document.getElementById(id)};
+  var ORIGIN=null, ORIGIN_TXT='', RADIUS=10, current=null;
+  var NOW=(function(){var d=new Date(),p=function(n){return ('0'+n).slice(-2)};return d.getFullYear()+'-'+p(d.getMonth()+1)+'-'+p(d.getDate())+'T'+p(d.getHours())+':'+p(d.getMinutes())})();
+  var easy=CLINICS.filter(function(c){return EASY_CLINICS.indexOf(c.id)!==-1&&COORDS[c.id]});
+  function name(c){return c.business+' '+c.branch}
+  function mi(d){return d<1?'Under 1 mile':Math.round(d)+(Math.round(d)===1?' mile':' miles')}
+  function show(step){$('find-form').hidden=step!=='find';$('results').hidden=step!=='find'||!ORIGIN;$('book-form').hidden=step!=='book';$('sent').hidden=step!=='sent'}
+
+  function search(){
+    var within=easy.map(function(c){return {c:c,d:miles(ORIGIN,COORDS[c.id])}}).filter(function(x){return x.d<=RADIUS});
+    var slots=[];
+    within.forEach(function(x){x.c.days.forEach(function(day){day.times.forEach(function(t){if(day.iso+'T'+t>NOW)slots.push({c:x.c,d:x.d,iso:day.iso,label:day.label,time:t})})})});
+    slots.sort(function(a,b){var ka=a.iso+a.time,kb=b.iso+b.time;return ka<kb?-1:ka>kb?1:a.d-b.d});
+    var req=within.filter(function(x){return !x.c.days.length}).sort(function(a,b){return a.d-b.d});
+    return {within:within,slots:slots,req:req};
+  }
+  function render(){
+    var r=search(), h='<div class="res">';
+    if(!r.within.length){
+      var near=easy.map(function(c){return {c:c,d:miles(ORIGIN,COORDS[c.id])}}).sort(function(a,b){return a.d-b.d})[0];
+      h+='<div class="none"><span>No Easy BCR1 clinics within <b>'+RADIUS+' miles</b> of '+esc(ORIGIN_TXT)+' yet.</span>';
+      h+='<span>The nearest is <b>'+esc(name(near.c))+'</b>, '+mi(near.d)+' away.</span>';
+      h+=(RADIUS<25?'<button type="button" class="btn" data-widen>Search within 25 miles</button>':'<a class="btn" href="https://wa.me/'+WHATSAPP_NUMBER+'?text='+encodeURIComponent('Hi Boxing Medicals UK, I need a BCR1 medical near '+ORIGIN_TXT+'. Can you help?')+'" target="_blank" rel="noopener">Ask us on WhatsApp</a>');
+      h+='</div></div>';$('results').innerHTML=h;show('find');return;
+    }
+    h+='<p class="res-head"><b>'+r.within.length+(r.within.length===1?' trusted clinic':' trusted clinics')+'</b> within '+RADIUS+' miles of '+esc(ORIGIN_TXT)+'</p>';
+    var shown=0;
+    if(r.slots.length){
+      var s=r.slots[0];
+      h+='<div class="next"><span class="tag">Next available</span><span class="when">'+esc(s.label)+', '+s.time+'</span><span class="where">'+esc(name(s.c))+' · '+mi(s.d)+' away</span><button type="button" class="btn wide" data-slot="0">Book this for £50</button></div>';
+      var alts=[],seen={};seen[s.c.id+s.iso]=1;
+      for(var i=1;i<r.slots.length&&alts.length<4;i++){var k=r.slots[i].c.id+r.slots[i].iso;if(!seen[k]){seen[k]=1;alts.push(i)}}
+      if(alts.length){h+='<p class="alt-title">Other times</p><ul class="alts">'+alts.map(function(i){var x=r.slots[i];return '<li><button type="button" class="alt" data-slot="'+i+'"><b>'+esc(x.label)+', '+x.time+'</b><span>'+esc(name(x.c))+' · '+mi(x.d)+'</span><i>Book</i></button></li>'}).join('')+'</ul>'}
+      shown=1;
+    }
+    if(r.req.length){
+      h+='<p class="alt-title">'+(shown?'Also nearby, book by request':'These clinics book by request')+'</p><ul class="alts">'+r.req.map(function(x,i){return '<li><button type="button" class="alt" data-req="'+x.c.id+'"><b>'+esc(name(x.c))+'</b><span>'+mi(x.d)+' · we ask the clinic for a time</span><i>Request</i></button></li>'}).join('')+'</ul>';
+    }
+    if(!r.slots.length&&!r.req.length)h+='<div class="none">No free times within '+RADIUS+' miles in the next few weeks. Try a wider distance.</div>';
+    h+='<p class="fine">Times are checked with each clinic\'s booking system 4 times a day. If a slot has gone by the time we book it, we offer the next time or refund you in full.</p></div>';
+    $('results').innerHTML=h;$('results')._slots=r.slots;show('find');
+  }
+
+  document.querySelectorAll('input[name=radius]').forEach(function(el){el.addEventListener('change',function(){RADIUS=+el.value;if(ORIGIN)render()})});
+  $('find-form').addEventListener('submit',function(e){
+    e.preventDefault();var raw=$('e-pc').value.trim();if(!raw)return;
+    var btn=$('find-btn');btn.disabled=true;btn.textContent='Finding clinics…';
+    geocode(raw).then(function(ll){
+      btn.disabled=false;btn.textContent='Find my next appointment';
+      if(!ll){$('find-note').textContent='We couldn\'t find "'+raw+'". Try a full postcode, like B16 0QJ.';ORIGIN=null;show('find');return}
+      ORIGIN=ll;ORIGIN_TXT=raw.length<=8?raw.toUpperCase():raw;
+      $('find-note').textContent='Trusted clinics in Greater Manchester, the West Midlands and south-west London.';
+      render();
+    });
+  });
+  $('results').addEventListener('click',function(e){
+    if(e.target.closest('[data-widen]')){RADIUS=25;document.querySelector('input[name=radius][value="25"]').checked=true;render();return}
+    var b=e.target.closest('[data-slot],[data-req]');if(!b)return;
+    if(b.dataset.slot!=null){var s=$('results')._slots[+b.dataset.slot];current={c:s.c,d:s.d,live:true,when:s.label+', '+s.time}}
+    else{var c=easy.filter(function(x){return x.id===b.dataset.req})[0];current={c:c,d:miles(ORIGIN,COORDS[c.id]),live:false}}
+    $('b-summary').innerHTML='<b>Easy BCR1 · £50</b><span>'+esc(name(current.c))+' · '+mi(current.d)+' away</span><span>'+esc(current.c.address)+'</span>'+(current.live?'<span><b>'+esc(current.when)+'</b></span>':'<span>We\'ll ask the clinic for your preferred time.</span>');
+    $('req-fields').hidden=current.live;
+    $('pay-note').textContent=current.live?'WhatsApp opens with your booking written out. Press send, then pay the £50 by bank transfer straight away.':'Don\'t pay yet. WhatsApp opens with your request written out. Press send, and once the clinic confirms a time we\'ll send you a payment link.';
+    if(!current.live){$('b-day').innerHTML=current.c.reqDays.map(function(o){return '<option>'+esc(o)+'</option>'}).join('')}
+    show('book');$('b-name').focus();
+  });
+  $('back').addEventListener('click',function(){show('find')});
+  $('again').addEventListener('click',function(){$('book-form').reset();show('find')});
+  $('book-form').addEventListener('submit',function(e){
+    e.preventDefault();var c=current.c,v=function(id){return $(id).value.trim()},ref=newRef();
+    var msg=['*EASY BCR1 BOOKING · £50*','','Ref: '+ref,
+      'Clinic: '+name(c),
+      'Date & Time: '+(current.live?current.when:v('b-day')+', '+v('b-part')+' (requested)'),
+      'Distance: '+mi(current.d)+' from '+ORIGIN_TXT,
+      'Payment: '+(current.live?'Paying now by bank transfer':'Will pay once the time is confirmed'),'',
+      'Name: '+v('b-name'),'Mobile: '+v('b-mobile'),'D.O.B: '+v('b-dob').split('-').reverse().join('/'),'Email: '+v('b-email'),
+      'Locker membership done: Yes'].join('\n');
+    var url='https://wa.me/'+WHATSAPP_NUMBER+'?text='+encodeURIComponent(msg);
+    $('reopen').href=url;window.__lastWa=url;if(!window.__viaLink)window.open(url,'_blank','noopener');
+    $('pay-now').innerHTML=current.live?payPanel(50,ref,'Easy BCR1 at '+name(c)+', '+current.when):'<p>Your reference is <b>'+ref+'</b>. Don\'t pay yet: once the clinic confirms a time, we\'ll send you a payment link on WhatsApp.</p>';
+    show('sent');
+  });
+
+  // The send button is a real link, so WhatsApp opens even where pop-ups are blocked.
+  document.getElementById('send-wa').addEventListener('click',function(e){
+    window.__lastWa=null;window.__viaLink=true;
+    try{document.getElementById('book-form').requestSubmit()}catch(x){}
+    window.__viaLink=false;
+    if(!window.__lastWa){e.preventDefault();return}
+    this.href=window.__lastWa;
+  });
+  loadAvailability(function(){ if(ORIGIN && !$('results').hidden) render(); });
+})();
+
+// "Find my next appointment" in the hero: jump to the postcode box (or search straight away if it's filled in).
+document.getElementById('hero-find').addEventListener('click',function(e){
+  e.preventDefault();
+  var pc=document.getElementById('e-pc');
+  if(pc.value.trim()&&!document.getElementById('find-form').hidden){document.getElementById('find-btn').click();}
+  var f=pc.closest('.finder'),r=f.getBoundingClientRect();
+  if(r.top<0||r.top>window.innerHeight*0.4) f.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
+  setTimeout(function(){pc.focus({preventScroll:true})},350);
+});
+</script>
+</body>
+</html>
