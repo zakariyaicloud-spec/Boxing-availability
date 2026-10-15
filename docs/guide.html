@@ -258,7 +258,7 @@
           </div>
         </fieldset>
         <button class="btn wide" type="submit" id="find-btn">Find my next appointment</button>
-        <p class="fine" id="find-note">Trusted clinics in Greater Manchester, the West Midlands and south-west London.</p>
+        <p class="fine" id="find-note">Trusted clinics across the West Midlands, Greater Manchester, Lancashire, West Yorkshire and London.</p>
       </form>
       <div id="results" hidden></div>
 
@@ -484,7 +484,7 @@
       btn.disabled=false;btn.textContent='Find my next appointment';
       if(!ll){$('find-note').textContent='We couldn\'t find "'+raw+'". Try a full postcode, like B16 0QJ.';ORIGIN=null;show('find');return}
       ORIGIN=ll;ORIGIN_TXT=raw.length<=8?raw.toUpperCase():raw;
-      $('find-note').textContent='Trusted clinics in Greater Manchester, the West Midlands and south-west London.';
+      $('find-note').textContent='Trusted clinics across the West Midlands, Greater Manchester, Lancashire, West Yorkshire and London.';
       render();
     });
   });
