@@ -131,9 +131,8 @@ var COORDS={"jh-burnley":[53.80158,-2.23632],"jh-dewsbury":[53.67715,-1.67414],"
 var EASY_PRICE = 50;
 // Trusted clinics for the £50 Easy BCR1: any listed clinic that charges less than £50.
 // Clinics we haven't confirmed yet are left out here. Remove an id from this list once it's confirmed.
-// Easy BCR1 partners: every clinic run by these companies.
-var EASY_PARTNERS = ['Dr4D4 Medical','Simply Medicals','Just Health'];
-var EASY_CLINICS = CLINICS.filter(function(c){return EASY_PARTNERS.indexOf(c.business)!==-1}).map(function(c){return c.id});
+var EASY_EXCLUDE = ['sm-garretts','sm-wbrom','sm-willenhall'];
+var EASY_CLINICS = CLINICS.filter(function(c){return c.price!=null && c.price<EASY_PRICE && EASY_EXCLUDE.indexOf(c.id)===-1}).map(function(c){return c.id});
 
 // Your WhatsApp number in international format: 44 then your mobile without the first 0, no spaces or +
 var WHATSAPP_NUMBER = '447466876541';
