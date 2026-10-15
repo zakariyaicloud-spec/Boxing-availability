@@ -8,14 +8,16 @@
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <meta name="theme-color" content="#B4232C">
 <meta property="og:site_name" content="Boxing Medicals">
-<meta property="og:title" content="Boxing Medicals UK · Book your England Boxing medical">
-<meta property="og:description" content="Compare England Boxing-registered doctors for your BCR1 medical and book a time.">
+<meta property="og:title" content="Boxing Medicals · Book your England Boxing BCR1 medical near you">
+<meta property="og:description" content="Compare England Boxing-registered doctors for your BCR1 boxing medical. See live times and prices at clinics in Birmingham, Manchester, London and more, and book on WhatsApp.">
 <meta property="og:image" content="https://boxingmedicals.co.uk/images/share-image.png">
+<link rel="canonical" href="https://boxingmedicals.co.uk/">
+<meta property="og:url" content="https://boxingmedicals.co.uk/">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 
-<title>Boxing Medicals UK · Book your England Boxing medical</title>
-<meta name="description" content="Compare England Boxing-registered doctors for your BCR1 medical and book a time.">
+<title>Boxing Medicals · Book your England Boxing BCR1 medical near you</title>
+<meta name="description" content="Compare England Boxing-registered doctors for your BCR1 boxing medical. See live times and prices at clinics in Birmingham, Manchester, London and more, and book on WhatsApp.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -127,6 +129,8 @@
   /* BETA badge next to the logo */
   .beta{display:inline-flex;align-items:center;font-family:'Figtree',system-ui,sans-serif;font-size:11px;font-weight:800;letter-spacing:.1em;color:#A11F28;background:#FBE9EA;border:1px solid #F2C9CC;border-radius:999px;padding:2px 8px;line-height:1.4}
 </style>
+<script type="application/ld+json">{"@type": "Organization", "@id": "https://boxingmedicals.co.uk/#org", "name": "Boxing Medicals", "url": "https://boxingmedicals.co.uk/", "logo": "https://boxingmedicals.co.uk/images/apple-touch-icon.png", "telephone": "+447466876541", "areaServed": "England", "contactPoint": {"@type": "ContactPoint", "telephone": "+447466876541", "contactType": "customer service", "availableLanguage": "English"}, "@context": "https://schema.org"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Boxing Medicals", "url": "https://boxingmedicals.co.uk/"}</script>
 </head>
 <body>
 <header class="top">
@@ -212,7 +216,7 @@
 </section>
 
 <footer>
-  <div class="wrap"><img class="foot-logo" src="images/logo-white.svg" alt="Boxing Medicals" width="161" height="26"><a href="#payments" style="color:#fff;font-weight:600">How payment works</a><br>Questions? Call or WhatsApp Boxing Medicals UK on <a href="tel:07466876541" style="color:#fff;font-weight:600">07466 876541</a>.<br>Independent comparison site, not affiliated with England Boxing. Prices are taken from each clinic's website and may change.<div class="foot-legal">© 2026 Boxing Medicals. All rights reserved. · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Booking terms</a></div></div>
+  <div class="wrap"><img class="foot-logo" src="images/logo-white.svg" alt="Boxing Medicals" width="161" height="26"><a href="#payments" style="color:#fff;font-weight:600">How payment works</a><br>Questions? Call or WhatsApp Boxing Medicals on <a href="tel:07466876541" style="color:#fff;font-weight:600">07466 876541</a>.<br>Independent comparison site, not affiliated with England Boxing. Prices are taken from each clinic's website and may change.<div class="foot-guides" style="margin:10px 0 0;line-height:1.9">Guides: <a href="bcr1-medical-cost.html" style="color:#fff">BCR1 price guide</a> · <a href="boxing-medical-birmingham.html" style="color:#fff">Birmingham</a> · <a href="boxing-medical-manchester.html" style="color:#fff">Manchester</a> · <a href="boxing-medical-london.html" style="color:#fff">London</a></div><div class="foot-legal">© 2026 Boxing Medicals. All rights reserved. · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Booking terms</a></div></div>
 </footer>
 
 <!-- Booking form: opens WhatsApp with the request written out -->
@@ -382,6 +386,7 @@ document.getElementById('send-wa').addEventListener('click',function(e){
 document.getElementById('loc').addEventListener('input',function(e){clearTimeout(lookupTimer);var v=e.target.value;lookupTimer=setTimeout(function(){lookup(v)},450)});
 document.getElementById('sort').addEventListener('change',render);
 render();
+(function(){var n=new URLSearchParams(location.search).get('near');if(n){var l=document.getElementById('loc');l.value=n;lookup(n);}})();
 loadAvailability(function(){var y=window.scrollY;render();window.scrollTo(0,y)});
 </script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "20f04163f2f14c10986329f5dfd53ce9"}'></script><!-- End Cloudflare Web Analytics -->

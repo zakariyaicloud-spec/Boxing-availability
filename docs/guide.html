@@ -8,14 +8,16 @@
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <meta name="theme-color" content="#B4232C">
 <meta property="og:site_name" content="Boxing Medicals">
-<meta property="og:title" content="Easy BCR1 · Boxing Medicals UK">
-<meta property="og:description" content="Your England Boxing BCR1 medical for £50 at a trusted clinic near you. Find the next free appointment within your chosen distance, plus everything you need to know about the BCR1.">
+<meta property="og:title" content="Easy BCR1 · £50 England Boxing medical near you · Boxing Medicals">
+<meta property="og:description" content="Your England Boxing BCR1 medical for £50 at a trusted clinic near you. Find the next free appointment, plus everything you need to know: what happens, what to bring and how long sign-off takes.">
 <meta property="og:image" content="https://boxingmedicals.co.uk/images/share-image.png">
+<link rel="canonical" href="https://boxingmedicals.co.uk/guide.html">
+<meta property="og:url" content="https://boxingmedicals.co.uk/guide.html">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 
-<title>Easy BCR1 · Boxing Medicals UK</title>
-<meta name="description" content="Your England Boxing BCR1 medical for £50 at a trusted clinic near you. Find the next free appointment within your chosen distance, plus everything you need to know about the BCR1.">
+<title>Easy BCR1 · £50 England Boxing medical near you · Boxing Medicals</title>
+<meta name="description" content="Your England Boxing BCR1 medical for £50 at a trusted clinic near you. Find the next free appointment, plus everything you need to know: what happens, what to bring and how long sign-off takes.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -197,6 +199,8 @@
   .hero-cta span{color:#D6D9DE;font-size:15px}
   @media (max-width:480px){.hero-cta .btn{width:100%}}
 </style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Easy BCR1", "serviceType": "England Boxing BCR1 medical", "description": "England Boxing BCR1 medical at a trusted clinic near you, booked for you.", "provider": {"@type": "Organization", "@id": "https://boxingmedicals.co.uk/#org", "name": "Boxing Medicals", "url": "https://boxingmedicals.co.uk/", "logo": "https://boxingmedicals.co.uk/images/apple-touch-icon.png", "telephone": "+447466876541", "areaServed": "England", "contactPoint": {"@type": "ContactPoint", "telephone": "+447466876541", "contactType": "customer service", "availableLanguage": "English"}}, "areaServed": "England", "offers": {"@type": "Offer", "price": "50.00", "priceCurrency": "GBP"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Can my own GP do my BCR1?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, if they're willing. It's private work rather than NHS work, so they can charge their own fee or decline."}}, {"@type": "Question", "name": "Do I need a new medical every year?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Your BCR1 needs renewing every 12 months to stay fit to box. A renewal (re-medical) is often quicker, and some clinics charge less for it."}}, {"@type": "Question", "name": "Can I have my medical on the day of a show?", "acceptedAnswer": {"@type": "Answer", "text": "No. England Boxing doesn't allow the medical on competition day, and sign-off takes several working days, so book well ahead."}}, {"@type": "Question", "name": "Do I need blood tests or a brain scan?", "acceptedAnswer": {"@type": "Answer", "text": "Not for a standard amateur BCR1. Blood tests, brain scans and eye specialist checks are for professional boxing and some MMA licences."}}, {"@type": "Question", "name": "I've done other combat sports. Does that matter?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, tell the doctor. England Boxing asks about previous experience in kickboxing, Muay Thai, jiu-jitsu and similar sports."}}, {"@type": "Question", "name": "What if I'm not passed fit to box?", "acceptedAnswer": {"@type": "Answer", "text": "The doctor will explain why and what to do next. Often that means further tests through your GP, then a re-check once you're cleared."}}]}</script>
 </head>
 <body>
 <header class="top">
@@ -424,7 +428,7 @@
 </div>
 
 <footer>
-  <div class="wrap"><img class="foot-logo" src="images/logo-white.svg" alt="Boxing Medicals" width="161" height="26"><a href="index.html#payments" style="color:#fff;font-weight:600">How payment works</a><br>Questions? Call or WhatsApp Boxing Medicals UK on <a href="tel:07466876541" style="color:#fff;font-weight:600">07466 876541</a>.<br>Independent service, not affiliated with England Boxing.<div class="foot-legal">© 2026 Boxing Medicals. All rights reserved. · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Booking terms</a></div></div>
+  <div class="wrap"><img class="foot-logo" src="images/logo-white.svg" alt="Boxing Medicals" width="161" height="26"><a href="index.html#payments" style="color:#fff;font-weight:600">How payment works</a><br>Questions? Call or WhatsApp Boxing Medicals on <a href="tel:07466876541" style="color:#fff;font-weight:600">07466 876541</a>.<br>Independent service, not affiliated with England Boxing.<div class="foot-guides" style="margin:10px 0 0;line-height:1.9">Guides: <a href="bcr1-medical-cost.html" style="color:#fff">BCR1 price guide</a> · <a href="boxing-medical-birmingham.html" style="color:#fff">Birmingham</a> · <a href="boxing-medical-manchester.html" style="color:#fff">Manchester</a> · <a href="boxing-medical-london.html" style="color:#fff">London</a></div><div class="foot-legal">© 2026 Boxing Medicals. All rights reserved. · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Booking terms</a></div></div>
 </footer>
 <script src="data.js"></script>
 <script>
@@ -521,6 +525,8 @@
     this.href=window.__lastWa;
   });
   loadAvailability(function(){ if(ORIGIN && !$('results').hidden) render(); });
+  var near=new URLSearchParams(location.search).get('near');
+  if(near){$('e-pc').value=near;$('find-btn').click();setTimeout(function(){var f=$('e-pc').closest('.finder');if(f)f.scrollIntoView({block:'start'})},300);}
 })();
 
 // "Find my next appointment" in the hero: jump to the postcode box (or search straight away if it's filled in).
