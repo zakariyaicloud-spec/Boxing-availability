@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-16T11:21:55.141Z",
+ "updated": "2026-10-16T16:21:50.987Z",
  "clinics": {
   "jh-burnley": {
-   "checked": "2026-10-16T11:21:55.141Z",
+   "checked": "2026-10-16T16:21:50.987Z",
    "days": {
     "2026-10-17": [
      "08:00",
@@ -105,7 +105,7 @@
    }
   },
   "jh-dewsbury": {
-   "checked": "2026-10-16T11:21:55.141Z",
+   "checked": "2026-10-16T16:21:50.987Z",
    "days": {
     "2026-10-17": [
      "07:55",
@@ -190,7 +190,7 @@
    }
   },
   "jh-edgbaston": {
-   "checked": "2026-10-16T11:21:55.141Z",
+   "checked": "2026-10-16T16:21:50.987Z",
    "days": {
     "2026-10-16": [
      "18:40",
@@ -379,7 +379,8 @@
      "15:30",
      "15:45"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "d4-chorlton": {
    "checked": "2026-10-16T11:21:55.141Z",
@@ -429,7 +430,8 @@
      "11:30",
      "11:45"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "d4-levenshulme": {
    "checked": "2026-10-16T11:21:55.141Z",
@@ -471,7 +473,8 @@
      "11:30",
      "11:45"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "d4-shaw": {
    "checked": "2026-10-16T11:21:55.141Z",
@@ -523,7 +526,8 @@
      "20:00",
      "20:15"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "d4-rochdale": {
    "checked": "2026-10-16T11:21:55.141Z",
@@ -626,7 +630,8 @@
      "12:00",
      "12:15"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "d4-rusholme": {
    "checked": "2026-10-16T11:21:55.141Z",
@@ -664,7 +669,8 @@
      "11:45",
      "12:00"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "d4-victoria": {
    "checked": "2026-10-16T11:21:55.141Z",
@@ -707,10 +713,11 @@
      "11:30",
      "11:45"
     ]
-   }
+   },
+   "lastError": "page.evaluate: SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   },
   "sm-oldbury": {
-   "checked": "2026-10-16T11:21:55.141Z",
+   "checked": "2026-10-16T16:21:50.987Z",
    "days": {
     "2026-10-22": [
      "14:50"
@@ -727,7 +734,7 @@
    }
   },
   "sm-droitwich": {
-   "checked": "2026-10-16T11:21:55.141Z",
+   "checked": "2026-10-16T16:21:50.987Z",
    "days": {
     "2026-10-17": [
      "07:40"
@@ -759,19 +766,9 @@
    }
   },
   "hm-mayfair": {
-   "checked": "2026-10-16T11:21:55.141Z",
+   "checked": "2026-10-16T16:21:50.987Z",
    "days": {
     "2026-10-16": [
-     "12:30",
-     "13:00",
-     "13:30",
-     "14:00",
-     "14:30",
-     "15:00",
-     "15:30",
-     "16:00",
-     "16:30",
-     "17:00",
      "17:30",
      "18:00",
      "18:30",
