@@ -1,14 +1,14 @@
-Run at 2026-10-16T16:21:50.987Z
+Run at 2026-10-16T20:16:31.171Z
 OK    jh-burnley: 10 days, 78 times
 OK    jh-dewsbury: 12 days, 56 times
-OK    jh-edgbaston: 25 days, 87 times
-FAIL  d4-radcliffe: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
-FAIL  d4-chorlton: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
-FAIL  d4-levenshulme: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
-FAIL  d4-shaw: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
-FAIL  d4-rochdale: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
-FAIL  d4-rusholme: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
-FAIL  d4-victoria: page.evaluate: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+OK    jh-edgbaston: 24 days, 84 times
+OK    d4-radcliffe: 5 days, 35 times
+OK    d4-chorlton: 5 days, 43 times
+OK    d4-levenshulme: 4 days, 29 times
+OK    d4-shaw: 4 days, 30 times
+OK    d4-rochdale: 9 days, 80 times
+OK    d4-rusholme: 3 days, 18 times
+OK    d4-victoria: 4 days, 30 times
 OK    sm-oldbury: 4 days, 4 times
 OK    sm-droitwich: 9 days, 9 times
-OK    hm-mayfair: 19 days, 551 times
+OK    hm-mayfair: 19 days, 543 times
