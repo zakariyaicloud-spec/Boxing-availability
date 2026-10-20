@@ -1,4 +1,4 @@
-Run at 2026-10-20T11:23:06.643Z
+Run at 2026-10-20T16:25:40.884Z
 OK    jh-burnley: 10 days, 78 times
 OK    jh-dewsbury: 13 days, 62 times
 OK    jh-edgbaston: 24 days, 84 times
@@ -7,8 +7,8 @@ OK    d4-chorlton: 4 days, 40 times
 OK    d4-levenshulme: 4 days, 31 times
 OK    d4-shaw: 5 days, 37 times
 OK    d4-rochdale: 9 days, 72 times
-OK    d4-rusholme: 4 days, 25 times
-OK    d4-victoria: 5 days, 38 times
+OK    d4-rusholme: 4 days, 24 times
+OK    d4-victoria: 5 days, 37 times
 OK    sm-oldbury: 5 days, 5 times
 OK    sm-droitwich: 8 days, 8 times
 OK    hm-mayfair: 16 days, 479 times
