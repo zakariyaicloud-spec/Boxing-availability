@@ -14,20 +14,6 @@ var D4_FACTS=['Doctors affiliated with England Boxing (amateur and pro)','Eye an
 var D4_CONFIRM=['Their page says from £30, but online booking only offers a "Professional Boxing Medical" at £45','Whether an amateur BCR1 can be booked, and at what price','Their page lists HIV and hepatitis bloods as mandatory, which is a pro requirement. Check it\'s not added to an amateur BCR1'];
 var D4_CANCEL='£10 deposit is non-refundable, but can move to a new date with 24+ hours\' notice. Late cancellations and no-shows lose the deposit.';
 var CLINICS=[
- {id:"d4-radcliffe",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Bury (Radcliffe)",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Whitefield and Radcliffe Holistic Centre, 92 Stand Lane, Radcliffe M26 1JU",facts:D4_FACTS,confirm:D4_CONFIRM,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Dr4D4 doesn't show boxing times publicly, so pick a day and we'll book it for you.",towns:[],pcs:[]},
- {id:"d4-chorlton",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Chorlton, Manchester",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Clear Medical Skin, 591 Wilbraham Road, Chorlton, Manchester M21 9AF",facts:D4_FACTS,confirm:D4_CONFIRM,weekendOnly:true,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Chorlton only runs boxing medicals at weekends, so pick a Saturday or Sunday and we'll book it for you.",towns:[],pcs:[]},
- {id:"d4-levenshulme",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Levenshulme, Manchester",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Levenshulme Medical Practice, Dunstable Street, Levenshulme, Manchester M19 3BX",facts:D4_FACTS,confirm:D4_CONFIRM,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Dr4D4 doesn't show boxing times publicly, so pick a day and we'll book it for you.",towns:[],pcs:[]},
- {id:"d4-shaw",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Oldham (Shaw)",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Shaw Therapy Centre, 84 Beal Lane, Shaw, Oldham OL2 8PH",facts:D4_FACTS,confirm:D4_CONFIRM,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Dr4D4 doesn't show boxing times publicly, so pick a day and we'll book it for you.",towns:[],pcs:[]},
- {id:"d4-rochdale",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Rochdale",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Rochdale Therapy Centre, Room 5, 217 Bury Road, Rochdale OL11 4EE",facts:D4_FACTS,confirm:D4_CONFIRM,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Dr4D4 doesn't show boxing times publicly, so pick a day and we'll book it for you.",towns:[],pcs:[]},
- {id:"d4-rusholme",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Rusholme, Manchester",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Rusholme Health Centre, Walmer Street, Manchester M14 5NP",facts:D4_FACTS,confirm:D4_CONFIRM,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Dr4D4 doesn't show boxing times publicly, so pick a day and we'll book it for you.",towns:[],pcs:[]},
- {id:"d4-victoria",g:undefined,cancel:D4_CANCEL,business:'Dr4D4 Medical',branch:"Victoria Mill, Manchester",price:45,priceLabel:'£45',phone:'0161 706 2555',address:"Victoria Mill Health Centre, Vickers Street, Manchester M40 7LH",facts:D4_FACTS,confirm:D4_CONFIRM,
-  booking:'https://dr4d4.com/book-appointment/',source:'https://dr4d4.com/boxing-medical/',days:[],requestNote:"Dr4D4 doesn't show boxing times publicly, so pick a day and we'll book it for you.",towns:[],pcs:[]},
  {id:'jh-burnley',g:{r:'4.9',n:201},cancel:'Cancel before your appointment for a refund in most cases. Arrive 10 minutes early: missed or late appointments may be charged.',business:'Just Health',branch:'Burnley',price:50,priceLabel:'£50',phone:'01282 936900',address:'156 Colne Road, Burnley BB10 1DT',facts:JH_FACTS,confirm:[],
   booking:'https://booking.just-health.co.uk/book?ser=boxing-medical-england-boxing-bcr1&clinic=2',source:'https://just-health.co.uk/boxing-medical/',
   days:[{label:'Sat 3 Oct',iso:'2026-10-03',times:['08:00','08:10','08:20','19:30','19:40']},{label:'Sun 4 Oct',iso:'2026-10-04',times:range(420,510,10)},{label:'Wed 7 Oct',iso:'2026-10-07',times:range(570,630,10)}],
@@ -134,7 +120,7 @@ var EASY_PRICE = 50;
 // Trusted clinics for the £50 Easy BCR1: any listed clinic that charges less than £50.
 // Clinics we haven't confirmed yet are left out here. Remove an id from this list once it's confirmed.
 var EASY_EXCLUDE = ['sm-garretts','sm-wbrom','sm-willenhall'];
-var EASY_CLINICS = CLINICS.filter(function(c){return c.price!=null && c.price<EASY_PRICE && EASY_EXCLUDE.indexOf(c.id)===-1}).map(function(c){return c.id});
+var EASY_CLINICS = CLINICS.filter(function(c){return c.price!=null && c.price<=EASY_PRICE && EASY_EXCLUDE.indexOf(c.id)===-1}).map(function(c){return c.id});
 
 // Your WhatsApp number in international format: 44 then your mobile without the first 0, no spaces or +
 var WHATSAPP_NUMBER = '447466876541';

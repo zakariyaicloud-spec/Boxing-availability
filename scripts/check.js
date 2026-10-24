@@ -236,13 +236,15 @@ async function hanover(browser) {
   const browser = await chromium.launch();
   const ctx = await browser.newContext({ locale: 'en-GB', timezoneId: 'Europe/London', userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36' });
   const results = {};
-  for (const [name, fn] of [['Just Health', justHealth], ['Dr4D4', () => dr4d4(ctx)], ['Simply Medicals', () => simply(ctx)], ['Hanover', () => hanover(ctx)]]) {
+  for (const [name, fn] of [['Just Health', justHealth], ['Simply Medicals', () => simply(ctx)], ['Hanover', () => hanover(ctx)]]) {
     try { Object.assign(results, await fn()); } catch (e) { console.error(name, 'failed:', e); }
   }
   await browser.close();
 
   const stamp = new Date().toISOString();
   const clinics = { ...(prev.clinics || {}) };
+  // Dr4D4 no longer does boxing medicals: drop any old times for them.
+  Object.keys(clinics).forEach((k) => { if (k.startsWith('d4-')) delete clinics[k]; });
   const summary = [];
   for (const [id, r] of Object.entries(results)) {
     if (r.ok) {
