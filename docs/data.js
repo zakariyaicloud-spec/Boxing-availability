@@ -98,10 +98,12 @@ function nextWeekends(n){var o=[],d=new Date();d.setHours(12);while(o.length<n){
 function nowTime(){var d=new Date();return ('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2)}
 function checkedLabel(iso){var d=new Date(iso);return d.getDate()+' '+MON[d.getMonth()]+', '+('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2)}
 // Fill each clinic's days from the live file (or none), and set up "request a time" where there are none.
+// Clinics whose live times we don't show: boxers request a day instead.
+var LIVE_OFF=['Dr4D4 Medical'];
 function applyAvailability(live){
   var clinics=(live&&live.clinics)||{}, now=Date.now(), t=nowTime();
   CLINICS.forEach(function(c){
-    var a=clinics[c.id]; c.days=[]; c.checked=null;
+    var a=LIVE_OFF.indexOf(c.business)===-1?clinics[c.id]:null; c.days=[]; c.checked=null;
     if(a&&a.checked&&(now-new Date(a.checked).getTime())<STALE_HOURS*3600000){
       c.days=Object.keys(a.days||{}).sort().filter(function(iso){return iso>=TODAY}).map(function(iso){
         return {label:dayLabel(iso),iso:iso,times:a.days[iso].filter(function(tm){return iso>TODAY||tm>t})};
