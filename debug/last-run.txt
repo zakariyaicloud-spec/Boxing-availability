@@ -1,7 +1,7 @@
-Run at 2026-10-26T16:40:30.939Z
+Run at 2026-10-26T20:23:03.851Z
 OK    jh-burnley: 10 days, 78 times
 OK    jh-dewsbury: 12 days, 56 times
-OK    jh-edgbaston: 25 days, 87 times
+OK    jh-edgbaston: 24 days, 84 times
 OK    sm-oldbury: 4 days, 4 times
 OK    sm-droitwich: 8 days, 8 times
-OK    hm-mayfair: 17 days, 492 times
+OK    hm-mayfair: 17 days, 485 times
