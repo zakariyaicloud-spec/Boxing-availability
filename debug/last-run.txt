@@ -1,7 +1,7 @@
-Run at 2026-11-08T20:26:03.837Z
+Run at 2026-11-09T07:03:12.810Z
 OK    jh-burnley: 10 days, 78 times
 OK    jh-dewsbury: 12 days, 56 times
-OK    jh-edgbaston: 23 days, 81 times
+OK    jh-edgbaston: 24 days, 84 times
 OK    sm-oldbury: 3 days, 3 times
-FAIL  sm-droitwich: Time step did not load
-OK    hm-mayfair: 18 days, 515 times
+OK    sm-droitwich: 8 days, 8 times
+OK    hm-mayfair: 17 days, 510 times
